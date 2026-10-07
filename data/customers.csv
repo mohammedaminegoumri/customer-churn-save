@@ -1,0 +1,3201 @@
+customer_id,signup_month,segment,plan,channel,tenure_months,discount,support_tickets,revenue,churned
+U0001,2024-07-01,New,Plus,Paid,17,0.0,1,276.0,1
+U0002,2025-01-01,At risk,Basic,Referral,4,0.0,1,196.0,0
+U0003,2025-01-01,Loyal,Plus,Paid,20,0.2,0,604.8,0
+U0004,2024-09-01,Returning,Plus,Paid,17,0.0,1,468.0,0
+U0005,2024-12-01,New,Pro,Organic,7,0.0,1,414.0,0
+U0006,2024-11-01,New,Basic,Organic,11,0.0,2,174.0,1
+U0007,2025-03-01,New,Basic,Email,19,0.0,0,174.0,0
+U0008,2024-08-01,Returning,Basic,Paid,8,0.0,0,294.0,0
+U0009,2024-09-01,Returning,Plus,Organic,23,0.0,1,468.0,1
+U0010,2024-07-01,Loyal,Basic,Organic,17,0.0,1,474.0,0
+U0011,2025-06-01,New,Basic,Paid,10,0.2,0,139.2,0
+U0012,2024-07-01,Returning,Basic,Referral,3,0.0,0,147.0,0
+U0013,2025-03-01,Loyal,Plus,Paid,22,0.0,1,756.0,0
+U0014,2025-05-01,New,Plus,Paid,16,0.0,0,276.0,0
+U0015,2024-09-01,New,Basic,Email,23,0.0,0,174.0,0
+U0016,2024-07-01,Loyal,Plus,Organic,12,0.0,0,756.0,0
+U0017,2024-10-01,New,Plus,Paid,4,0.0,0,184.0,1
+U0018,2024-08-01,Returning,Pro,Paid,14,0.0,1,702.0,0
+U0019,2025-03-01,Loyal,Plus,Organic,23,0.0,0,756.0,0
+U0020,2025-04-01,Loyal,Plus,Referral,20,0.0,1,756.0,0
+U0021,2025-02-01,Returning,Basic,Paid,13,0.0,0,294.0,0
+U0022,2025-04-01,Returning,Basic,Referral,3,0.0,1,147.0,0
+U0023,2024-10-01,New,Basic,Email,15,0.0,0,174.0,1
+U0024,2025-05-01,Loyal,Plus,Referral,15,0.0,0,756.0,0
+U0025,2024-08-01,Returning,Basic,Referral,5,0.0,1,245.0,0
+U0026,2024-07-01,Loyal,Plus,Paid,7,0.0,2,756.0,0
+U0027,2024-11-01,At risk,Pro,Organic,20,0.0,4,702.0,0
+U0028,2024-08-01,Returning,Plus,Paid,3,0.0,1,234.0,1
+U0029,2024-07-01,New,Pro,Paid,10,0.3,0,289.8,1
+U0030,2025-01-01,Returning,Plus,Organic,21,0.0,0,468.0,0
+U0031,2025-03-01,Loyal,Basic,Paid,13,0.1,0,426.6,0
+U0032,2024-07-01,Returning,Basic,Paid,18,0.0,0,294.0,0
+U0033,2024-12-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U0034,2024-11-01,At risk,Plus,Paid,16,0.0,1,468.0,0
+U0035,2024-08-01,Loyal,Basic,Email,18,0.0,2,474.0,0
+U0036,2025-03-01,Returning,Basic,Organic,3,0.0,1,147.0,0
+U0037,2024-08-01,At risk,Plus,Organic,6,0.2,2,374.4,0
+U0038,2024-11-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U0039,2024-12-01,At risk,Plus,Email,20,0.0,2,468.0,0
+U0040,2025-03-01,New,Plus,Organic,7,0.0,0,276.0,0
+U0041,2025-01-01,New,Plus,Organic,17,0.1,0,248.4,0
+U0042,2024-09-01,New,Plus,Organic,1,0.0,0,46.0,0
+U0043,2024-11-01,Returning,Pro,Paid,5,0.0,1,585.0,0
+U0044,2025-01-01,Returning,Basic,Paid,18,0.0,2,294.0,0
+U0045,2025-03-01,Returning,Pro,Organic,22,0.2,2,561.6,1
+U0046,2024-12-01,New,Plus,Paid,2,0.0,1,92.0,0
+U0047,2025-03-01,New,Plus,Organic,6,0.0,0,276.0,0
+U0048,2024-07-01,New,Basic,Organic,11,0.1,0,156.6,0
+U0049,2024-10-01,New,Plus,Paid,4,0.0,0,184.0,0
+U0050,2024-10-01,New,Pro,Organic,12,0.0,2,414.0,0
+U0051,2024-09-01,Loyal,Plus,Referral,17,0.0,1,756.0,0
+U0052,2025-05-01,Loyal,Basic,Paid,20,0.0,1,474.0,0
+U0053,2025-03-01,Returning,Plus,Paid,17,0.2,1,374.4,0
+U0054,2024-08-01,At risk,Plus,Paid,4,0.0,3,312.0,0
+U0055,2025-01-01,Loyal,Pro,Organic,19,0.1,0,1020.6,0
+U0056,2025-01-01,Returning,Plus,Referral,7,0.0,0,468.0,0
+U0057,2024-10-01,At risk,Plus,Paid,23,0.0,5,468.0,0
+U0058,2025-03-01,Loyal,Plus,Paid,5,0.0,1,630.0,1
+U0059,2024-10-01,Loyal,Pro,Paid,19,0.0,3,1134.0,0
+U0060,2024-08-01,New,Basic,Paid,3,0.0,1,87.0,0
+U0061,2024-11-01,Returning,Plus,Referral,10,0.0,0,468.0,0
+U0062,2025-01-01,New,Basic,Paid,14,0.0,0,174.0,0
+U0063,2025-05-01,New,Basic,Organic,5,0.0,2,145.0,0
+U0064,2025-04-01,New,Plus,Paid,14,0.0,0,276.0,1
+U0065,2025-01-01,Returning,Pro,Email,20,0.0,1,702.0,0
+U0066,2025-02-01,Returning,Plus,Organic,1,0.0,1,78.0,0
+U0067,2025-01-01,At risk,Pro,Referral,4,0.1,2,421.2,0
+U0068,2025-03-01,Returning,Pro,Referral,22,0.0,1,702.0,0
+U0069,2024-10-01,Returning,Plus,Email,23,0.0,0,468.0,0
+U0070,2025-05-01,Returning,Basic,Paid,21,0.0,0,294.0,0
+U0071,2025-06-01,At risk,Basic,Organic,16,0.0,1,294.0,0
+U0072,2025-06-01,New,Plus,Organic,2,0.3,3,64.4,1
+U0073,2025-01-01,At risk,Basic,Paid,1,0.0,0,49.0,1
+U0074,2025-04-01,Returning,Pro,Referral,19,0.2,1,561.6,0
+U0075,2024-09-01,New,Plus,Organic,4,0.1,0,165.6,1
+U0076,2024-10-01,Returning,Basic,Paid,4,0.0,0,196.0,0
+U0077,2025-06-01,New,Plus,Paid,16,0.0,0,276.0,1
+U0078,2024-09-01,New,Basic,Organic,21,0.0,0,174.0,0
+U0079,2024-10-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U0080,2024-07-01,Loyal,Basic,Organic,23,0.0,0,474.0,0
+U0081,2025-01-01,New,Plus,Organic,19,0.0,1,276.0,1
+U0082,2025-06-01,Returning,Pro,Paid,7,0.0,1,702.0,1
+U0083,2024-08-01,Returning,Basic,Paid,8,0.0,2,294.0,0
+U0084,2025-05-01,Returning,Plus,Organic,7,0.0,1,468.0,0
+U0085,2025-01-01,New,Basic,Paid,18,0.0,0,174.0,0
+U0086,2024-08-01,Loyal,Basic,Paid,1,0.0,2,79.0,0
+U0087,2025-03-01,At risk,Basic,Organic,22,0.0,4,294.0,0
+U0088,2024-12-01,Returning,Basic,Organic,19,0.0,0,294.0,0
+U0089,2024-10-01,New,Basic,Email,23,0.0,0,174.0,0
+U0090,2025-02-01,Returning,Plus,Email,7,0.0,1,468.0,0
+U0091,2024-10-01,At risk,Basic,Paid,5,0.2,3,196.0,0
+U0092,2024-09-01,New,Plus,Email,1,0.0,0,46.0,0
+U0093,2025-04-01,Loyal,Basic,Organic,1,0.0,0,79.0,0
+U0094,2025-03-01,Returning,Pro,Organic,16,0.0,0,702.0,0
+U0095,2024-07-01,Returning,Basic,Organic,20,0.0,0,294.0,0
+U0096,2024-08-01,Returning,Pro,Paid,2,0.0,0,234.0,0
+U0097,2024-11-01,New,Basic,Organic,11,0.0,0,174.0,0
+U0098,2024-07-01,New,Plus,Organic,13,0.0,1,276.0,1
+U0099,2024-07-01,Loyal,Plus,Paid,4,0.0,0,504.0,0
+U0100,2025-06-01,Returning,Plus,Email,23,0.0,1,468.0,0
+U0101,2025-02-01,Loyal,Basic,Paid,20,0.0,0,474.0,0
+U0102,2024-08-01,New,Plus,Paid,17,0.0,0,276.0,0
+U0103,2024-12-01,New,Basic,Organic,19,0.0,1,174.0,0
+U0104,2024-10-01,New,Basic,Paid,6,0.0,1,174.0,0
+U0105,2024-10-01,New,Basic,Organic,16,0.0,0,174.0,0
+U0106,2025-01-01,New,Basic,Paid,8,0.0,1,174.0,0
+U0107,2024-12-01,At risk,Plus,Organic,3,0.0,1,234.0,0
+U0108,2024-11-01,New,Plus,Email,4,0.0,0,184.0,0
+U0109,2025-04-01,New,Basic,Organic,11,0.0,0,174.0,1
+U0110,2025-02-01,Loyal,Basic,Paid,22,0.0,0,474.0,0
+U0111,2025-06-01,Returning,Basic,Organic,5,0.0,0,245.0,0
+U0112,2025-05-01,At risk,Plus,Email,20,0.1,2,421.2,0
+U0113,2025-05-01,Loyal,Basic,Email,14,0.0,2,474.0,0
+U0114,2024-08-01,At risk,Plus,Email,17,0.0,3,468.0,0
+U0115,2024-10-01,At risk,Pro,Organic,12,0.0,0,702.0,1
+U0116,2024-09-01,Returning,Plus,Organic,2,0.0,0,156.0,0
+U0117,2025-04-01,New,Plus,Paid,9,0.0,1,276.0,0
+U0118,2025-02-01,New,Basic,Email,13,0.0,0,174.0,1
+U0119,2025-03-01,Returning,Basic,Referral,13,0.0,0,294.0,0
+U0120,2025-05-01,Returning,Plus,Organic,6,0.0,0,468.0,0
+U0121,2025-03-01,Returning,Basic,Paid,13,0.0,1,294.0,0
+U0122,2024-09-01,Returning,Plus,Email,1,0.0,1,78.0,0
+U0123,2025-01-01,At risk,Basic,Email,19,0.2,4,235.2,0
+U0124,2025-01-01,Returning,Basic,Paid,14,0.0,0,294.0,0
+U0125,2024-08-01,Returning,Plus,Email,13,0.0,0,468.0,1
+U0126,2024-10-01,New,Plus,Paid,23,0.0,1,276.0,0
+U0127,2025-05-01,New,Basic,Referral,14,0.0,1,174.0,0
+U0128,2024-08-01,Returning,Pro,Referral,12,0.0,3,702.0,0
+U0129,2025-01-01,New,Plus,Organic,15,0.1,0,248.4,0
+U0130,2025-02-01,At risk,Basic,Paid,21,0.3,2,205.8,1
+U0131,2024-11-01,New,Plus,Paid,5,0.0,1,230.0,0
+U0132,2024-07-01,Returning,Basic,Email,19,0.1,0,264.6,0
+U0133,2025-05-01,Returning,Basic,Paid,17,0.0,0,294.0,0
+U0134,2025-04-01,At risk,Basic,Paid,22,0.2,3,235.2,0
+U0135,2024-10-01,New,Basic,Organic,19,0.1,1,156.6,0
+U0136,2025-03-01,Loyal,Plus,Email,13,0.0,2,756.0,0
+U0137,2024-07-01,New,Plus,Referral,15,0.0,1,276.0,1
+U0138,2025-05-01,New,Basic,Paid,18,0.0,0,174.0,0
+U0139,2024-07-01,New,Basic,Organic,21,0.0,1,174.0,0
+U0140,2025-02-01,Loyal,Basic,Paid,10,0.0,0,474.0,0
+U0141,2024-08-01,New,Basic,Email,20,0.1,2,156.6,0
+U0142,2025-06-01,Returning,Plus,Paid,23,0.0,1,468.0,0
+U0143,2025-05-01,At risk,Plus,Organic,7,0.0,4,468.0,1
+U0144,2025-05-01,Returning,Plus,Organic,6,0.0,0,468.0,0
+U0145,2025-02-01,Loyal,Plus,Referral,7,0.0,1,756.0,0
+U0146,2024-08-01,Loyal,Basic,Email,17,0.0,0,474.0,0
+U0147,2025-02-01,Loyal,Plus,Referral,19,0.0,0,756.0,0
+U0148,2025-02-01,At risk,Plus,Referral,10,0.1,6,421.2,1
+U0149,2024-08-01,At risk,Basic,Organic,4,0.0,0,196.0,0
+U0150,2025-03-01,Returning,Pro,Referral,1,0.0,1,117.0,0
+U0151,2025-02-01,New,Pro,Organic,13,0.0,1,414.0,0
+U0152,2024-10-01,At risk,Basic,Organic,17,0.0,2,294.0,0
+U0153,2024-08-01,New,Pro,Referral,9,0.0,0,414.0,0
+U0154,2025-01-01,Loyal,Basic,Email,21,0.0,0,474.0,0
+U0155,2024-08-01,New,Plus,Referral,21,0.0,0,276.0,0
+U0156,2025-01-01,Returning,Plus,Referral,20,0.0,1,468.0,0
+U0157,2024-11-01,Returning,Plus,Paid,18,0.0,0,468.0,0
+U0158,2024-11-01,Loyal,Basic,Email,1,0.3,0,55.3,0
+U0159,2025-04-01,Loyal,Pro,Organic,19,0.0,0,1134.0,0
+U0160,2024-08-01,At risk,Pro,Referral,22,0.1,2,631.8,0
+U0161,2025-04-01,New,Pro,Organic,1,0.0,1,69.0,0
+U0162,2025-01-01,New,Plus,Organic,6,0.0,0,276.0,0
+U0163,2024-11-01,New,Basic,Email,12,0.0,0,174.0,0
+U0164,2025-01-01,Returning,Pro,Organic,17,0.0,1,702.0,0
+U0165,2024-12-01,Returning,Basic,Organic,19,0.0,0,294.0,0
+U0166,2024-07-01,Returning,Basic,Referral,16,0.0,0,294.0,0
+U0167,2025-05-01,Returning,Basic,Email,23,0.0,0,294.0,0
+U0168,2024-08-01,New,Plus,Paid,13,0.1,0,248.4,0
+U0169,2024-10-01,New,Plus,Organic,18,0.0,1,276.0,1
+U0170,2025-04-01,New,Plus,Paid,8,0.0,0,276.0,1
+U0171,2024-11-01,New,Pro,Organic,4,0.0,1,276.0,1
+U0172,2025-04-01,At risk,Basic,Email,8,0.0,4,294.0,0
+U0173,2025-03-01,Returning,Plus,Paid,10,0.3,0,327.6,0
+U0174,2024-10-01,New,Basic,Organic,18,0.0,0,174.0,0
+U0175,2025-04-01,Returning,Pro,Paid,21,0.0,2,702.0,0
+U0176,2024-11-01,New,Basic,Email,8,0.0,0,174.0,0
+U0177,2024-12-01,Loyal,Basic,Referral,21,0.0,1,474.0,0
+U0178,2024-10-01,New,Pro,Email,12,0.2,0,331.2,0
+U0179,2024-11-01,New,Plus,Paid,13,0.0,1,276.0,0
+U0180,2024-09-01,Returning,Basic,Organic,5,0.0,0,245.0,0
+U0181,2024-09-01,New,Basic,Referral,7,0.0,0,174.0,0
+U0182,2024-07-01,New,Pro,Paid,19,0.0,1,414.0,1
+U0183,2025-02-01,At risk,Pro,Paid,15,0.0,1,702.0,0
+U0184,2024-07-01,At risk,Basic,Organic,6,0.0,4,294.0,0
+U0185,2024-10-01,Loyal,Plus,Organic,10,0.0,1,756.0,0
+U0186,2024-10-01,At risk,Basic,Paid,1,0.0,6,49.0,0
+U0187,2024-07-01,Returning,Plus,Organic,15,0.0,1,468.0,0
+U0188,2025-02-01,New,Plus,Email,3,0.0,1,138.0,1
+U0189,2024-08-01,Loyal,Plus,Referral,4,0.0,1,504.0,0
+U0190,2024-12-01,Returning,Basic,Referral,2,0.0,1,98.0,0
+U0191,2024-07-01,Loyal,Pro,Email,20,0.0,0,1134.0,0
+U0192,2024-08-01,Returning,Plus,Email,21,0.0,2,468.0,1
+U0193,2024-09-01,Loyal,Plus,Paid,12,0.0,1,756.0,0
+U0194,2024-11-01,New,Basic,Referral,12,0.0,2,174.0,0
+U0195,2025-02-01,Returning,Plus,Email,19,0.0,0,468.0,0
+U0196,2025-01-01,New,Basic,Referral,19,0.0,0,174.0,0
+U0197,2025-02-01,Loyal,Basic,Paid,13,0.0,1,474.0,0
+U0198,2024-11-01,Returning,Pro,Organic,2,0.0,0,234.0,0
+U0199,2025-01-01,At risk,Pro,Email,15,0.2,2,561.6,0
+U0200,2025-01-01,At risk,Plus,Referral,15,0.0,3,468.0,0
+U0201,2025-04-01,Loyal,Basic,Organic,3,0.0,0,237.0,0
+U0202,2024-11-01,New,Pro,Paid,12,0.1,1,372.6,1
+U0203,2025-06-01,At risk,Basic,Paid,13,0.0,3,294.0,0
+U0204,2024-08-01,Loyal,Basic,Paid,10,0.0,0,474.0,0
+U0205,2024-11-01,New,Basic,Paid,20,0.0,0,174.0,1
+U0206,2025-06-01,Loyal,Basic,Paid,21,0.0,0,474.0,0
+U0207,2024-07-01,Returning,Basic,Paid,4,0.0,0,196.0,0
+U0208,2024-11-01,At risk,Basic,Paid,2,0.0,0,98.0,0
+U0209,2025-03-01,Returning,Basic,Email,3,0.0,0,147.0,0
+U0210,2025-06-01,Returning,Basic,Organic,7,0.0,1,294.0,1
+U0211,2025-05-01,At risk,Basic,Referral,12,0.0,3,294.0,0
+U0212,2025-06-01,At risk,Plus,Referral,6,0.1,4,421.2,1
+U0213,2024-10-01,New,Basic,Email,9,0.1,0,156.6,0
+U0214,2024-10-01,New,Plus,Organic,22,0.0,0,276.0,1
+U0215,2025-03-01,At risk,Basic,Organic,1,0.0,3,49.0,0
+U0216,2025-04-01,New,Plus,Organic,15,0.3,1,193.2,0
+U0217,2024-11-01,Loyal,Pro,Referral,21,0.0,1,1134.0,0
+U0218,2025-05-01,At risk,Pro,Organic,22,0.0,2,702.0,0
+U0219,2025-06-01,At risk,Basic,Referral,17,0.0,2,294.0,0
+U0220,2024-07-01,Loyal,Plus,Email,6,0.0,0,756.0,0
+U0221,2024-07-01,New,Plus,Organic,19,0.2,0,220.8,0
+U0222,2025-05-01,New,Basic,Paid,6,0.0,0,174.0,0
+U0223,2025-06-01,Returning,Basic,Organic,5,0.0,0,245.0,0
+U0224,2025-06-01,At risk,Plus,Referral,2,0.0,0,156.0,0
+U0225,2024-07-01,Returning,Pro,Paid,9,0.0,0,702.0,0
+U0226,2024-10-01,Returning,Basic,Organic,6,0.0,1,294.0,0
+U0227,2025-03-01,Returning,Plus,Paid,7,0.0,1,468.0,0
+U0228,2024-12-01,Loyal,Basic,Paid,22,0.0,0,474.0,0
+U0229,2024-11-01,Loyal,Basic,Paid,20,0.0,1,474.0,0
+U0230,2024-12-01,Returning,Pro,Email,14,0.0,0,702.0,0
+U0231,2024-10-01,Loyal,Plus,Organic,12,0.0,1,756.0,0
+U0232,2024-10-01,Returning,Plus,Email,10,0.0,0,468.0,0
+U0233,2025-06-01,Returning,Plus,Paid,23,0.0,0,468.0,0
+U0234,2025-04-01,New,Pro,Referral,12,0.0,1,414.0,0
+U0235,2025-01-01,At risk,Plus,Organic,17,0.1,2,421.2,1
+U0236,2024-12-01,Returning,Plus,Paid,12,0.0,1,468.0,0
+U0237,2024-09-01,Returning,Basic,Paid,16,0.0,0,294.0,0
+U0238,2024-07-01,New,Pro,Paid,14,0.0,0,414.0,1
+U0239,2025-05-01,New,Basic,Paid,10,0.0,1,174.0,0
+U0240,2024-10-01,At risk,Pro,Paid,22,0.0,1,702.0,1
+U0241,2025-04-01,Returning,Basic,Referral,14,0.0,0,294.0,0
+U0242,2024-09-01,Returning,Plus,Organic,21,0.2,0,374.4,0
+U0243,2025-01-01,New,Basic,Organic,19,0.0,1,174.0,0
+U0244,2024-11-01,Returning,Basic,Organic,22,0.0,0,294.0,0
+U0245,2025-04-01,New,Plus,Organic,10,0.0,1,276.0,0
+U0246,2024-09-01,Returning,Pro,Email,19,0.2,0,561.6,0
+U0247,2024-09-01,New,Plus,Organic,22,0.1,0,248.4,0
+U0248,2025-04-01,New,Plus,Referral,13,0.0,1,276.0,0
+U0249,2024-08-01,Loyal,Pro,Organic,19,0.0,0,1134.0,0
+U0250,2025-05-01,Loyal,Basic,Organic,19,0.0,0,474.0,0
+U0251,2025-04-01,New,Basic,Organic,3,0.0,0,87.0,0
+U0252,2025-03-01,Returning,Plus,Paid,1,0.0,0,78.0,1
+U0253,2024-12-01,Loyal,Plus,Referral,13,0.0,0,756.0,0
+U0254,2025-06-01,Returning,Basic,Referral,23,0.0,0,294.0,0
+U0255,2025-05-01,Returning,Basic,Organic,9,0.0,0,294.0,0
+U0256,2024-09-01,Returning,Plus,Referral,21,0.0,2,468.0,0
+U0257,2024-10-01,New,Plus,Paid,9,0.1,0,248.4,1
+U0258,2024-11-01,Returning,Basic,Referral,3,0.0,0,147.0,0
+U0259,2025-01-01,New,Plus,Paid,10,0.0,0,276.0,0
+U0260,2025-04-01,Returning,Basic,Organic,16,0.0,1,294.0,0
+U0261,2024-12-01,At risk,Basic,Organic,13,0.0,2,294.0,0
+U0262,2024-08-01,New,Basic,Organic,23,0.0,0,174.0,0
+U0263,2025-06-01,At risk,Plus,Organic,19,0.0,0,468.0,0
+U0264,2024-10-01,Returning,Plus,Referral,20,0.0,0,468.0,0
+U0265,2024-12-01,New,Pro,Organic,23,0.0,1,414.0,0
+U0266,2025-01-01,Returning,Plus,Organic,3,0.3,0,163.8,0
+U0267,2024-09-01,Returning,Plus,Paid,7,0.0,0,468.0,0
+U0268,2024-11-01,Returning,Basic,Organic,9,0.0,0,294.0,0
+U0269,2024-08-01,Loyal,Basic,Paid,16,0.0,0,474.0,0
+U0270,2025-03-01,New,Plus,Email,13,0.0,1,276.0,0
+U0271,2025-01-01,New,Plus,Email,11,0.0,1,276.0,0
+U0272,2025-05-01,New,Basic,Email,23,0.2,0,139.2,1
+U0273,2024-11-01,New,Plus,Organic,8,0.3,0,193.2,0
+U0274,2024-08-01,Loyal,Plus,Email,15,0.0,1,756.0,0
+U0275,2025-01-01,Returning,Plus,Referral,19,0.0,0,468.0,0
+U0276,2025-04-01,Returning,Pro,Paid,11,0.0,1,702.0,0
+U0277,2024-10-01,At risk,Basic,Organic,19,0.0,4,294.0,0
+U0278,2024-08-01,Loyal,Basic,Paid,16,0.0,1,474.0,0
+U0279,2025-06-01,Returning,Pro,Organic,4,0.2,0,374.4,0
+U0280,2024-10-01,Loyal,Basic,Email,12,0.0,0,474.0,0
+U0281,2025-04-01,Returning,Plus,Paid,21,0.0,0,468.0,0
+U0282,2024-07-01,Returning,Plus,Paid,13,0.0,1,468.0,0
+U0283,2024-07-01,Returning,Plus,Paid,9,0.0,1,468.0,0
+U0284,2025-01-01,Returning,Basic,Referral,3,0.0,0,147.0,0
+U0285,2024-11-01,New,Basic,Referral,3,0.0,0,87.0,0
+U0286,2025-03-01,Returning,Basic,Paid,4,0.0,1,196.0,0
+U0287,2025-02-01,At risk,Basic,Referral,10,0.0,3,294.0,0
+U0288,2024-10-01,New,Plus,Paid,13,0.0,1,276.0,0
+U0289,2025-02-01,Returning,Basic,Email,12,0.0,0,294.0,0
+U0290,2025-03-01,Loyal,Pro,Paid,5,0.0,1,945.0,0
+U0291,2025-04-01,At risk,Plus,Referral,1,0.0,0,78.0,1
+U0292,2025-06-01,Returning,Basic,Email,8,0.0,0,294.0,0
+U0293,2024-11-01,At risk,Plus,Email,19,0.1,3,421.2,0
+U0294,2024-07-01,At risk,Plus,Organic,14,0.0,2,468.0,0
+U0295,2024-09-01,Returning,Pro,Organic,17,0.1,0,631.8,0
+U0296,2025-05-01,Loyal,Plus,Referral,4,0.0,0,504.0,0
+U0297,2025-01-01,New,Pro,Paid,15,0.0,0,414.0,0
+U0298,2024-12-01,Loyal,Plus,Email,13,0.0,0,756.0,0
+U0299,2024-09-01,New,Basic,Paid,22,0.0,1,174.0,0
+U0300,2025-02-01,Returning,Pro,Organic,23,0.0,0,702.0,0
+U0301,2024-08-01,Loyal,Basic,Paid,14,0.0,1,474.0,0
+U0302,2024-12-01,Loyal,Basic,Paid,16,0.0,0,474.0,0
+U0303,2025-01-01,New,Pro,Referral,6,0.0,2,414.0,0
+U0304,2024-12-01,New,Basic,Organic,17,0.0,0,174.0,0
+U0305,2025-04-01,At risk,Plus,Paid,10,0.0,2,468.0,1
+U0306,2025-03-01,Loyal,Basic,Paid,1,0.0,0,79.0,0
+U0307,2025-02-01,At risk,Plus,Paid,16,0.0,5,468.0,1
+U0308,2024-11-01,Returning,Pro,Email,9,0.0,0,702.0,0
+U0309,2024-08-01,Loyal,Plus,Organic,14,0.0,2,756.0,0
+U0310,2024-09-01,Returning,Pro,Organic,23,0.0,0,702.0,0
+U0311,2025-04-01,New,Basic,Paid,11,0.0,0,174.0,0
+U0312,2024-11-01,Returning,Pro,Organic,10,0.0,1,702.0,0
+U0313,2025-05-01,Returning,Plus,Organic,15,0.0,1,468.0,0
+U0314,2025-05-01,Returning,Plus,Organic,10,0.0,0,468.0,0
+U0315,2025-04-01,Returning,Basic,Referral,11,0.0,1,294.0,1
+U0316,2025-05-01,Returning,Plus,Referral,12,0.0,1,468.0,0
+U0317,2025-02-01,New,Pro,Referral,3,0.0,1,207.0,0
+U0318,2024-07-01,Loyal,Plus,Organic,15,0.0,0,756.0,0
+U0319,2024-11-01,New,Basic,Organic,3,0.0,0,87.0,0
+U0320,2025-05-01,New,Basic,Paid,11,0.0,0,174.0,1
+U0321,2025-03-01,Loyal,Plus,Organic,18,0.0,0,756.0,0
+U0322,2025-02-01,At risk,Basic,Organic,5,0.2,0,196.0,1
+U0323,2024-10-01,Loyal,Basic,Paid,15,0.0,0,474.0,0
+U0324,2024-07-01,Returning,Basic,Referral,2,0.0,1,98.0,0
+U0325,2025-01-01,Loyal,Plus,Paid,11,0.0,1,756.0,0
+U0326,2024-08-01,Returning,Basic,Paid,21,0.0,2,294.0,0
+U0327,2024-10-01,New,Pro,Organic,18,0.0,0,414.0,1
+U0328,2024-12-01,New,Plus,Referral,23,0.0,0,276.0,0
+U0329,2024-09-01,New,Pro,Paid,21,0.2,0,331.2,0
+U0330,2024-09-01,At risk,Plus,Organic,18,0.0,4,468.0,1
+U0331,2024-08-01,Returning,Plus,Paid,20,0.0,0,468.0,0
+U0332,2024-07-01,At risk,Plus,Paid,2,0.0,2,156.0,1
+U0333,2025-05-01,Returning,Pro,Organic,22,0.1,1,631.8,0
+U0334,2025-01-01,Loyal,Basic,Paid,7,0.0,0,474.0,0
+U0335,2025-02-01,Returning,Plus,Referral,18,0.0,1,468.0,1
+U0336,2024-10-01,Returning,Plus,Organic,14,0.0,2,468.0,0
+U0337,2025-04-01,Loyal,Plus,Email,13,0.0,0,756.0,0
+U0338,2024-07-01,Returning,Pro,Paid,8,0.0,0,702.0,0
+U0339,2025-06-01,Loyal,Pro,Organic,13,0.0,2,1134.0,0
+U0340,2024-11-01,New,Basic,Paid,12,0.0,0,174.0,0
+U0341,2025-05-01,Returning,Pro,Paid,7,0.0,2,702.0,0
+U0342,2025-01-01,At risk,Plus,Paid,3,0.0,4,234.0,1
+U0343,2025-02-01,Returning,Plus,Paid,14,0.0,0,468.0,0
+U0344,2024-10-01,Loyal,Plus,Referral,13,0.0,0,756.0,0
+U0345,2025-03-01,Loyal,Pro,Referral,9,0.0,0,1134.0,0
+U0346,2024-07-01,Returning,Basic,Paid,22,0.0,0,294.0,0
+U0347,2025-03-01,New,Basic,Organic,20,0.0,0,174.0,1
+U0348,2024-07-01,At risk,Basic,Email,2,0.0,1,98.0,0
+U0349,2024-08-01,Returning,Basic,Email,17,0.0,1,294.0,0
+U0350,2024-10-01,Returning,Basic,Referral,12,0.2,2,235.2,0
+U0351,2024-08-01,New,Plus,Paid,9,0.3,1,193.2,0
+U0352,2025-06-01,Returning,Basic,Email,13,0.0,1,294.0,0
+U0353,2024-12-01,Returning,Pro,Paid,1,0.0,0,117.0,0
+U0354,2024-08-01,New,Plus,Organic,15,0.0,2,276.0,0
+U0355,2024-12-01,Returning,Plus,Organic,4,0.0,0,312.0,1
+U0356,2025-05-01,At risk,Basic,Paid,4,0.0,1,196.0,0
+U0357,2025-06-01,At risk,Plus,Organic,17,0.0,4,468.0,0
+U0358,2025-02-01,New,Plus,Paid,11,0.0,3,276.0,1
+U0359,2024-12-01,Loyal,Pro,Organic,17,0.0,0,1134.0,0
+U0360,2024-08-01,Loyal,Plus,Organic,7,0.0,0,756.0,0
+U0361,2025-05-01,New,Plus,Referral,21,0.0,0,276.0,0
+U0362,2025-02-01,Loyal,Basic,Referral,16,0.0,1,474.0,0
+U0363,2025-06-01,New,Plus,Organic,4,0.0,1,184.0,0
+U0364,2025-06-01,New,Pro,Referral,6,0.0,0,414.0,0
+U0365,2024-08-01,At risk,Pro,Organic,4,0.0,0,468.0,1
+U0366,2025-06-01,New,Basic,Organic,18,0.1,0,156.6,1
+U0367,2024-12-01,Loyal,Basic,Paid,19,0.0,0,474.0,0
+U0368,2025-02-01,New,Basic,Organic,23,0.0,3,174.0,1
+U0369,2024-07-01,At risk,Basic,Email,21,0.0,3,294.0,0
+U0370,2025-01-01,New,Pro,Paid,18,0.0,1,414.0,0
+U0371,2025-01-01,At risk,Plus,Referral,4,0.0,2,312.0,0
+U0372,2025-02-01,Returning,Basic,Email,2,0.0,0,98.0,0
+U0373,2025-01-01,Loyal,Pro,Organic,19,0.1,0,1020.6,0
+U0374,2025-06-01,Loyal,Plus,Referral,8,0.0,0,756.0,0
+U0375,2024-09-01,Returning,Basic,Paid,10,0.0,2,294.0,0
+U0376,2024-10-01,New,Basic,Referral,22,0.0,2,174.0,0
+U0377,2024-07-01,Loyal,Basic,Email,20,0.0,1,474.0,0
+U0378,2024-07-01,Loyal,Plus,Paid,11,0.0,1,756.0,0
+U0379,2024-08-01,Returning,Plus,Paid,13,0.0,0,468.0,0
+U0380,2024-11-01,Returning,Basic,Organic,17,0.0,4,294.0,0
+U0381,2024-08-01,Returning,Basic,Paid,5,0.0,1,245.0,0
+U0382,2025-02-01,Returning,Basic,Email,9,0.0,0,294.0,0
+U0383,2024-12-01,New,Basic,Referral,14,0.0,1,174.0,1
+U0384,2025-05-01,Loyal,Basic,Email,22,0.0,1,474.0,0
+U0385,2025-01-01,Returning,Basic,Email,16,0.0,1,294.0,0
+U0386,2024-09-01,New,Pro,Paid,16,0.0,3,414.0,1
+U0387,2024-08-01,New,Plus,Paid,15,0.0,0,276.0,0
+U0388,2024-12-01,Returning,Pro,Organic,12,0.0,0,702.0,0
+U0389,2024-11-01,Returning,Basic,Email,4,0.0,1,196.0,0
+U0390,2025-04-01,Returning,Pro,Organic,17,0.0,0,702.0,0
+U0391,2025-05-01,New,Plus,Paid,19,0.0,2,276.0,1
+U0392,2024-07-01,New,Basic,Email,1,0.0,0,29.0,0
+U0393,2025-03-01,Loyal,Plus,Email,8,0.0,0,756.0,0
+U0394,2024-11-01,New,Pro,Organic,18,0.0,0,414.0,0
+U0395,2024-10-01,Loyal,Plus,Organic,19,0.0,0,756.0,0
+U0396,2025-01-01,Returning,Pro,Email,4,0.0,1,468.0,0
+U0397,2025-02-01,At risk,Pro,Referral,4,0.0,3,468.0,0
+U0398,2025-05-01,Returning,Basic,Organic,16,0.3,0,205.8,0
+U0399,2025-05-01,Loyal,Basic,Organic,4,0.0,1,316.0,0
+U0400,2025-02-01,Returning,Basic,Paid,13,0.0,1,294.0,0
+U0401,2025-04-01,At risk,Basic,Paid,1,0.0,3,49.0,0
+U0402,2024-11-01,New,Basic,Email,16,0.2,1,139.2,0
+U0403,2025-02-01,New,Plus,Referral,19,0.0,0,276.0,0
+U0404,2024-10-01,Returning,Basic,Referral,12,0.0,0,294.0,0
+U0405,2024-07-01,New,Basic,Email,11,0.0,0,174.0,1
+U0406,2024-10-01,Returning,Basic,Paid,18,0.0,0,294.0,0
+U0407,2024-08-01,Returning,Basic,Paid,15,0.0,0,294.0,0
+U0408,2024-10-01,Loyal,Basic,Paid,16,0.0,0,474.0,0
+U0409,2024-09-01,Loyal,Pro,Organic,1,0.0,0,189.0,0
+U0410,2025-05-01,Returning,Plus,Paid,8,0.0,2,468.0,1
+U0411,2024-11-01,New,Plus,Organic,2,0.0,1,92.0,1
+U0412,2025-06-01,Returning,Plus,Email,21,0.0,1,468.0,0
+U0413,2025-03-01,Loyal,Basic,Paid,21,0.0,0,474.0,0
+U0414,2024-09-01,Returning,Plus,Referral,5,0.1,0,351.0,0
+U0415,2025-02-01,At risk,Basic,Organic,20,0.0,1,294.0,1
+U0416,2024-11-01,Returning,Pro,Paid,8,0.0,2,702.0,1
+U0417,2024-10-01,Returning,Basic,Organic,22,0.1,1,264.6,1
+U0418,2024-07-01,Loyal,Pro,Paid,15,0.0,0,1134.0,0
+U0419,2024-07-01,At risk,Basic,Referral,14,0.3,2,205.8,0
+U0420,2025-05-01,Returning,Basic,Organic,14,0.0,1,294.0,0
+U0421,2024-12-01,Loyal,Basic,Referral,17,0.2,0,379.2,0
+U0422,2025-04-01,New,Basic,Organic,3,0.0,1,87.0,0
+U0423,2024-09-01,Returning,Basic,Email,23,0.0,0,294.0,0
+U0424,2024-09-01,Loyal,Pro,Email,11,0.0,0,1134.0,0
+U0425,2024-11-01,Returning,Basic,Organic,4,0.0,0,196.0,0
+U0426,2025-06-01,Returning,Plus,Email,17,0.0,0,468.0,0
+U0427,2024-09-01,Returning,Basic,Paid,8,0.0,0,294.0,0
+U0428,2025-01-01,At risk,Basic,Organic,7,0.0,0,294.0,0
+U0429,2025-04-01,At risk,Plus,Referral,14,0.3,2,327.6,0
+U0430,2024-09-01,At risk,Plus,Paid,19,0.0,1,468.0,0
+U0431,2025-02-01,Returning,Basic,Email,14,0.0,1,294.0,0
+U0432,2024-10-01,Loyal,Plus,Organic,1,0.0,0,126.0,0
+U0433,2025-05-01,Loyal,Plus,Organic,7,0.0,0,756.0,0
+U0434,2025-03-01,Returning,Plus,Paid,7,0.0,2,468.0,0
+U0435,2025-02-01,Returning,Basic,Paid,13,0.0,1,294.0,1
+U0436,2025-06-01,Returning,Basic,Paid,7,0.2,0,235.2,0
+U0437,2025-01-01,Returning,Pro,Email,3,0.0,0,351.0,0
+U0438,2025-06-01,At risk,Basic,Paid,23,0.0,4,294.0,1
+U0439,2024-09-01,Loyal,Basic,Organic,4,0.0,2,316.0,1
+U0440,2025-02-01,Loyal,Basic,Email,15,0.0,1,474.0,0
+U0441,2025-06-01,At risk,Pro,Organic,20,0.1,2,631.8,0
+U0442,2024-09-01,Returning,Pro,Organic,15,0.0,0,702.0,0
+U0443,2025-02-01,Loyal,Basic,Referral,7,0.0,2,474.0,0
+U0444,2025-03-01,New,Pro,Organic,16,0.0,1,414.0,0
+U0445,2024-09-01,New,Basic,Organic,8,0.1,0,156.6,0
+U0446,2025-02-01,Loyal,Basic,Email,19,0.0,0,474.0,0
+U0447,2024-12-01,Loyal,Plus,Organic,10,0.0,3,756.0,0
+U0448,2024-10-01,Loyal,Plus,Email,16,0.0,1,756.0,0
+U0449,2024-12-01,Returning,Plus,Email,22,0.1,0,421.2,0
+U0450,2025-01-01,Returning,Basic,Organic,6,0.0,1,294.0,1
+U0451,2024-10-01,Loyal,Basic,Email,15,0.0,2,474.0,0
+U0452,2024-11-01,Returning,Plus,Referral,3,0.0,1,234.0,0
+U0453,2025-02-01,Returning,Basic,Email,20,0.0,0,294.0,0
+U0454,2025-03-01,Loyal,Plus,Paid,3,0.0,0,378.0,0
+U0455,2025-02-01,New,Plus,Email,2,0.0,3,92.0,0
+U0456,2025-02-01,Returning,Plus,Organic,22,0.0,0,468.0,0
+U0457,2024-10-01,Loyal,Plus,Referral,2,0.0,0,252.0,0
+U0458,2024-08-01,Returning,Basic,Paid,11,0.0,0,294.0,0
+U0459,2025-06-01,Returning,Pro,Organic,17,0.0,0,702.0,0
+U0460,2025-03-01,Loyal,Basic,Paid,8,0.0,0,474.0,0
+U0461,2024-12-01,At risk,Basic,Organic,14,0.0,2,294.0,0
+U0462,2024-09-01,New,Plus,Paid,15,0.0,1,276.0,1
+U0463,2025-05-01,Returning,Plus,Organic,8,0.0,1,468.0,1
+U0464,2025-01-01,Loyal,Basic,Paid,20,0.0,2,474.0,0
+U0465,2025-01-01,New,Basic,Organic,4,0.0,1,116.0,0
+U0466,2024-08-01,Loyal,Basic,Paid,9,0.0,0,474.0,0
+U0467,2025-02-01,At risk,Basic,Referral,6,0.0,2,294.0,0
+U0468,2024-08-01,Returning,Pro,Organic,12,0.0,1,702.0,0
+U0469,2025-04-01,Loyal,Plus,Paid,20,0.0,0,756.0,0
+U0470,2024-09-01,At risk,Pro,Email,1,0.2,2,93.6,1
+U0471,2024-12-01,At risk,Plus,Organic,11,0.0,3,468.0,1
+U0472,2025-04-01,New,Plus,Email,14,0.0,0,276.0,0
+U0473,2024-11-01,Returning,Basic,Organic,4,0.0,0,196.0,0
+U0474,2024-08-01,Returning,Pro,Email,10,0.0,0,702.0,0
+U0475,2024-12-01,Loyal,Basic,Paid,5,0.0,1,395.0,0
+U0476,2025-06-01,At risk,Pro,Organic,17,0.0,3,702.0,1
+U0477,2025-06-01,New,Basic,Referral,4,0.0,0,116.0,0
+U0478,2025-06-01,Loyal,Plus,Paid,3,0.0,0,378.0,0
+U0479,2025-03-01,Loyal,Basic,Referral,20,0.0,0,474.0,0
+U0480,2025-03-01,Returning,Basic,Paid,18,0.0,1,294.0,0
+U0481,2025-01-01,Returning,Plus,Paid,17,0.0,1,468.0,0
+U0482,2025-05-01,New,Basic,Referral,3,0.1,0,78.3,0
+U0483,2025-04-01,Loyal,Basic,Referral,6,0.0,0,474.0,0
+U0484,2024-10-01,New,Basic,Referral,4,0.0,0,116.0,0
+U0485,2024-08-01,Loyal,Basic,Paid,12,0.0,3,474.0,0
+U0486,2024-08-01,Returning,Basic,Paid,12,0.0,1,294.0,0
+U0487,2025-06-01,Loyal,Basic,Referral,17,0.0,0,474.0,0
+U0488,2025-04-01,New,Pro,Email,12,0.2,1,331.2,0
+U0489,2025-03-01,New,Plus,Paid,20,0.0,0,276.0,0
+U0490,2025-03-01,Returning,Pro,Organic,11,0.0,1,702.0,0
+U0491,2024-12-01,Loyal,Basic,Referral,4,0.0,1,316.0,0
+U0492,2024-07-01,New,Basic,Organic,22,0.0,1,174.0,1
+U0493,2025-02-01,New,Basic,Paid,14,0.0,0,174.0,0
+U0494,2025-03-01,Returning,Basic,Organic,11,0.0,1,294.0,0
+U0495,2024-10-01,Loyal,Basic,Organic,7,0.0,2,474.0,0
+U0496,2025-06-01,Loyal,Pro,Email,1,0.0,0,189.0,0
+U0497,2024-07-01,Loyal,Pro,Paid,16,0.0,1,1134.0,0
+U0498,2025-06-01,New,Basic,Organic,18,0.0,0,174.0,0
+U0499,2024-07-01,Returning,Plus,Organic,6,0.0,0,468.0,1
+U0500,2025-03-01,Loyal,Basic,Organic,22,0.0,1,474.0,0
+U0501,2025-06-01,Returning,Basic,Organic,23,0.0,0,294.0,0
+U0502,2025-01-01,At risk,Plus,Email,8,0.0,1,468.0,0
+U0503,2025-04-01,Returning,Plus,Organic,19,0.1,2,421.2,0
+U0504,2024-11-01,Returning,Basic,Referral,14,0.0,1,294.0,0
+U0505,2024-09-01,New,Basic,Referral,13,0.2,0,139.2,0
+U0506,2025-02-01,New,Basic,Paid,15,0.0,0,174.0,1
+U0507,2024-12-01,New,Plus,Email,17,0.0,1,276.0,0
+U0508,2024-12-01,At risk,Pro,Paid,22,0.3,5,491.4,1
+U0509,2024-10-01,New,Basic,Email,5,0.0,1,145.0,0
+U0510,2025-06-01,At risk,Pro,Paid,14,0.0,3,702.0,1
+U0511,2024-11-01,Returning,Plus,Organic,6,0.0,0,468.0,0
+U0512,2024-07-01,At risk,Plus,Organic,12,0.0,5,468.0,0
+U0513,2025-04-01,Loyal,Basic,Referral,14,0.0,0,474.0,0
+U0514,2024-10-01,At risk,Basic,Organic,6,0.0,3,294.0,1
+U0515,2025-04-01,Returning,Basic,Email,19,0.0,1,294.0,0
+U0516,2025-03-01,At risk,Pro,Paid,16,0.0,3,702.0,0
+U0517,2025-03-01,New,Plus,Email,16,0.0,1,276.0,0
+U0518,2025-05-01,At risk,Plus,Email,8,0.0,1,468.0,0
+U0519,2025-04-01,At risk,Basic,Email,14,0.2,3,235.2,1
+U0520,2024-12-01,Returning,Plus,Paid,15,0.0,0,468.0,0
+U0521,2024-12-01,At risk,Plus,Paid,14,0.0,3,468.0,0
+U0522,2024-08-01,New,Pro,Paid,22,0.0,1,414.0,0
+U0523,2025-06-01,New,Pro,Organic,17,0.0,1,414.0,0
+U0524,2025-02-01,At risk,Plus,Referral,14,0.0,5,468.0,0
+U0525,2024-11-01,Returning,Basic,Email,23,0.0,0,294.0,0
+U0526,2025-05-01,Returning,Plus,Email,23,0.0,1,468.0,0
+U0527,2025-06-01,Loyal,Basic,Referral,1,0.0,0,79.0,0
+U0528,2025-02-01,Loyal,Pro,Email,10,0.0,0,1134.0,0
+U0529,2024-10-01,Returning,Plus,Organic,2,0.0,1,156.0,0
+U0530,2025-01-01,New,Plus,Organic,10,0.0,2,276.0,0
+U0531,2024-11-01,At risk,Plus,Paid,21,0.0,2,468.0,0
+U0532,2025-04-01,Returning,Basic,Paid,3,0.0,1,147.0,0
+U0533,2024-12-01,New,Pro,Referral,23,0.0,2,414.0,0
+U0534,2025-01-01,At risk,Basic,Referral,20,0.0,4,294.0,0
+U0535,2025-05-01,Returning,Plus,Email,22,0.0,1,468.0,0
+U0536,2024-10-01,New,Plus,Email,22,0.0,1,276.0,0
+U0537,2025-02-01,Loyal,Pro,Paid,11,0.3,1,793.8,1
+U0538,2025-02-01,At risk,Basic,Organic,7,0.0,6,294.0,1
+U0539,2024-08-01,At risk,Pro,Referral,23,0.0,3,702.0,1
+U0540,2025-04-01,Returning,Basic,Organic,15,0.3,0,205.8,0
+U0541,2024-09-01,New,Basic,Paid,14,0.2,0,139.2,1
+U0542,2024-11-01,New,Basic,Referral,7,0.0,1,174.0,0
+U0543,2024-07-01,Returning,Plus,Paid,14,0.0,0,468.0,0
+U0544,2025-04-01,Returning,Plus,Referral,2,0.0,0,156.0,0
+U0545,2024-07-01,Loyal,Plus,Organic,13,0.0,0,756.0,0
+U0546,2025-01-01,New,Plus,Organic,16,0.1,0,248.4,0
+U0547,2025-01-01,New,Pro,Paid,4,0.0,0,276.0,0
+U0548,2024-11-01,At risk,Plus,Organic,9,0.0,3,468.0,0
+U0549,2025-06-01,Returning,Basic,Paid,17,0.0,0,294.0,0
+U0550,2025-06-01,Returning,Plus,Email,15,0.0,0,468.0,0
+U0551,2025-05-01,Loyal,Basic,Organic,22,0.0,0,474.0,0
+U0552,2024-12-01,Returning,Basic,Organic,19,0.2,0,235.2,0
+U0553,2025-02-01,New,Basic,Organic,8,0.0,1,174.0,0
+U0554,2025-03-01,Returning,Basic,Paid,22,0.0,2,294.0,0
+U0555,2025-03-01,Loyal,Plus,Organic,8,0.0,0,756.0,0
+U0556,2025-05-01,Loyal,Plus,Referral,21,0.0,0,756.0,0
+U0557,2025-04-01,New,Plus,Paid,4,0.0,2,184.0,1
+U0558,2024-10-01,At risk,Basic,Referral,13,0.0,4,294.0,0
+U0559,2024-09-01,Returning,Plus,Paid,6,0.0,1,468.0,0
+U0560,2024-10-01,Loyal,Plus,Referral,14,0.0,0,756.0,0
+U0561,2025-04-01,Loyal,Plus,Organic,14,0.0,0,756.0,0
+U0562,2025-04-01,New,Basic,Referral,12,0.0,1,174.0,1
+U0563,2025-06-01,Returning,Plus,Referral,6,0.0,0,468.0,0
+U0564,2024-09-01,Loyal,Plus,Organic,11,0.0,1,756.0,0
+U0565,2024-07-01,Loyal,Plus,Email,21,0.3,0,529.2,0
+U0566,2025-02-01,New,Basic,Paid,7,0.0,0,174.0,0
+U0567,2025-06-01,At risk,Basic,Paid,13,0.0,2,294.0,0
+U0568,2025-04-01,Returning,Basic,Referral,19,0.1,0,264.6,0
+U0569,2025-02-01,At risk,Basic,Paid,16,0.0,4,294.0,0
+U0570,2024-10-01,At risk,Plus,Paid,8,0.0,2,468.0,1
+U0571,2024-08-01,Returning,Plus,Paid,18,0.0,1,468.0,1
+U0572,2024-07-01,New,Basic,Referral,20,0.0,0,174.0,1
+U0573,2024-07-01,Loyal,Plus,Organic,15,0.0,1,756.0,1
+U0574,2024-08-01,Loyal,Plus,Referral,11,0.0,0,756.0,0
+U0575,2025-05-01,New,Plus,Referral,19,0.0,0,276.0,0
+U0576,2024-08-01,Returning,Plus,Paid,4,0.0,0,312.0,0
+U0577,2024-07-01,Returning,Pro,Paid,9,0.0,0,702.0,0
+U0578,2024-11-01,Loyal,Pro,Email,21,0.0,1,1134.0,0
+U0579,2025-01-01,Loyal,Plus,Paid,20,0.0,0,756.0,0
+U0580,2025-01-01,Returning,Plus,Email,22,0.0,3,468.0,0
+U0581,2025-05-01,New,Basic,Referral,12,0.2,2,139.2,1
+U0582,2025-06-01,Returning,Basic,Organic,13,0.0,1,294.0,0
+U0583,2025-02-01,New,Plus,Paid,13,0.0,1,276.0,0
+U0584,2025-04-01,Returning,Basic,Organic,9,0.0,1,294.0,0
+U0585,2025-05-01,New,Plus,Organic,22,0.0,2,276.0,0
+U0586,2024-07-01,New,Basic,Referral,4,0.0,1,116.0,0
+U0587,2024-07-01,At risk,Basic,Referral,17,0.0,0,294.0,0
+U0588,2024-12-01,Loyal,Basic,Organic,11,0.0,1,474.0,1
+U0589,2025-02-01,Returning,Basic,Organic,10,0.0,0,294.0,0
+U0590,2024-10-01,Returning,Pro,Organic,17,0.0,0,702.0,0
+U0591,2024-10-01,Loyal,Basic,Referral,15,0.0,0,474.0,0
+U0592,2024-09-01,Returning,Plus,Paid,7,0.0,0,468.0,0
+U0593,2025-03-01,At risk,Plus,Paid,20,0.1,3,421.2,1
+U0594,2024-08-01,Loyal,Basic,Paid,12,0.0,0,474.0,0
+U0595,2025-06-01,Loyal,Basic,Paid,5,0.0,1,395.0,0
+U0596,2025-03-01,At risk,Plus,Referral,4,0.0,5,312.0,0
+U0597,2024-08-01,Returning,Basic,Email,10,0.0,1,294.0,0
+U0598,2024-10-01,At risk,Plus,Referral,17,0.0,2,468.0,0
+U0599,2025-02-01,At risk,Basic,Organic,17,0.2,1,235.2,0
+U0600,2025-03-01,Loyal,Basic,Paid,19,0.0,1,474.0,0
+U0601,2024-10-01,Returning,Basic,Paid,1,0.0,0,49.0,0
+U0602,2024-07-01,Loyal,Basic,Paid,11,0.0,1,474.0,0
+U0603,2025-03-01,At risk,Plus,Paid,20,0.0,2,468.0,1
+U0604,2025-03-01,Loyal,Basic,Referral,9,0.0,2,474.0,0
+U0605,2024-11-01,At risk,Pro,Organic,17,0.0,1,702.0,1
+U0606,2025-03-01,Loyal,Plus,Organic,16,0.0,0,756.0,0
+U0607,2025-05-01,New,Plus,Paid,22,0.0,0,276.0,0
+U0608,2025-03-01,Loyal,Plus,Paid,5,0.0,2,630.0,0
+U0609,2024-08-01,New,Basic,Paid,20,0.0,1,174.0,1
+U0610,2024-08-01,Returning,Basic,Email,11,0.0,0,294.0,0
+U0611,2025-03-01,New,Plus,Organic,16,0.0,0,276.0,1
+U0612,2025-06-01,Loyal,Plus,Organic,15,0.0,1,756.0,0
+U0613,2025-04-01,At risk,Plus,Paid,22,0.0,3,468.0,1
+U0614,2024-12-01,Returning,Basic,Paid,21,0.2,1,235.2,0
+U0615,2024-12-01,Returning,Basic,Organic,9,0.0,0,294.0,0
+U0616,2025-02-01,Returning,Pro,Email,3,0.0,0,351.0,0
+U0617,2025-03-01,At risk,Pro,Email,15,0.0,1,702.0,0
+U0618,2025-03-01,New,Pro,Paid,20,0.0,0,414.0,0
+U0619,2024-10-01,Returning,Plus,Email,23,0.0,0,468.0,0
+U0620,2025-04-01,Loyal,Pro,Paid,17,0.0,0,1134.0,0
+U0621,2024-11-01,Loyal,Basic,Referral,5,0.0,0,395.0,0
+U0622,2024-11-01,New,Plus,Organic,17,0.0,0,276.0,0
+U0623,2024-07-01,At risk,Plus,Paid,23,0.0,0,468.0,0
+U0624,2024-07-01,Returning,Basic,Paid,16,0.0,1,294.0,0
+U0625,2025-04-01,Returning,Plus,Referral,13,0.3,0,327.6,0
+U0626,2024-09-01,New,Basic,Referral,15,0.0,0,174.0,0
+U0627,2025-04-01,New,Plus,Paid,13,0.3,0,193.2,1
+U0628,2025-05-01,New,Basic,Paid,9,0.1,2,156.6,0
+U0629,2025-05-01,New,Plus,Organic,14,0.0,1,276.0,0
+U0630,2024-08-01,At risk,Plus,Email,19,0.0,2,468.0,0
+U0631,2024-11-01,Returning,Basic,Referral,1,0.0,0,49.0,0
+U0632,2024-07-01,Loyal,Plus,Referral,6,0.0,3,756.0,0
+U0633,2024-08-01,Returning,Basic,Paid,3,0.0,1,147.0,0
+U0634,2025-06-01,Returning,Basic,Organic,11,0.2,0,235.2,0
+U0635,2024-10-01,New,Basic,Paid,22,0.2,0,139.2,0
+U0636,2024-08-01,New,Plus,Paid,5,0.0,1,230.0,0
+U0637,2025-04-01,Returning,Basic,Organic,1,0.0,2,49.0,0
+U0638,2025-06-01,Returning,Plus,Paid,2,0.0,0,156.0,0
+U0639,2024-07-01,At risk,Basic,Organic,8,0.0,5,294.0,1
+U0640,2024-09-01,New,Basic,Paid,3,0.0,0,87.0,0
+U0641,2024-11-01,New,Basic,Referral,6,0.0,0,174.0,0
+U0642,2025-05-01,Returning,Pro,Paid,10,0.0,1,702.0,0
+U0643,2024-08-01,Returning,Plus,Organic,21,0.0,0,468.0,0
+U0644,2025-06-01,New,Plus,Paid,8,0.3,1,193.2,0
+U0645,2025-02-01,At risk,Basic,Referral,20,0.0,3,294.0,0
+U0646,2025-06-01,New,Pro,Paid,22,0.0,1,414.0,0
+U0647,2025-04-01,New,Basic,Email,13,0.0,1,174.0,0
+U0648,2024-07-01,Returning,Plus,Organic,2,0.0,1,156.0,0
+U0649,2025-03-01,Returning,Pro,Email,15,0.3,0,491.4,0
+U0650,2025-05-01,New,Pro,Referral,12,0.0,1,414.0,0
+U0651,2025-01-01,Loyal,Basic,Email,4,0.0,0,316.0,0
+U0652,2024-09-01,Loyal,Plus,Email,16,0.2,0,604.8,0
+U0653,2024-11-01,Loyal,Plus,Referral,16,0.0,0,756.0,0
+U0654,2025-05-01,Returning,Pro,Referral,19,0.0,1,702.0,0
+U0655,2024-09-01,Returning,Basic,Paid,6,0.2,0,235.2,0
+U0656,2025-02-01,Returning,Basic,Organic,22,0.0,1,294.0,1
+U0657,2025-03-01,Loyal,Basic,Organic,9,0.0,0,474.0,0
+U0658,2025-01-01,Returning,Basic,Organic,5,0.0,0,245.0,0
+U0659,2024-07-01,Loyal,Plus,Paid,3,0.0,0,378.0,0
+U0660,2025-01-01,New,Pro,Organic,20,0.2,1,331.2,0
+U0661,2025-06-01,At risk,Pro,Organic,10,0.1,2,631.8,1
+U0662,2024-07-01,New,Plus,Paid,8,0.2,0,220.8,1
+U0663,2025-03-01,Returning,Plus,Organic,21,0.0,0,468.0,0
+U0664,2025-04-01,Returning,Pro,Referral,11,0.0,1,702.0,0
+U0665,2025-06-01,Loyal,Pro,Paid,20,0.0,0,1134.0,0
+U0666,2024-08-01,New,Basic,Email,16,0.0,3,174.0,1
+U0667,2025-02-01,New,Basic,Referral,15,0.0,1,174.0,0
+U0668,2025-02-01,New,Pro,Paid,4,0.0,2,276.0,0
+U0669,2025-04-01,New,Basic,Referral,2,0.0,1,58.0,1
+U0670,2025-02-01,Loyal,Basic,Email,12,0.0,1,474.0,0
+U0671,2024-12-01,Loyal,Plus,Organic,2,0.0,0,252.0,0
+U0672,2025-04-01,Loyal,Plus,Organic,7,0.0,2,756.0,0
+U0673,2025-04-01,Returning,Basic,Organic,14,0.0,0,294.0,0
+U0674,2025-06-01,New,Pro,Email,15,0.0,1,414.0,1
+U0675,2024-07-01,Returning,Plus,Paid,2,0.0,0,156.0,0
+U0676,2024-12-01,Loyal,Basic,Referral,5,0.0,0,395.0,0
+U0677,2025-04-01,Returning,Plus,Email,1,0.0,2,78.0,0
+U0678,2025-06-01,New,Plus,Email,23,0.0,0,276.0,0
+U0679,2024-07-01,Returning,Plus,Organic,22,0.0,0,468.0,0
+U0680,2024-08-01,Loyal,Pro,Paid,14,0.0,0,1134.0,0
+U0681,2024-09-01,Returning,Basic,Paid,15,0.0,0,294.0,0
+U0682,2025-01-01,Returning,Plus,Paid,8,0.3,0,327.6,0
+U0683,2025-05-01,New,Basic,Paid,20,0.0,2,174.0,0
+U0684,2024-08-01,New,Basic,Paid,17,0.0,0,174.0,1
+U0685,2025-04-01,Returning,Pro,Paid,16,0.0,1,702.0,0
+U0686,2025-06-01,Returning,Basic,Referral,17,0.0,2,294.0,1
+U0687,2024-12-01,New,Plus,Paid,5,0.2,1,184.0,0
+U0688,2024-11-01,Returning,Basic,Organic,23,0.0,0,294.0,0
+U0689,2024-12-01,Returning,Basic,Referral,4,0.0,1,196.0,0
+U0690,2024-09-01,Loyal,Basic,Referral,13,0.0,1,474.0,0
+U0691,2024-12-01,Returning,Plus,Referral,18,0.0,0,468.0,0
+U0692,2024-10-01,At risk,Plus,Organic,18,0.0,1,468.0,0
+U0693,2024-11-01,At risk,Pro,Email,3,0.0,4,351.0,1
+U0694,2024-11-01,Returning,Plus,Email,20,0.0,0,468.0,0
+U0695,2025-01-01,Returning,Basic,Paid,8,0.0,0,294.0,0
+U0696,2025-05-01,Loyal,Plus,Organic,6,0.0,1,756.0,1
+U0697,2025-05-01,New,Basic,Referral,15,0.0,0,174.0,0
+U0698,2025-02-01,Loyal,Plus,Referral,13,0.0,1,756.0,0
+U0699,2025-04-01,Returning,Basic,Paid,7,0.0,1,294.0,0
+U0700,2024-09-01,Returning,Pro,Paid,15,0.0,0,702.0,1
+U0701,2025-03-01,New,Basic,Email,16,0.1,1,156.6,0
+U0702,2025-05-01,At risk,Pro,Paid,6,0.1,4,631.8,0
+U0703,2025-03-01,New,Plus,Paid,22,0.0,0,276.0,1
+U0704,2025-05-01,New,Basic,Paid,17,0.0,0,174.0,0
+U0705,2025-02-01,New,Basic,Paid,8,0.0,1,174.0,1
+U0706,2025-06-01,New,Pro,Organic,6,0.0,0,414.0,0
+U0707,2025-05-01,Returning,Plus,Organic,3,0.0,1,234.0,1
+U0708,2025-01-01,At risk,Pro,Email,16,0.2,3,561.6,1
+U0709,2025-04-01,Returning,Basic,Paid,14,0.0,0,294.0,0
+U0710,2025-04-01,Loyal,Pro,Paid,20,0.0,1,1134.0,0
+U0711,2025-06-01,Loyal,Basic,Organic,1,0.0,1,79.0,0
+U0712,2024-09-01,New,Plus,Organic,15,0.0,0,276.0,0
+U0713,2024-11-01,Returning,Plus,Paid,18,0.0,1,468.0,0
+U0714,2025-02-01,Returning,Basic,Organic,18,0.0,0,294.0,0
+U0715,2024-07-01,Returning,Pro,Paid,19,0.0,0,702.0,0
+U0716,2025-01-01,At risk,Basic,Paid,12,0.0,0,294.0,1
+U0717,2024-12-01,At risk,Pro,Referral,8,0.0,1,702.0,0
+U0718,2024-11-01,Returning,Pro,Referral,13,0.0,1,702.0,0
+U0719,2024-09-01,New,Pro,Referral,1,0.0,0,69.0,0
+U0720,2024-12-01,New,Plus,Paid,10,0.0,0,276.0,1
+U0721,2025-06-01,New,Pro,Paid,19,0.3,0,289.8,1
+U0722,2025-01-01,Returning,Pro,Paid,8,0.0,1,702.0,0
+U0723,2025-02-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U0724,2025-02-01,At risk,Pro,Paid,1,0.0,0,117.0,1
+U0725,2025-05-01,Returning,Basic,Organic,12,0.0,0,294.0,0
+U0726,2024-11-01,Loyal,Basic,Organic,5,0.0,0,395.0,0
+U0727,2024-11-01,Returning,Plus,Email,4,0.0,0,312.0,0
+U0728,2025-02-01,New,Basic,Organic,20,0.0,0,174.0,0
+U0729,2024-07-01,Loyal,Basic,Referral,5,0.0,0,395.0,0
+U0730,2025-02-01,Loyal,Pro,Paid,23,0.0,0,1134.0,0
+U0731,2025-05-01,At risk,Basic,Referral,20,0.0,2,294.0,0
+U0732,2024-08-01,Loyal,Plus,Paid,2,0.0,0,252.0,0
+U0733,2024-08-01,New,Plus,Email,23,0.0,1,276.0,0
+U0734,2025-02-01,Returning,Plus,Organic,18,0.2,0,374.4,1
+U0735,2024-07-01,New,Basic,Email,9,0.0,1,174.0,0
+U0736,2024-11-01,Returning,Plus,Organic,4,0.0,0,312.0,0
+U0737,2025-02-01,New,Basic,Organic,19,0.0,0,174.0,0
+U0738,2024-11-01,Returning,Plus,Organic,23,0.0,1,468.0,0
+U0739,2025-02-01,Loyal,Plus,Organic,8,0.0,0,756.0,0
+U0740,2024-11-01,New,Basic,Paid,20,0.2,0,139.2,0
+U0741,2024-12-01,Returning,Plus,Email,18,0.0,3,468.0,0
+U0742,2024-10-01,Returning,Basic,Organic,8,0.0,2,294.0,0
+U0743,2024-07-01,At risk,Plus,Paid,2,0.0,1,156.0,0
+U0744,2025-04-01,Loyal,Basic,Paid,4,0.0,1,316.0,0
+U0745,2025-05-01,Returning,Basic,Email,16,0.0,2,294.0,0
+U0746,2024-12-01,Loyal,Basic,Referral,19,0.0,2,474.0,0
+U0747,2024-12-01,Returning,Pro,Paid,18,0.0,1,702.0,0
+U0748,2025-05-01,At risk,Plus,Email,23,0.0,1,468.0,1
+U0749,2025-05-01,Loyal,Pro,Referral,21,0.0,0,1134.0,0
+U0750,2024-11-01,New,Basic,Email,7,0.0,0,174.0,0
+U0751,2024-10-01,At risk,Basic,Paid,20,0.2,2,235.2,1
+U0752,2024-12-01,At risk,Pro,Organic,6,0.3,6,491.4,1
+U0753,2024-11-01,At risk,Basic,Email,22,0.0,1,294.0,0
+U0754,2025-05-01,Loyal,Basic,Email,16,0.1,1,426.6,0
+U0755,2024-12-01,Returning,Plus,Email,18,0.0,0,468.0,0
+U0756,2024-08-01,Returning,Basic,Paid,18,0.0,0,294.0,0
+U0757,2025-06-01,Returning,Basic,Email,3,0.0,0,147.0,0
+U0758,2024-11-01,New,Basic,Paid,22,0.0,1,174.0,0
+U0759,2024-10-01,At risk,Basic,Paid,7,0.0,2,294.0,1
+U0760,2025-02-01,Loyal,Plus,Email,14,0.0,0,756.0,0
+U0761,2024-09-01,At risk,Pro,Organic,9,0.3,3,491.4,1
+U0762,2024-10-01,Returning,Pro,Paid,2,0.0,1,234.0,0
+U0763,2024-10-01,Loyal,Basic,Email,5,0.2,0,316.0,1
+U0764,2024-11-01,Loyal,Basic,Paid,21,0.0,2,474.0,0
+U0765,2024-08-01,Returning,Plus,Email,8,0.0,2,468.0,1
+U0766,2025-03-01,Returning,Plus,Organic,2,0.0,1,156.0,0
+U0767,2025-03-01,New,Plus,Referral,7,0.0,1,276.0,0
+U0768,2024-10-01,Loyal,Plus,Paid,22,0.0,0,756.0,0
+U0769,2025-02-01,Loyal,Basic,Organic,15,0.0,1,474.0,0
+U0770,2024-09-01,At risk,Pro,Email,8,0.0,2,702.0,1
+U0771,2025-06-01,Loyal,Basic,Organic,10,0.0,1,474.0,0
+U0772,2024-08-01,New,Basic,Organic,17,0.0,0,174.0,0
+U0773,2024-11-01,New,Basic,Paid,2,0.0,0,58.0,0
+U0774,2025-03-01,Returning,Basic,Referral,23,0.0,0,294.0,0
+U0775,2024-12-01,Returning,Basic,Referral,21,0.0,0,294.0,0
+U0776,2025-01-01,New,Plus,Paid,19,0.0,0,276.0,0
+U0777,2024-11-01,Returning,Basic,Organic,12,0.0,1,294.0,0
+U0778,2025-03-01,New,Pro,Organic,18,0.0,3,414.0,0
+U0779,2024-08-01,New,Basic,Paid,5,0.0,0,145.0,0
+U0780,2024-10-01,Returning,Plus,Organic,8,0.0,3,468.0,0
+U0781,2025-04-01,Returning,Plus,Organic,22,0.0,0,468.0,0
+U0782,2025-02-01,New,Pro,Email,15,0.1,0,372.6,0
+U0783,2024-12-01,Returning,Basic,Email,6,0.0,0,294.0,0
+U0784,2025-06-01,At risk,Plus,Organic,19,0.0,5,468.0,0
+U0785,2024-09-01,At risk,Pro,Paid,11,0.0,6,702.0,1
+U0786,2024-08-01,Returning,Plus,Email,13,0.1,0,421.2,0
+U0787,2024-12-01,New,Pro,Paid,17,0.0,1,414.0,1
+U0788,2024-12-01,Loyal,Plus,Organic,22,0.0,0,756.0,0
+U0789,2024-07-01,Returning,Plus,Paid,20,0.0,2,468.0,0
+U0790,2024-07-01,New,Basic,Referral,1,0.0,0,29.0,0
+U0791,2025-06-01,New,Basic,Organic,14,0.0,1,174.0,1
+U0792,2024-10-01,Loyal,Basic,Referral,15,0.0,0,474.0,0
+U0793,2025-03-01,Returning,Basic,Referral,11,0.2,0,235.2,0
+U0794,2024-07-01,Returning,Plus,Organic,9,0.0,0,468.0,0
+U0795,2024-07-01,New,Plus,Email,3,0.1,0,124.2,0
+U0796,2025-03-01,New,Plus,Email,5,0.0,0,230.0,1
+U0797,2024-09-01,At risk,Plus,Organic,1,0.0,0,78.0,0
+U0798,2024-09-01,New,Plus,Email,22,0.0,0,276.0,0
+U0799,2025-06-01,New,Basic,Paid,19,0.0,0,174.0,0
+U0800,2025-03-01,Returning,Plus,Email,16,0.2,0,374.4,1
+U0801,2024-11-01,Returning,Basic,Organic,16,0.0,0,294.0,0
+U0802,2024-08-01,New,Basic,Email,15,0.0,2,174.0,0
+U0803,2025-02-01,New,Pro,Organic,22,0.2,2,331.2,1
+U0804,2024-12-01,At risk,Plus,Email,20,0.0,2,468.0,1
+U0805,2025-06-01,New,Basic,Paid,14,0.2,1,139.2,0
+U0806,2025-03-01,New,Basic,Referral,15,0.0,0,174.0,0
+U0807,2025-06-01,At risk,Basic,Email,10,0.0,2,294.0,0
+U0808,2025-03-01,Returning,Basic,Paid,6,0.0,0,294.0,0
+U0809,2025-04-01,Loyal,Basic,Organic,8,0.0,0,474.0,0
+U0810,2025-05-01,Returning,Basic,Organic,5,0.0,1,245.0,0
+U0811,2024-08-01,Returning,Basic,Organic,14,0.0,0,294.0,0
+U0812,2025-04-01,Returning,Pro,Paid,18,0.1,0,631.8,0
+U0813,2024-09-01,At risk,Plus,Referral,18,0.3,2,327.6,0
+U0814,2024-12-01,Returning,Basic,Paid,15,0.0,0,294.0,0
+U0815,2025-05-01,Returning,Basic,Email,13,0.0,2,294.0,0
+U0816,2024-12-01,Loyal,Plus,Email,14,0.0,0,756.0,0
+U0817,2025-03-01,New,Pro,Organic,5,0.0,1,345.0,1
+U0818,2024-11-01,At risk,Pro,Organic,21,0.0,3,702.0,0
+U0819,2024-09-01,Returning,Basic,Email,23,0.0,1,294.0,0
+U0820,2024-08-01,Loyal,Plus,Organic,22,0.0,0,756.0,0
+U0821,2025-01-01,Returning,Basic,Paid,2,0.0,0,98.0,0
+U0822,2025-04-01,Returning,Basic,Organic,16,0.0,0,294.0,0
+U0823,2025-06-01,Loyal,Basic,Email,8,0.0,1,474.0,0
+U0824,2025-04-01,Returning,Plus,Referral,10,0.0,0,468.0,0
+U0825,2025-03-01,New,Basic,Organic,17,0.2,3,139.2,0
+U0826,2025-04-01,At risk,Basic,Referral,4,0.1,4,176.4,1
+U0827,2024-10-01,Loyal,Plus,Organic,22,0.0,1,756.0,0
+U0828,2025-02-01,Returning,Basic,Organic,14,0.0,1,294.0,1
+U0829,2025-03-01,New,Basic,Referral,3,0.0,2,87.0,0
+U0830,2024-07-01,New,Plus,Organic,5,0.0,0,230.0,0
+U0831,2025-06-01,Returning,Plus,Paid,1,0.0,0,78.0,0
+U0832,2024-09-01,At risk,Basic,Referral,16,0.1,1,264.6,1
+U0833,2025-05-01,Returning,Plus,Paid,10,0.0,1,468.0,0
+U0834,2025-01-01,Returning,Pro,Paid,22,0.0,0,702.0,0
+U0835,2024-07-01,Returning,Plus,Paid,18,0.0,0,468.0,0
+U0836,2025-04-01,Loyal,Plus,Email,21,0.0,0,756.0,0
+U0837,2024-11-01,Loyal,Plus,Email,8,0.0,0,756.0,0
+U0838,2024-12-01,New,Basic,Referral,5,0.0,1,145.0,0
+U0839,2025-04-01,At risk,Plus,Referral,13,0.0,1,468.0,1
+U0840,2025-04-01,New,Pro,Email,18,0.0,0,414.0,0
+U0841,2025-02-01,Returning,Basic,Paid,22,0.0,0,294.0,0
+U0842,2024-11-01,Returning,Basic,Organic,4,0.0,2,196.0,0
+U0843,2024-10-01,Returning,Basic,Paid,14,0.1,3,264.6,1
+U0844,2024-08-01,New,Basic,Email,5,0.2,0,116.0,1
+U0845,2024-07-01,New,Plus,Organic,19,0.0,0,276.0,1
+U0846,2024-10-01,Returning,Basic,Paid,4,0.0,2,196.0,0
+U0847,2024-07-01,At risk,Plus,Referral,3,0.1,0,210.6,0
+U0848,2024-11-01,New,Plus,Organic,18,0.0,0,276.0,0
+U0849,2024-12-01,New,Basic,Organic,5,0.0,1,145.0,0
+U0850,2025-06-01,New,Plus,Organic,14,0.0,1,276.0,0
+U0851,2024-10-01,Returning,Plus,Email,14,0.0,1,468.0,0
+U0852,2024-08-01,At risk,Plus,Organic,2,0.0,3,156.0,0
+U0853,2024-10-01,Loyal,Basic,Organic,19,0.0,1,474.0,0
+U0854,2024-11-01,Loyal,Basic,Organic,5,0.0,0,395.0,0
+U0855,2024-09-01,New,Basic,Organic,5,0.0,0,145.0,0
+U0856,2024-07-01,At risk,Basic,Email,22,0.3,1,205.8,1
+U0857,2024-11-01,Returning,Basic,Referral,12,0.0,2,294.0,0
+U0858,2024-08-01,Returning,Plus,Organic,11,0.0,1,468.0,0
+U0859,2024-08-01,Loyal,Basic,Organic,9,0.0,0,474.0,0
+U0860,2025-03-01,Returning,Plus,Referral,5,0.0,0,390.0,0
+U0861,2025-02-01,Returning,Basic,Referral,10,0.0,1,294.0,0
+U0862,2024-07-01,At risk,Plus,Paid,9,0.0,3,468.0,0
+U0863,2024-11-01,At risk,Plus,Organic,22,0.0,4,468.0,0
+U0864,2024-07-01,New,Basic,Referral,12,0.0,2,174.0,0
+U0865,2024-07-01,Loyal,Basic,Organic,13,0.0,0,474.0,0
+U0866,2025-03-01,Returning,Plus,Paid,6,0.0,2,468.0,0
+U0867,2025-05-01,Returning,Basic,Referral,3,0.0,1,147.0,0
+U0868,2025-05-01,New,Basic,Referral,8,0.0,1,174.0,0
+U0869,2025-06-01,Returning,Basic,Organic,21,0.0,0,294.0,0
+U0870,2025-05-01,Loyal,Plus,Email,11,0.0,1,756.0,0
+U0871,2025-03-01,New,Plus,Paid,9,0.0,1,276.0,1
+U0872,2024-09-01,New,Basic,Email,22,0.0,0,174.0,0
+U0873,2025-01-01,At risk,Plus,Paid,20,0.2,3,374.4,1
+U0874,2024-11-01,New,Pro,Paid,12,0.0,1,414.0,0
+U0875,2025-06-01,At risk,Pro,Paid,18,0.0,2,702.0,0
+U0876,2024-08-01,Returning,Basic,Referral,8,0.0,1,294.0,0
+U0877,2024-08-01,Loyal,Plus,Paid,7,0.0,0,756.0,0
+U0878,2024-12-01,Returning,Pro,Email,10,0.0,1,702.0,0
+U0879,2025-01-01,New,Plus,Organic,2,0.0,0,92.0,0
+U0880,2025-03-01,Loyal,Basic,Organic,21,0.0,1,474.0,0
+U0881,2024-08-01,Returning,Plus,Organic,17,0.0,0,468.0,1
+U0882,2024-12-01,New,Plus,Organic,15,0.2,0,220.8,0
+U0883,2025-03-01,Loyal,Basic,Paid,7,0.0,1,474.0,0
+U0884,2024-10-01,Returning,Basic,Email,5,0.0,2,245.0,0
+U0885,2024-09-01,Returning,Basic,Referral,13,0.0,2,294.0,0
+U0886,2025-01-01,Returning,Basic,Paid,2,0.0,1,98.0,0
+U0887,2025-04-01,New,Plus,Referral,1,0.0,0,46.0,0
+U0888,2025-06-01,Loyal,Basic,Paid,12,0.0,1,474.0,0
+U0889,2025-04-01,Returning,Plus,Referral,2,0.0,0,156.0,0
+U0890,2024-07-01,New,Plus,Organic,5,0.0,0,230.0,0
+U0891,2024-08-01,New,Plus,Organic,4,0.0,1,184.0,0
+U0892,2025-04-01,New,Basic,Email,8,0.0,0,174.0,0
+U0893,2025-04-01,Loyal,Basic,Organic,20,0.0,1,474.0,0
+U0894,2024-08-01,New,Basic,Paid,7,0.0,1,174.0,0
+U0895,2024-12-01,Returning,Basic,Paid,10,0.0,0,294.0,0
+U0896,2024-07-01,New,Basic,Organic,9,0.3,2,121.8,0
+U0897,2024-11-01,New,Plus,Email,3,0.0,0,138.0,0
+U0898,2025-04-01,Loyal,Basic,Organic,21,0.0,0,474.0,0
+U0899,2024-07-01,Returning,Plus,Referral,9,0.0,2,468.0,0
+U0900,2025-01-01,At risk,Basic,Referral,8,0.0,1,294.0,1
+U0901,2025-05-01,At risk,Basic,Organic,5,0.2,2,196.0,1
+U0902,2025-01-01,New,Basic,Organic,11,0.0,0,174.0,0
+U0903,2024-10-01,New,Basic,Organic,18,0.0,0,174.0,1
+U0904,2025-05-01,Returning,Plus,Organic,20,0.0,0,468.0,0
+U0905,2024-07-01,Returning,Pro,Organic,14,0.0,0,702.0,0
+U0906,2024-11-01,New,Plus,Paid,10,0.0,0,276.0,0
+U0907,2025-01-01,Returning,Basic,Organic,4,0.0,1,196.0,0
+U0908,2024-10-01,New,Basic,Email,19,0.0,0,174.0,0
+U0909,2025-04-01,At risk,Basic,Email,12,0.1,2,264.6,0
+U0910,2025-01-01,Returning,Plus,Email,8,0.0,1,468.0,0
+U0911,2024-07-01,Returning,Plus,Referral,7,0.1,0,421.2,0
+U0912,2025-02-01,Returning,Basic,Email,20,0.0,0,294.0,0
+U0913,2024-09-01,Returning,Pro,Email,22,0.0,0,702.0,0
+U0914,2025-02-01,Loyal,Basic,Referral,17,0.0,2,474.0,0
+U0915,2025-03-01,New,Plus,Paid,19,0.0,0,276.0,0
+U0916,2024-10-01,Loyal,Plus,Organic,4,0.0,0,504.0,0
+U0917,2025-06-01,At risk,Basic,Referral,10,0.0,2,294.0,0
+U0918,2025-05-01,New,Basic,Email,13,0.0,1,174.0,0
+U0919,2025-04-01,Loyal,Pro,Referral,12,0.0,1,1134.0,0
+U0920,2024-10-01,Returning,Pro,Paid,2,0.0,1,234.0,0
+U0921,2025-05-01,Loyal,Basic,Organic,12,0.0,2,474.0,0
+U0922,2024-10-01,Returning,Pro,Referral,17,0.0,2,702.0,0
+U0923,2025-03-01,Returning,Basic,Organic,16,0.0,1,294.0,0
+U0924,2024-09-01,New,Plus,Paid,9,0.0,1,276.0,1
+U0925,2024-08-01,New,Basic,Referral,11,0.0,0,174.0,0
+U0926,2025-02-01,Returning,Plus,Organic,13,0.0,1,468.0,0
+U0927,2024-12-01,New,Basic,Paid,21,0.1,0,156.6,0
+U0928,2025-03-01,Returning,Plus,Email,9,0.0,1,468.0,0
+U0929,2025-02-01,Returning,Pro,Organic,7,0.0,1,702.0,0
+U0930,2025-06-01,At risk,Plus,Organic,3,0.1,3,210.6,1
+U0931,2025-06-01,Loyal,Pro,Organic,9,0.0,1,1134.0,0
+U0932,2024-07-01,At risk,Plus,Referral,11,0.3,0,327.6,0
+U0933,2024-11-01,Returning,Basic,Email,2,0.0,1,98.0,1
+U0934,2025-02-01,New,Basic,Paid,1,0.3,1,20.3,1
+U0935,2024-08-01,Returning,Pro,Email,4,0.0,2,468.0,0
+U0936,2025-01-01,New,Basic,Organic,9,0.0,1,174.0,1
+U0937,2025-02-01,At risk,Plus,Paid,16,0.0,0,468.0,1
+U0938,2025-02-01,Returning,Plus,Paid,5,0.0,1,390.0,1
+U0939,2024-09-01,Returning,Basic,Paid,23,0.0,0,294.0,0
+U0940,2024-09-01,Loyal,Pro,Email,3,0.0,0,567.0,0
+U0941,2025-02-01,New,Pro,Paid,5,0.0,1,345.0,0
+U0942,2025-01-01,New,Plus,Paid,23,0.0,0,276.0,0
+U0943,2024-10-01,New,Basic,Organic,10,0.2,1,139.2,0
+U0944,2025-06-01,New,Plus,Organic,2,0.2,3,73.6,1
+U0945,2024-09-01,Returning,Basic,Organic,3,0.0,2,147.0,0
+U0946,2024-07-01,At risk,Pro,Referral,16,0.0,2,702.0,0
+U0947,2024-09-01,Loyal,Plus,Organic,15,0.0,1,756.0,0
+U0948,2024-10-01,New,Plus,Paid,15,0.0,0,276.0,1
+U0949,2024-08-01,Returning,Pro,Paid,1,0.0,1,117.0,0
+U0950,2024-07-01,Returning,Plus,Paid,21,0.0,0,468.0,1
+U0951,2024-12-01,Returning,Basic,Organic,21,0.0,1,294.0,0
+U0952,2025-06-01,Returning,Pro,Paid,9,0.0,0,702.0,0
+U0953,2024-07-01,At risk,Plus,Organic,16,0.1,3,421.2,1
+U0954,2025-04-01,Returning,Plus,Organic,18,0.0,0,468.0,0
+U0955,2024-08-01,At risk,Plus,Referral,17,0.0,3,468.0,1
+U0956,2025-04-01,At risk,Basic,Paid,3,0.0,3,147.0,1
+U0957,2024-12-01,Loyal,Plus,Referral,9,0.0,0,756.0,0
+U0958,2024-10-01,New,Plus,Referral,22,0.0,0,276.0,0
+U0959,2024-10-01,Loyal,Pro,Email,1,0.0,0,189.0,0
+U0960,2024-12-01,New,Plus,Referral,23,0.0,0,276.0,0
+U0961,2025-05-01,Loyal,Basic,Paid,9,0.0,1,474.0,0
+U0962,2025-01-01,Returning,Plus,Referral,14,0.2,1,374.4,0
+U0963,2024-12-01,Returning,Plus,Paid,13,0.0,1,468.0,0
+U0964,2024-08-01,Loyal,Pro,Email,3,0.0,1,567.0,0
+U0965,2024-09-01,Returning,Plus,Organic,5,0.0,0,390.0,0
+U0966,2025-05-01,New,Pro,Paid,17,0.0,0,414.0,1
+U0967,2025-05-01,Loyal,Plus,Organic,16,0.0,1,756.0,1
+U0968,2024-11-01,New,Basic,Email,8,0.0,3,174.0,1
+U0969,2025-02-01,Returning,Basic,Organic,7,0.0,0,294.0,0
+U0970,2024-12-01,At risk,Basic,Referral,15,0.1,4,264.6,1
+U0971,2024-07-01,New,Plus,Organic,7,0.0,1,276.0,0
+U0972,2024-11-01,At risk,Plus,Email,5,0.0,4,390.0,0
+U0973,2025-05-01,Loyal,Basic,Paid,16,0.0,0,474.0,0
+U0974,2024-09-01,At risk,Basic,Paid,8,0.0,2,294.0,1
+U0975,2025-03-01,Returning,Basic,Email,1,0.3,0,34.3,0
+U0976,2025-06-01,Returning,Basic,Organic,14,0.3,0,205.8,0
+U0977,2024-10-01,New,Plus,Paid,8,0.0,2,276.0,0
+U0978,2025-01-01,Returning,Plus,Paid,16,0.0,0,468.0,0
+U0979,2025-03-01,New,Pro,Email,22,0.2,1,331.2,0
+U0980,2024-10-01,New,Pro,Organic,13,0.3,0,289.8,0
+U0981,2025-04-01,At risk,Pro,Organic,3,0.0,4,351.0,0
+U0982,2024-10-01,At risk,Plus,Referral,6,0.0,1,468.0,0
+U0983,2024-12-01,Returning,Basic,Referral,22,0.0,0,294.0,0
+U0984,2024-09-01,At risk,Basic,Organic,15,0.2,1,235.2,0
+U0985,2025-05-01,At risk,Plus,Email,14,0.0,0,468.0,1
+U0986,2025-06-01,New,Pro,Organic,2,0.2,0,110.4,0
+U0987,2025-04-01,Returning,Basic,Paid,6,0.0,1,294.0,0
+U0988,2025-01-01,Loyal,Plus,Referral,1,0.2,1,100.8,0
+U0989,2025-05-01,Returning,Basic,Email,3,0.0,0,147.0,1
+U0990,2025-03-01,New,Basic,Paid,21,0.0,0,174.0,0
+U0991,2024-10-01,Loyal,Basic,Referral,15,0.0,2,474.0,1
+U0992,2025-06-01,Returning,Basic,Organic,11,0.2,1,235.2,1
+U0993,2024-12-01,Returning,Pro,Paid,22,0.0,1,702.0,0
+U0994,2024-11-01,Loyal,Pro,Email,6,0.0,1,1134.0,0
+U0995,2024-11-01,Returning,Basic,Paid,12,0.0,0,294.0,0
+U0996,2024-11-01,Returning,Basic,Organic,15,0.0,0,294.0,0
+U0997,2024-10-01,Loyal,Basic,Organic,21,0.0,0,474.0,0
+U0998,2024-08-01,At risk,Plus,Paid,6,0.0,0,468.0,1
+U0999,2024-07-01,Returning,Pro,Organic,22,0.0,0,702.0,1
+U1000,2025-06-01,Returning,Basic,Paid,1,0.0,0,49.0,1
+U1001,2025-05-01,At risk,Basic,Email,4,0.0,4,196.0,0
+U1002,2025-02-01,New,Plus,Referral,4,0.2,1,147.2,0
+U1003,2024-10-01,Returning,Basic,Organic,5,0.1,0,220.5,0
+U1004,2024-10-01,Returning,Plus,Email,1,0.0,1,78.0,0
+U1005,2024-09-01,New,Plus,Email,12,0.0,1,276.0,1
+U1006,2024-09-01,New,Pro,Organic,15,0.0,0,414.0,0
+U1007,2025-05-01,At risk,Basic,Organic,21,0.0,4,294.0,0
+U1008,2024-10-01,Loyal,Basic,Paid,4,0.0,0,316.0,0
+U1009,2025-03-01,Returning,Basic,Referral,20,0.0,0,294.0,0
+U1010,2025-02-01,Loyal,Basic,Organic,2,0.0,0,158.0,0
+U1011,2025-05-01,Loyal,Pro,Paid,5,0.0,0,945.0,0
+U1012,2024-12-01,At risk,Basic,Paid,8,0.0,3,294.0,0
+U1013,2024-12-01,New,Basic,Organic,22,0.0,0,174.0,0
+U1014,2025-02-01,Returning,Basic,Email,17,0.0,0,294.0,0
+U1015,2025-03-01,Returning,Basic,Paid,5,0.0,0,245.0,0
+U1016,2024-12-01,New,Plus,Paid,12,0.0,0,276.0,0
+U1017,2025-04-01,Returning,Plus,Organic,22,0.2,1,374.4,0
+U1018,2024-08-01,Returning,Basic,Paid,9,0.0,0,294.0,0
+U1019,2024-11-01,Returning,Plus,Referral,16,0.0,0,468.0,0
+U1020,2025-03-01,Loyal,Plus,Paid,19,0.0,0,756.0,0
+U1021,2025-04-01,Loyal,Basic,Referral,9,0.0,0,474.0,0
+U1022,2025-05-01,At risk,Basic,Email,6,0.0,3,294.0,1
+U1023,2025-05-01,New,Plus,Email,7,0.0,0,276.0,1
+U1024,2025-04-01,New,Pro,Paid,6,0.0,0,414.0,0
+U1025,2024-09-01,At risk,Plus,Organic,18,0.0,3,468.0,0
+U1026,2024-10-01,At risk,Plus,Organic,4,0.0,2,312.0,0
+U1027,2024-12-01,New,Basic,Email,16,0.0,0,174.0,0
+U1028,2025-02-01,Loyal,Pro,Email,17,0.0,1,1134.0,0
+U1029,2024-08-01,New,Plus,Paid,1,0.0,0,46.0,0
+U1030,2025-03-01,Returning,Plus,Organic,3,0.0,0,234.0,0
+U1031,2025-01-01,New,Pro,Organic,4,0.0,0,276.0,0
+U1032,2024-08-01,Returning,Plus,Email,7,0.0,0,468.0,0
+U1033,2024-07-01,New,Pro,Referral,1,0.2,1,55.2,0
+U1034,2025-04-01,Loyal,Plus,Referral,19,0.0,0,756.0,0
+U1035,2025-04-01,At risk,Plus,Organic,9,0.2,3,374.4,1
+U1036,2025-06-01,Loyal,Pro,Email,7,0.0,0,1134.0,0
+U1037,2025-02-01,At risk,Basic,Paid,10,0.1,2,264.6,1
+U1038,2024-09-01,New,Plus,Paid,21,0.0,0,276.0,1
+U1039,2024-08-01,At risk,Plus,Paid,21,0.1,0,421.2,1
+U1040,2024-08-01,Loyal,Basic,Referral,20,0.0,0,474.0,0
+U1041,2025-06-01,New,Pro,Email,23,0.0,0,414.0,0
+U1042,2024-07-01,At risk,Basic,Organic,14,0.0,1,294.0,0
+U1043,2025-04-01,Loyal,Pro,Referral,20,0.0,1,1134.0,0
+U1044,2024-09-01,At risk,Basic,Email,23,0.0,2,294.0,1
+U1045,2024-07-01,Loyal,Plus,Email,23,0.0,0,756.0,0
+U1046,2024-07-01,New,Pro,Paid,14,0.3,0,289.8,1
+U1047,2024-07-01,At risk,Plus,Email,6,0.0,5,468.0,1
+U1048,2025-03-01,At risk,Basic,Email,17,0.1,2,264.6,0
+U1049,2025-05-01,Returning,Plus,Paid,18,0.0,0,468.0,0
+U1050,2025-02-01,Returning,Basic,Email,20,0.0,2,294.0,0
+U1051,2024-11-01,Returning,Pro,Referral,16,0.0,2,702.0,0
+U1052,2024-08-01,Returning,Basic,Organic,10,0.0,0,294.0,0
+U1053,2025-06-01,Loyal,Basic,Paid,12,0.0,0,474.0,0
+U1054,2024-11-01,At risk,Plus,Organic,14,0.3,0,327.6,1
+U1055,2025-02-01,Returning,Basic,Paid,12,0.0,1,294.0,0
+U1056,2025-02-01,New,Basic,Referral,21,0.0,0,174.0,0
+U1057,2025-01-01,Returning,Pro,Referral,2,0.1,1,210.6,0
+U1058,2025-04-01,Loyal,Basic,Email,14,0.0,0,474.0,0
+U1059,2024-11-01,Returning,Basic,Organic,2,0.2,0,78.4,0
+U1060,2024-11-01,New,Pro,Paid,18,0.2,1,331.2,0
+U1061,2025-06-01,Loyal,Plus,Organic,2,0.0,0,252.0,0
+U1062,2024-08-01,Loyal,Plus,Referral,11,0.0,0,756.0,0
+U1063,2025-05-01,Returning,Basic,Paid,10,0.0,0,294.0,0
+U1064,2025-01-01,New,Plus,Email,21,0.0,1,276.0,0
+U1065,2025-02-01,At risk,Plus,Paid,10,0.0,2,468.0,0
+U1066,2024-12-01,New,Basic,Paid,6,0.0,0,174.0,0
+U1067,2025-06-01,Returning,Basic,Organic,9,0.0,0,294.0,0
+U1068,2024-07-01,New,Plus,Email,22,0.0,1,276.0,1
+U1069,2025-03-01,Returning,Basic,Organic,19,0.0,0,294.0,0
+U1070,2024-08-01,Loyal,Plus,Organic,13,0.0,1,756.0,0
+U1071,2024-12-01,Loyal,Basic,Email,19,0.0,1,474.0,0
+U1072,2024-10-01,At risk,Basic,Referral,23,0.1,3,264.6,0
+U1073,2025-04-01,Loyal,Basic,Email,13,0.0,1,474.0,0
+U1074,2024-08-01,New,Basic,Email,18,0.3,0,121.8,1
+U1075,2024-07-01,At risk,Basic,Referral,5,0.2,3,196.0,0
+U1076,2024-10-01,Returning,Basic,Paid,3,0.0,1,147.0,0
+U1077,2025-06-01,New,Basic,Organic,15,0.0,2,174.0,1
+U1078,2024-07-01,Loyal,Pro,Organic,22,0.0,0,1134.0,0
+U1079,2025-01-01,At risk,Basic,Organic,14,0.0,2,294.0,1
+U1080,2024-08-01,Returning,Basic,Paid,23,0.0,1,294.0,0
+U1081,2025-02-01,New,Basic,Paid,13,0.0,2,174.0,0
+U1082,2024-12-01,New,Basic,Paid,21,0.2,0,139.2,0
+U1083,2025-04-01,New,Basic,Referral,12,0.0,1,174.0,0
+U1084,2025-06-01,Returning,Plus,Organic,2,0.0,0,156.0,0
+U1085,2024-09-01,Returning,Plus,Referral,18,0.0,2,468.0,0
+U1086,2025-02-01,New,Plus,Referral,20,0.2,0,220.8,0
+U1087,2024-08-01,New,Basic,Email,10,0.1,0,156.6,0
+U1088,2025-04-01,Loyal,Pro,Referral,20,0.0,0,1134.0,0
+U1089,2025-05-01,At risk,Pro,Paid,11,0.0,4,702.0,1
+U1090,2024-10-01,Returning,Basic,Paid,2,0.0,2,98.0,0
+U1091,2024-11-01,New,Plus,Referral,8,0.1,1,248.4,1
+U1092,2024-09-01,Loyal,Pro,Paid,18,0.0,0,1134.0,0
+U1093,2025-03-01,At risk,Pro,Referral,8,0.0,3,702.0,0
+U1094,2024-08-01,At risk,Plus,Email,19,0.0,3,468.0,1
+U1095,2025-04-01,Loyal,Plus,Referral,18,0.0,2,756.0,0
+U1096,2025-03-01,Returning,Plus,Paid,10,0.0,1,468.0,0
+U1097,2024-11-01,New,Plus,Paid,6,0.0,1,276.0,1
+U1098,2024-07-01,Returning,Basic,Email,7,0.0,0,294.0,0
+U1099,2024-07-01,New,Pro,Email,11,0.2,0,331.2,1
+U1100,2024-12-01,Loyal,Plus,Organic,15,0.0,0,756.0,0
+U1101,2024-09-01,New,Basic,Paid,19,0.0,0,174.0,0
+U1102,2024-12-01,At risk,Basic,Email,8,0.3,2,205.8,0
+U1103,2024-12-01,Returning,Pro,Referral,19,0.1,2,631.8,1
+U1104,2025-02-01,Loyal,Plus,Organic,17,0.0,1,756.0,0
+U1105,2024-12-01,At risk,Basic,Referral,15,0.0,3,294.0,1
+U1106,2024-11-01,Loyal,Pro,Referral,13,0.0,0,1134.0,0
+U1107,2025-01-01,Loyal,Plus,Referral,1,0.0,0,126.0,0
+U1108,2025-02-01,New,Plus,Organic,13,0.0,0,276.0,0
+U1109,2024-12-01,Returning,Basic,Paid,21,0.0,0,294.0,0
+U1110,2025-05-01,Loyal,Plus,Email,17,0.0,1,756.0,0
+U1111,2024-12-01,Loyal,Basic,Paid,16,0.0,1,474.0,0
+U1112,2025-05-01,Returning,Basic,Paid,23,0.0,0,294.0,0
+U1113,2025-01-01,New,Pro,Email,19,0.0,0,414.0,0
+U1114,2024-07-01,Returning,Plus,Organic,7,0.0,0,468.0,0
+U1115,2025-01-01,Loyal,Basic,Organic,10,0.0,0,474.0,0
+U1116,2024-08-01,At risk,Basic,Paid,21,0.0,6,294.0,1
+U1117,2024-12-01,Loyal,Basic,Organic,8,0.0,0,474.0,0
+U1118,2024-12-01,Returning,Basic,Referral,18,0.0,1,294.0,0
+U1119,2024-11-01,At risk,Basic,Organic,11,0.1,4,264.6,0
+U1120,2024-10-01,Loyal,Basic,Email,11,0.0,0,474.0,0
+U1121,2024-07-01,Returning,Basic,Email,2,0.0,1,98.0,0
+U1122,2025-01-01,New,Plus,Paid,7,0.0,1,276.0,1
+U1123,2025-06-01,At risk,Plus,Paid,12,0.0,3,468.0,0
+U1124,2025-03-01,Loyal,Basic,Organic,19,0.0,0,474.0,0
+U1125,2025-05-01,At risk,Basic,Organic,1,0.0,4,49.0,1
+U1126,2024-10-01,New,Basic,Organic,18,0.0,0,174.0,0
+U1127,2025-03-01,Returning,Basic,Paid,2,0.0,0,98.0,1
+U1128,2025-06-01,Returning,Pro,Paid,14,0.0,1,702.0,0
+U1129,2025-02-01,At risk,Plus,Paid,12,0.0,2,468.0,0
+U1130,2025-03-01,Loyal,Basic,Paid,11,0.0,0,474.0,0
+U1131,2025-04-01,Returning,Basic,Organic,16,0.0,0,294.0,0
+U1132,2024-12-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U1133,2024-11-01,Returning,Basic,Referral,10,0.0,2,294.0,0
+U1134,2025-01-01,Returning,Basic,Referral,22,0.0,1,294.0,0
+U1135,2025-06-01,Returning,Basic,Organic,22,0.0,2,294.0,0
+U1136,2025-06-01,At risk,Basic,Organic,10,0.3,0,205.8,0
+U1137,2024-08-01,Returning,Basic,Organic,5,0.0,0,245.0,0
+U1138,2025-04-01,Loyal,Plus,Organic,22,0.0,0,756.0,0
+U1139,2025-05-01,New,Plus,Organic,7,0.3,1,193.2,0
+U1140,2024-09-01,At risk,Basic,Referral,5,0.0,4,245.0,0
+U1141,2025-01-01,Returning,Basic,Paid,1,0.0,0,49.0,0
+U1142,2025-06-01,New,Pro,Paid,23,0.0,1,414.0,0
+U1143,2025-02-01,At risk,Basic,Paid,14,0.0,2,294.0,1
+U1144,2024-09-01,Returning,Plus,Referral,2,0.0,0,156.0,0
+U1145,2024-09-01,At risk,Plus,Referral,5,0.0,2,390.0,0
+U1146,2024-08-01,Returning,Plus,Referral,10,0.0,1,468.0,1
+U1147,2024-08-01,At risk,Plus,Organic,6,0.1,1,421.2,0
+U1148,2024-07-01,New,Pro,Paid,11,0.0,0,414.0,1
+U1149,2024-07-01,At risk,Pro,Organic,22,0.0,0,702.0,1
+U1150,2024-09-01,Returning,Basic,Paid,4,0.0,0,196.0,0
+U1151,2024-10-01,Loyal,Basic,Organic,6,0.0,1,474.0,0
+U1152,2024-08-01,New,Plus,Organic,21,0.0,2,276.0,1
+U1153,2025-01-01,Returning,Pro,Organic,9,0.0,0,702.0,0
+U1154,2025-04-01,New,Pro,Referral,14,0.0,3,414.0,1
+U1155,2025-03-01,Returning,Basic,Paid,4,0.0,0,196.0,0
+U1156,2024-10-01,Loyal,Basic,Email,1,0.0,0,79.0,0
+U1157,2025-05-01,Returning,Basic,Email,12,0.0,0,294.0,0
+U1158,2024-10-01,Returning,Plus,Paid,22,0.0,0,468.0,0
+U1159,2025-03-01,Loyal,Basic,Organic,16,0.0,2,474.0,0
+U1160,2024-11-01,Returning,Pro,Paid,9,0.0,0,702.0,0
+U1161,2024-09-01,New,Basic,Referral,10,0.0,1,174.0,0
+U1162,2024-12-01,New,Plus,Paid,12,0.0,0,276.0,0
+U1163,2025-01-01,New,Pro,Email,22,0.0,1,414.0,0
+U1164,2025-05-01,Loyal,Plus,Organic,12,0.0,0,756.0,0
+U1165,2024-12-01,New,Basic,Organic,17,0.0,0,174.0,0
+U1166,2024-07-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U1167,2025-02-01,At risk,Basic,Paid,21,0.3,4,205.8,1
+U1168,2024-09-01,Loyal,Pro,Referral,1,0.0,1,189.0,0
+U1169,2025-04-01,At risk,Basic,Paid,10,0.3,2,205.8,1
+U1170,2025-01-01,New,Pro,Paid,23,0.1,0,372.6,1
+U1171,2024-11-01,New,Plus,Organic,4,0.0,1,184.0,0
+U1172,2025-02-01,New,Basic,Email,18,0.0,0,174.0,0
+U1173,2025-01-01,Loyal,Plus,Organic,21,0.0,0,756.0,0
+U1174,2025-06-01,At risk,Basic,Paid,19,0.1,1,264.6,0
+U1175,2025-05-01,Loyal,Plus,Paid,17,0.0,1,756.0,1
+U1176,2025-02-01,New,Basic,Paid,9,0.3,1,121.8,0
+U1177,2024-12-01,Returning,Plus,Paid,12,0.0,0,468.0,0
+U1178,2025-05-01,Loyal,Plus,Organic,10,0.0,1,756.0,0
+U1179,2024-09-01,New,Plus,Paid,21,0.0,1,276.0,0
+U1180,2024-10-01,New,Basic,Organic,21,0.0,1,174.0,0
+U1181,2025-04-01,Loyal,Basic,Email,4,0.0,0,316.0,0
+U1182,2024-08-01,At risk,Basic,Email,9,0.0,1,294.0,0
+U1183,2025-04-01,New,Plus,Referral,19,0.0,0,276.0,1
+U1184,2024-10-01,Loyal,Basic,Paid,1,0.0,0,79.0,0
+U1185,2024-07-01,New,Basic,Email,18,0.0,1,174.0,0
+U1186,2024-12-01,New,Pro,Organic,3,0.0,2,207.0,0
+U1187,2025-02-01,At risk,Plus,Organic,18,0.0,8,468.0,0
+U1188,2025-03-01,Returning,Basic,Email,1,0.0,0,49.0,0
+U1189,2024-08-01,Loyal,Plus,Referral,3,0.0,1,378.0,0
+U1190,2024-12-01,New,Pro,Paid,6,0.0,0,414.0,0
+U1191,2024-11-01,New,Basic,Paid,15,0.0,1,174.0,0
+U1192,2024-08-01,Returning,Basic,Email,16,0.0,0,294.0,0
+U1193,2024-09-01,At risk,Basic,Organic,6,0.0,1,294.0,1
+U1194,2024-07-01,Returning,Basic,Organic,14,0.0,3,294.0,0
+U1195,2024-12-01,At risk,Plus,Paid,11,0.0,3,468.0,1
+U1196,2024-07-01,Returning,Basic,Email,23,0.0,1,294.0,0
+U1197,2025-01-01,Returning,Basic,Paid,13,0.0,0,294.0,0
+U1198,2024-11-01,Returning,Plus,Organic,3,0.0,1,234.0,0
+U1199,2024-10-01,Returning,Basic,Organic,8,0.0,0,294.0,0
+U1200,2024-11-01,Returning,Plus,Referral,8,0.0,0,468.0,0
+U1201,2025-05-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U1202,2025-01-01,Loyal,Basic,Email,11,0.0,0,474.0,0
+U1203,2024-10-01,Loyal,Basic,Email,7,0.0,1,474.0,0
+U1204,2024-08-01,Loyal,Plus,Organic,23,0.0,0,756.0,0
+U1205,2025-06-01,New,Basic,Paid,4,0.0,2,116.0,0
+U1206,2025-03-01,Returning,Basic,Paid,7,0.0,0,294.0,1
+U1207,2024-10-01,Loyal,Basic,Email,14,0.0,1,474.0,0
+U1208,2025-04-01,Loyal,Plus,Paid,19,0.0,0,756.0,0
+U1209,2024-08-01,New,Pro,Email,18,0.1,1,372.6,0
+U1210,2025-01-01,Returning,Basic,Email,18,0.0,0,294.0,1
+U1211,2025-05-01,Loyal,Plus,Paid,15,0.0,0,756.0,0
+U1212,2025-02-01,At risk,Basic,Organic,4,0.3,5,137.2,1
+U1213,2025-05-01,Loyal,Basic,Paid,18,0.0,0,474.0,0
+U1214,2025-01-01,At risk,Basic,Referral,14,0.1,3,264.6,0
+U1215,2024-09-01,New,Basic,Paid,8,0.0,0,174.0,0
+U1216,2024-08-01,At risk,Pro,Email,13,0.3,1,491.4,1
+U1217,2024-08-01,Returning,Pro,Email,20,0.0,2,702.0,0
+U1218,2025-06-01,Returning,Basic,Email,6,0.0,0,294.0,0
+U1219,2024-10-01,Loyal,Basic,Organic,14,0.0,2,474.0,0
+U1220,2024-12-01,New,Basic,Email,23,0.0,0,174.0,1
+U1221,2025-02-01,New,Plus,Email,22,0.0,0,276.0,1
+U1222,2024-09-01,Returning,Basic,Email,10,0.0,1,294.0,0
+U1223,2025-02-01,New,Basic,Paid,5,0.0,1,145.0,0
+U1224,2024-08-01,At risk,Plus,Paid,7,0.2,3,374.4,0
+U1225,2025-01-01,Returning,Plus,Referral,7,0.0,0,468.0,0
+U1226,2025-06-01,New,Pro,Referral,11,0.0,1,414.0,0
+U1227,2025-02-01,At risk,Basic,Paid,17,0.2,3,235.2,1
+U1228,2025-04-01,Loyal,Basic,Organic,7,0.0,0,474.0,0
+U1229,2024-11-01,New,Plus,Paid,3,0.0,0,138.0,0
+U1230,2024-10-01,New,Basic,Organic,13,0.0,0,174.0,0
+U1231,2024-09-01,New,Basic,Paid,12,0.0,0,174.0,1
+U1232,2024-12-01,New,Pro,Paid,10,0.0,1,414.0,0
+U1233,2024-07-01,Returning,Basic,Organic,10,0.0,0,294.0,0
+U1234,2024-07-01,New,Plus,Organic,23,0.0,0,276.0,0
+U1235,2024-12-01,Returning,Basic,Organic,16,0.0,0,294.0,0
+U1236,2025-03-01,New,Basic,Email,15,0.0,2,174.0,1
+U1237,2024-07-01,Returning,Basic,Referral,9,0.0,1,294.0,0
+U1238,2025-04-01,Loyal,Plus,Referral,9,0.0,0,756.0,0
+U1239,2025-06-01,At risk,Pro,Referral,13,0.0,1,702.0,1
+U1240,2025-06-01,New,Pro,Paid,23,0.0,1,414.0,1
+U1241,2025-03-01,At risk,Basic,Email,4,0.0,2,196.0,0
+U1242,2024-12-01,New,Pro,Organic,11,0.0,1,414.0,1
+U1243,2025-05-01,Returning,Pro,Email,1,0.0,0,117.0,0
+U1244,2025-03-01,Loyal,Basic,Organic,16,0.0,2,474.0,0
+U1245,2024-11-01,Returning,Basic,Paid,19,0.0,1,294.0,1
+U1246,2025-04-01,At risk,Basic,Paid,15,0.0,4,294.0,0
+U1247,2025-03-01,New,Basic,Organic,22,0.0,0,174.0,0
+U1248,2025-05-01,Returning,Basic,Organic,2,0.0,2,98.0,1
+U1249,2024-09-01,New,Plus,Organic,10,0.0,0,276.0,0
+U1250,2024-08-01,Returning,Plus,Referral,15,0.0,0,468.0,0
+U1251,2025-05-01,At risk,Pro,Paid,18,0.1,1,631.8,0
+U1252,2024-08-01,Returning,Basic,Organic,2,0.2,0,78.4,0
+U1253,2025-04-01,Returning,Plus,Referral,23,0.0,2,468.0,0
+U1254,2024-11-01,Loyal,Basic,Referral,7,0.0,0,474.0,0
+U1255,2025-06-01,New,Pro,Organic,2,0.0,0,138.0,0
+U1256,2025-02-01,Loyal,Plus,Organic,3,0.0,3,378.0,0
+U1257,2024-12-01,At risk,Plus,Organic,9,0.0,2,468.0,0
+U1258,2025-04-01,New,Basic,Email,21,0.0,0,174.0,0
+U1259,2024-08-01,At risk,Plus,Organic,9,0.0,3,468.0,0
+U1260,2024-11-01,New,Pro,Organic,19,0.0,0,414.0,0
+U1261,2025-06-01,New,Basic,Paid,12,0.2,1,139.2,0
+U1262,2024-10-01,At risk,Basic,Paid,19,0.0,5,294.0,1
+U1263,2025-02-01,New,Plus,Paid,17,0.0,0,276.0,0
+U1264,2025-04-01,New,Basic,Email,9,0.0,1,174.0,1
+U1265,2024-09-01,Returning,Plus,Organic,8,0.1,0,421.2,1
+U1266,2025-06-01,Loyal,Plus,Organic,2,0.0,2,252.0,1
+U1267,2025-02-01,At risk,Basic,Email,18,0.0,2,294.0,0
+U1268,2025-06-01,Returning,Basic,Referral,4,0.0,1,196.0,0
+U1269,2025-06-01,Returning,Basic,Organic,18,0.0,0,294.0,0
+U1270,2025-05-01,Loyal,Basic,Referral,9,0.0,1,474.0,0
+U1271,2025-01-01,New,Pro,Referral,11,0.0,0,414.0,0
+U1272,2024-09-01,New,Basic,Paid,16,0.0,0,174.0,1
+U1273,2025-05-01,New,Plus,Email,15,0.0,0,276.0,0
+U1274,2024-08-01,Loyal,Pro,Organic,20,0.0,1,1134.0,0
+U1275,2024-10-01,Loyal,Plus,Email,8,0.0,0,756.0,0
+U1276,2025-02-01,New,Pro,Paid,22,0.1,1,372.6,0
+U1277,2025-02-01,New,Basic,Organic,17,0.3,1,121.8,0
+U1278,2025-05-01,Returning,Basic,Organic,8,0.0,0,294.0,0
+U1279,2024-11-01,Loyal,Pro,Email,21,0.0,0,1134.0,0
+U1280,2025-05-01,At risk,Plus,Email,15,0.0,1,468.0,0
+U1281,2025-06-01,Loyal,Plus,Email,7,0.0,0,756.0,0
+U1282,2025-04-01,Loyal,Pro,Paid,5,0.0,1,945.0,0
+U1283,2024-07-01,New,Plus,Paid,20,0.0,1,276.0,1
+U1284,2025-06-01,Returning,Basic,Organic,6,0.0,1,294.0,0
+U1285,2024-09-01,New,Basic,Organic,3,0.1,0,78.3,0
+U1286,2024-10-01,New,Basic,Organic,6,0.0,1,174.0,0
+U1287,2025-05-01,New,Basic,Email,17,0.2,0,139.2,0
+U1288,2024-07-01,Loyal,Pro,Paid,17,0.0,1,1134.0,0
+U1289,2024-12-01,New,Basic,Paid,23,0.0,0,174.0,1
+U1290,2025-03-01,Loyal,Plus,Paid,10,0.0,0,756.0,0
+U1291,2025-06-01,Returning,Plus,Paid,12,0.0,1,468.0,0
+U1292,2024-12-01,Returning,Plus,Paid,5,0.0,1,390.0,0
+U1293,2024-09-01,Loyal,Plus,Paid,22,0.0,0,756.0,0
+U1294,2024-07-01,Returning,Pro,Organic,13,0.0,1,702.0,0
+U1295,2024-10-01,At risk,Basic,Organic,5,0.0,3,245.0,1
+U1296,2024-12-01,At risk,Plus,Organic,17,0.2,1,374.4,1
+U1297,2025-02-01,Loyal,Basic,Email,12,0.0,1,474.0,0
+U1298,2025-04-01,At risk,Basic,Referral,21,0.0,1,294.0,0
+U1299,2024-11-01,Returning,Pro,Referral,21,0.0,0,702.0,0
+U1300,2025-01-01,Returning,Plus,Organic,20,0.0,2,468.0,0
+U1301,2025-06-01,Returning,Basic,Referral,16,0.0,1,294.0,0
+U1302,2025-06-01,New,Basic,Paid,13,0.0,0,174.0,0
+U1303,2025-01-01,Returning,Basic,Referral,14,0.0,1,294.0,0
+U1304,2024-09-01,Loyal,Basic,Organic,3,0.0,0,237.0,0
+U1305,2024-12-01,New,Basic,Email,7,0.2,2,139.2,0
+U1306,2024-10-01,New,Basic,Email,23,0.1,0,156.6,0
+U1307,2024-11-01,Returning,Plus,Paid,14,0.0,1,468.0,0
+U1308,2024-11-01,Returning,Plus,Organic,17,0.0,0,468.0,0
+U1309,2024-08-01,At risk,Basic,Paid,9,0.3,3,205.8,1
+U1310,2025-04-01,At risk,Basic,Referral,11,0.0,0,294.0,0
+U1311,2024-11-01,Returning,Basic,Email,9,0.0,0,294.0,0
+U1312,2025-06-01,Returning,Plus,Email,6,0.3,1,327.6,0
+U1313,2025-04-01,Returning,Pro,Email,16,0.0,0,702.0,0
+U1314,2024-10-01,New,Basic,Organic,16,0.0,2,174.0,0
+U1315,2024-10-01,New,Basic,Organic,4,0.0,0,116.0,0
+U1316,2025-02-01,Returning,Plus,Referral,17,0.0,1,468.0,0
+U1317,2024-12-01,Loyal,Plus,Email,17,0.0,1,756.0,0
+U1318,2025-02-01,Loyal,Plus,Organic,9,0.0,0,756.0,0
+U1319,2024-11-01,Returning,Plus,Organic,1,0.0,0,78.0,0
+U1320,2025-04-01,New,Plus,Referral,18,0.0,0,276.0,1
+U1321,2024-08-01,New,Pro,Email,17,0.0,0,414.0,0
+U1322,2025-02-01,Loyal,Basic,Paid,1,0.0,0,79.0,0
+U1323,2025-04-01,Loyal,Plus,Paid,17,0.0,0,756.0,0
+U1324,2025-05-01,At risk,Basic,Email,13,0.0,2,294.0,0
+U1325,2024-07-01,Loyal,Plus,Organic,1,0.0,1,126.0,0
+U1326,2024-10-01,Loyal,Pro,Email,8,0.0,0,1134.0,0
+U1327,2025-06-01,New,Basic,Paid,14,0.0,0,174.0,1
+U1328,2025-04-01,Returning,Basic,Referral,23,0.0,1,294.0,0
+U1329,2024-08-01,Loyal,Pro,Organic,20,0.0,0,1134.0,0
+U1330,2025-01-01,Returning,Basic,Organic,3,0.0,3,147.0,0
+U1331,2025-03-01,Loyal,Basic,Referral,23,0.0,2,474.0,0
+U1332,2025-03-01,Loyal,Pro,Organic,16,0.0,0,1134.0,0
+U1333,2024-11-01,At risk,Pro,Referral,1,0.0,1,117.0,1
+U1334,2024-11-01,Returning,Plus,Paid,21,0.0,0,468.0,0
+U1335,2025-04-01,Returning,Plus,Paid,14,0.0,1,468.0,1
+U1336,2024-10-01,At risk,Plus,Email,23,0.0,2,468.0,0
+U1337,2024-11-01,At risk,Pro,Email,7,0.0,1,702.0,1
+U1338,2025-03-01,Returning,Pro,Email,8,0.0,0,702.0,0
+U1339,2025-01-01,Returning,Plus,Organic,22,0.0,1,468.0,0
+U1340,2025-03-01,Loyal,Basic,Organic,16,0.0,0,474.0,0
+U1341,2024-09-01,Returning,Basic,Email,18,0.0,1,294.0,0
+U1342,2025-06-01,New,Basic,Paid,20,0.0,0,174.0,0
+U1343,2025-06-01,New,Pro,Paid,22,0.0,2,414.0,1
+U1344,2024-08-01,New,Plus,Email,8,0.1,0,248.4,0
+U1345,2024-08-01,Loyal,Basic,Organic,19,0.0,0,474.0,0
+U1346,2024-09-01,New,Pro,Organic,3,0.0,0,207.0,0
+U1347,2024-10-01,At risk,Pro,Paid,3,0.0,3,351.0,1
+U1348,2024-11-01,Returning,Plus,Email,16,0.0,0,468.0,0
+U1349,2025-01-01,At risk,Pro,Organic,22,0.0,1,702.0,1
+U1350,2024-12-01,At risk,Plus,Referral,2,0.0,1,156.0,0
+U1351,2024-09-01,Returning,Basic,Organic,1,0.0,1,49.0,0
+U1352,2025-03-01,Returning,Plus,Referral,20,0.0,0,468.0,0
+U1353,2025-05-01,New,Basic,Email,9,0.0,0,174.0,0
+U1354,2024-09-01,At risk,Plus,Referral,12,0.0,3,468.0,0
+U1355,2025-01-01,Loyal,Basic,Paid,2,0.0,2,158.0,0
+U1356,2025-05-01,New,Plus,Organic,13,0.0,0,276.0,1
+U1357,2025-03-01,New,Pro,Organic,15,0.0,1,414.0,0
+U1358,2024-08-01,Returning,Pro,Organic,19,0.3,0,491.4,1
+U1359,2025-05-01,Returning,Plus,Organic,12,0.0,0,468.0,0
+U1360,2025-05-01,New,Pro,Paid,15,0.3,1,289.8,0
+U1361,2024-10-01,Returning,Plus,Referral,9,0.0,0,468.0,0
+U1362,2025-01-01,At risk,Basic,Paid,12,0.0,6,294.0,0
+U1363,2025-01-01,New,Basic,Referral,4,0.0,0,116.0,0
+U1364,2024-11-01,Loyal,Plus,Organic,23,0.0,1,756.0,0
+U1365,2025-05-01,Loyal,Basic,Paid,21,0.0,0,474.0,0
+U1366,2025-04-01,At risk,Basic,Organic,5,0.0,1,245.0,0
+U1367,2024-09-01,Returning,Plus,Email,16,0.0,0,468.0,0
+U1368,2025-01-01,At risk,Plus,Email,6,0.0,1,468.0,0
+U1369,2024-07-01,Loyal,Plus,Organic,17,0.0,2,756.0,0
+U1370,2024-07-01,At risk,Basic,Paid,23,0.0,4,294.0,0
+U1371,2025-01-01,New,Plus,Paid,11,0.0,0,276.0,1
+U1372,2024-10-01,New,Basic,Paid,9,0.0,2,174.0,1
+U1373,2025-04-01,New,Basic,Organic,6,0.0,1,174.0,0
+U1374,2025-06-01,Returning,Plus,Email,1,0.0,1,78.0,0
+U1375,2024-08-01,New,Basic,Paid,5,0.0,1,145.0,0
+U1376,2025-02-01,Loyal,Plus,Paid,3,0.0,0,378.0,0
+U1377,2025-03-01,Returning,Basic,Email,17,0.0,1,294.0,0
+U1378,2025-02-01,Loyal,Pro,Referral,16,0.0,2,1134.0,0
+U1379,2024-12-01,At risk,Pro,Organic,13,0.0,6,702.0,0
+U1380,2024-07-01,New,Plus,Paid,7,0.0,0,276.0,0
+U1381,2025-06-01,At risk,Pro,Paid,13,0.0,1,702.0,0
+U1382,2025-06-01,New,Basic,Paid,11,0.0,1,174.0,0
+U1383,2024-09-01,Returning,Plus,Organic,11,0.0,0,468.0,0
+U1384,2025-06-01,New,Basic,Paid,8,0.0,0,174.0,0
+U1385,2025-05-01,At risk,Basic,Organic,3,0.1,1,132.3,1
+U1386,2024-07-01,At risk,Basic,Email,18,0.0,2,294.0,0
+U1387,2025-04-01,New,Pro,Referral,1,0.1,0,62.1,0
+U1388,2025-01-01,At risk,Basic,Paid,12,0.0,6,294.0,1
+U1389,2025-05-01,At risk,Pro,Paid,21,0.0,2,702.0,0
+U1390,2024-12-01,New,Plus,Paid,20,0.0,0,276.0,0
+U1391,2024-09-01,Returning,Basic,Paid,22,0.0,2,294.0,0
+U1392,2025-04-01,Loyal,Pro,Email,12,0.0,1,1134.0,0
+U1393,2025-05-01,At risk,Plus,Paid,5,0.2,1,312.0,0
+U1394,2025-02-01,Returning,Plus,Paid,2,0.0,2,156.0,1
+U1395,2024-10-01,New,Basic,Paid,13,0.0,1,174.0,0
+U1396,2024-10-01,New,Basic,Organic,23,0.3,0,121.8,0
+U1397,2024-12-01,Returning,Basic,Referral,1,0.0,1,49.0,0
+U1398,2025-05-01,New,Plus,Referral,12,0.1,0,248.4,0
+U1399,2024-11-01,Returning,Basic,Organic,15,0.0,0,294.0,0
+U1400,2024-11-01,Loyal,Basic,Referral,20,0.0,1,474.0,0
+U1401,2025-04-01,At risk,Plus,Paid,7,0.3,4,327.6,1
+U1402,2024-07-01,New,Basic,Organic,4,0.0,1,116.0,0
+U1403,2024-12-01,Loyal,Basic,Referral,6,0.0,1,474.0,0
+U1404,2024-09-01,New,Basic,Paid,6,0.0,0,174.0,0
+U1405,2024-12-01,New,Pro,Referral,6,0.0,0,414.0,0
+U1406,2025-06-01,Returning,Pro,Email,10,0.0,2,702.0,0
+U1407,2025-05-01,New,Basic,Paid,15,0.0,0,174.0,0
+U1408,2024-10-01,Returning,Plus,Paid,21,0.0,0,468.0,0
+U1409,2025-04-01,New,Plus,Organic,4,0.0,0,184.0,1
+U1410,2024-11-01,Loyal,Plus,Referral,13,0.0,0,756.0,0
+U1411,2025-01-01,At risk,Plus,Email,7,0.0,0,468.0,0
+U1412,2024-10-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U1413,2024-11-01,Returning,Plus,Email,9,0.0,0,468.0,0
+U1414,2025-06-01,At risk,Basic,Email,22,0.0,2,294.0,0
+U1415,2024-09-01,New,Plus,Organic,19,0.0,0,276.0,0
+U1416,2025-02-01,Returning,Basic,Paid,19,0.0,0,294.0,0
+U1417,2025-03-01,Returning,Pro,Organic,21,0.0,1,702.0,1
+U1418,2025-02-01,At risk,Basic,Email,7,0.0,3,294.0,1
+U1419,2024-12-01,Loyal,Plus,Email,4,0.0,1,504.0,0
+U1420,2025-03-01,New,Plus,Paid,17,0.0,0,276.0,0
+U1421,2025-01-01,Loyal,Pro,Paid,21,0.2,0,907.2,0
+U1422,2025-05-01,New,Pro,Organic,3,0.0,0,207.0,0
+U1423,2024-10-01,New,Plus,Email,13,0.0,3,276.0,0
+U1424,2024-10-01,Returning,Plus,Organic,4,0.0,0,312.0,0
+U1425,2025-03-01,At risk,Plus,Organic,5,0.0,4,390.0,1
+U1426,2025-02-01,Returning,Basic,Paid,16,0.2,1,235.2,1
+U1427,2025-01-01,Loyal,Plus,Email,7,0.0,0,756.0,0
+U1428,2025-05-01,New,Pro,Organic,22,0.0,0,414.0,0
+U1429,2024-07-01,New,Basic,Referral,8,0.0,1,174.0,0
+U1430,2024-10-01,Returning,Plus,Paid,11,0.0,1,468.0,1
+U1431,2024-11-01,Returning,Plus,Organic,10,0.1,0,421.2,1
+U1432,2025-03-01,Loyal,Plus,Email,10,0.0,1,756.0,0
+U1433,2025-03-01,At risk,Plus,Organic,6,0.0,1,468.0,1
+U1434,2024-12-01,At risk,Basic,Email,6,0.0,2,294.0,0
+U1435,2024-11-01,At risk,Pro,Paid,10,0.0,1,702.0,1
+U1436,2024-09-01,New,Plus,Referral,16,0.0,0,276.0,0
+U1437,2025-01-01,Returning,Basic,Referral,2,0.2,1,78.4,0
+U1438,2025-06-01,New,Basic,Email,10,0.2,0,139.2,0
+U1439,2024-07-01,Loyal,Basic,Paid,13,0.0,1,474.0,0
+U1440,2025-01-01,New,Basic,Email,7,0.0,0,174.0,0
+U1441,2025-02-01,At risk,Basic,Organic,3,0.2,1,117.6,1
+U1442,2024-11-01,New,Basic,Email,21,0.0,1,174.0,0
+U1443,2024-08-01,Returning,Basic,Organic,3,0.0,0,147.0,0
+U1444,2024-07-01,Loyal,Plus,Organic,5,0.0,0,630.0,0
+U1445,2025-01-01,Loyal,Pro,Email,4,0.0,0,756.0,0
+U1446,2025-06-01,New,Pro,Referral,11,0.1,2,372.6,0
+U1447,2024-09-01,Loyal,Basic,Paid,11,0.0,0,474.0,0
+U1448,2025-04-01,At risk,Basic,Email,7,0.0,1,294.0,0
+U1449,2024-08-01,Loyal,Basic,Paid,3,0.0,0,237.0,0
+U1450,2024-07-01,New,Plus,Organic,7,0.0,0,276.0,0
+U1451,2025-03-01,New,Basic,Email,1,0.0,0,29.0,0
+U1452,2024-07-01,New,Pro,Referral,21,0.0,0,414.0,1
+U1453,2024-12-01,New,Pro,Email,18,0.0,2,414.0,0
+U1454,2024-10-01,Returning,Pro,Paid,20,0.0,3,702.0,1
+U1455,2025-06-01,New,Plus,Referral,19,0.0,0,276.0,0
+U1456,2025-03-01,New,Plus,Referral,17,0.0,1,276.0,0
+U1457,2024-10-01,New,Plus,Organic,4,0.0,0,184.0,0
+U1458,2024-10-01,At risk,Plus,Referral,6,0.0,0,468.0,0
+U1459,2025-03-01,At risk,Basic,Paid,2,0.2,0,78.4,0
+U1460,2025-01-01,At risk,Pro,Paid,1,0.0,4,117.0,0
+U1461,2024-09-01,Returning,Basic,Paid,16,0.0,2,294.0,0
+U1462,2025-06-01,Loyal,Basic,Paid,11,0.0,1,474.0,1
+U1463,2025-05-01,Returning,Plus,Paid,10,0.0,0,468.0,0
+U1464,2024-08-01,New,Basic,Organic,20,0.0,0,174.0,0
+U1465,2024-12-01,Loyal,Pro,Paid,23,0.0,1,1134.0,0
+U1466,2024-09-01,Returning,Basic,Organic,12,0.0,1,294.0,0
+U1467,2025-04-01,Returning,Pro,Paid,20,0.1,0,631.8,0
+U1468,2025-03-01,Returning,Basic,Referral,12,0.0,0,294.0,0
+U1469,2025-06-01,New,Basic,Referral,13,0.2,1,139.2,0
+U1470,2024-08-01,At risk,Pro,Referral,2,0.0,0,234.0,0
+U1471,2024-11-01,Loyal,Pro,Organic,22,0.0,0,1134.0,1
+U1472,2025-04-01,Returning,Pro,Paid,9,0.3,0,491.4,0
+U1473,2025-02-01,At risk,Basic,Organic,15,0.1,0,264.6,0
+U1474,2025-05-01,New,Basic,Paid,18,0.0,3,174.0,1
+U1475,2024-07-01,Returning,Plus,Organic,6,0.0,1,468.0,0
+U1476,2025-01-01,Loyal,Pro,Referral,1,0.0,0,189.0,0
+U1477,2024-12-01,Returning,Pro,Paid,2,0.1,0,210.6,1
+U1478,2024-10-01,Returning,Basic,Paid,3,0.1,1,132.3,0
+U1479,2024-08-01,Returning,Basic,Paid,4,0.0,0,196.0,0
+U1480,2024-07-01,Returning,Pro,Email,7,0.0,1,702.0,0
+U1481,2025-06-01,Returning,Plus,Organic,12,0.0,0,468.0,0
+U1482,2024-08-01,Returning,Plus,Email,23,0.2,1,374.4,0
+U1483,2025-06-01,New,Basic,Paid,9,0.0,0,174.0,1
+U1484,2024-09-01,Loyal,Plus,Email,13,0.0,1,756.0,0
+U1485,2024-10-01,Returning,Plus,Email,15,0.0,1,468.0,0
+U1486,2025-01-01,Returning,Basic,Email,12,0.0,0,294.0,0
+U1487,2024-11-01,Returning,Pro,Email,14,0.2,0,561.6,0
+U1488,2024-11-01,New,Basic,Organic,1,0.0,2,29.0,0
+U1489,2024-09-01,Loyal,Basic,Organic,14,0.1,0,426.6,0
+U1490,2025-06-01,New,Pro,Email,23,0.0,1,414.0,0
+U1491,2024-10-01,New,Basic,Organic,6,0.0,2,174.0,0
+U1492,2024-11-01,New,Basic,Organic,4,0.1,1,104.4,1
+U1493,2025-03-01,At risk,Plus,Referral,23,0.0,5,468.0,0
+U1494,2025-03-01,New,Pro,Paid,14,0.0,1,414.0,0
+U1495,2024-07-01,Returning,Basic,Organic,22,0.3,0,205.8,0
+U1496,2024-10-01,Loyal,Plus,Organic,13,0.0,1,756.0,0
+U1497,2025-05-01,New,Basic,Email,8,0.0,1,174.0,0
+U1498,2024-10-01,At risk,Pro,Paid,10,0.0,2,702.0,1
+U1499,2025-03-01,At risk,Basic,Organic,8,0.1,4,264.6,1
+U1500,2024-11-01,Returning,Plus,Organic,1,0.0,2,78.0,1
+U1501,2025-06-01,Loyal,Basic,Organic,9,0.0,0,474.0,0
+U1502,2024-07-01,Returning,Plus,Organic,10,0.0,1,468.0,0
+U1503,2024-10-01,Returning,Pro,Email,17,0.2,1,561.6,0
+U1504,2024-11-01,Returning,Basic,Referral,6,0.0,0,294.0,0
+U1505,2025-06-01,Returning,Pro,Referral,8,0.2,0,561.6,0
+U1506,2024-11-01,At risk,Plus,Referral,7,0.0,2,468.0,1
+U1507,2025-02-01,Returning,Basic,Organic,2,0.0,0,98.0,0
+U1508,2024-08-01,New,Plus,Email,21,0.0,1,276.0,1
+U1509,2025-02-01,New,Basic,Paid,11,0.1,2,156.6,1
+U1510,2025-01-01,Returning,Plus,Email,18,0.0,1,468.0,0
+U1511,2024-11-01,At risk,Plus,Paid,19,0.0,0,468.0,1
+U1512,2025-03-01,New,Basic,Organic,4,0.0,0,116.0,1
+U1513,2025-05-01,New,Pro,Email,8,0.0,1,414.0,1
+U1514,2025-02-01,Returning,Basic,Paid,9,0.0,0,294.0,0
+U1515,2025-01-01,Loyal,Plus,Referral,23,0.0,0,756.0,0
+U1516,2025-03-01,New,Pro,Paid,9,0.0,1,414.0,0
+U1517,2024-07-01,At risk,Plus,Email,15,0.0,2,468.0,0
+U1518,2024-10-01,Loyal,Plus,Email,22,0.0,0,756.0,0
+U1519,2024-08-01,New,Pro,Paid,8,0.0,0,414.0,0
+U1520,2025-06-01,Loyal,Basic,Paid,7,0.0,0,474.0,0
+U1521,2025-06-01,New,Pro,Organic,7,0.0,1,414.0,0
+U1522,2024-07-01,Loyal,Plus,Referral,21,0.0,0,756.0,0
+U1523,2025-03-01,New,Pro,Email,4,0.2,1,220.8,0
+U1524,2024-07-01,At risk,Plus,Organic,8,0.0,2,468.0,1
+U1525,2024-12-01,At risk,Plus,Organic,9,0.0,1,468.0,1
+U1526,2024-07-01,Returning,Basic,Referral,17,0.0,1,294.0,1
+U1527,2025-06-01,New,Plus,Organic,4,0.0,0,184.0,0
+U1528,2025-04-01,Loyal,Plus,Paid,5,0.0,0,630.0,0
+U1529,2025-04-01,Returning,Plus,Email,11,0.0,1,468.0,0
+U1530,2025-02-01,Loyal,Basic,Organic,9,0.0,1,474.0,1
+U1531,2025-01-01,New,Plus,Paid,1,0.2,0,36.8,0
+U1532,2024-11-01,Loyal,Basic,Paid,10,0.0,0,474.0,0
+U1533,2025-01-01,Returning,Plus,Referral,6,0.0,1,468.0,0
+U1534,2024-08-01,Loyal,Pro,Referral,9,0.0,1,1134.0,0
+U1535,2025-04-01,Returning,Plus,Organic,16,0.0,0,468.0,0
+U1536,2025-01-01,At risk,Plus,Email,21,0.3,0,327.6,0
+U1537,2024-12-01,Loyal,Plus,Email,18,0.0,2,756.0,0
+U1538,2025-03-01,Loyal,Plus,Referral,15,0.0,1,756.0,1
+U1539,2025-01-01,Returning,Plus,Paid,23,0.0,0,468.0,0
+U1540,2024-09-01,Returning,Basic,Referral,6,0.1,0,264.6,0
+U1541,2024-09-01,Loyal,Basic,Organic,20,0.0,1,474.0,0
+U1542,2024-11-01,New,Plus,Referral,17,0.3,0,193.2,0
+U1543,2024-11-01,Loyal,Basic,Paid,21,0.0,0,474.0,0
+U1544,2025-05-01,Returning,Basic,Referral,19,0.0,2,294.0,1
+U1545,2025-01-01,New,Plus,Organic,16,0.0,1,276.0,0
+U1546,2025-06-01,New,Pro,Paid,11,0.0,1,414.0,0
+U1547,2024-08-01,Loyal,Pro,Paid,22,0.0,0,1134.0,0
+U1548,2025-04-01,Returning,Plus,Organic,21,0.0,1,468.0,0
+U1549,2024-10-01,Returning,Basic,Organic,6,0.0,2,294.0,1
+U1550,2024-11-01,New,Basic,Organic,1,0.0,0,29.0,0
+U1551,2025-01-01,At risk,Plus,Paid,9,0.0,2,468.0,0
+U1552,2024-08-01,Loyal,Plus,Paid,7,0.0,0,756.0,0
+U1553,2024-10-01,New,Plus,Referral,3,0.0,1,138.0,0
+U1554,2024-07-01,New,Basic,Email,6,0.0,0,174.0,0
+U1555,2025-02-01,Loyal,Pro,Paid,20,0.0,0,1134.0,0
+U1556,2024-10-01,Returning,Pro,Referral,19,0.0,0,702.0,0
+U1557,2025-03-01,Returning,Pro,Paid,2,0.0,0,234.0,0
+U1558,2025-02-01,Returning,Basic,Organic,18,0.0,0,294.0,0
+U1559,2025-02-01,At risk,Plus,Referral,21,0.0,1,468.0,1
+U1560,2025-05-01,New,Plus,Paid,12,0.0,0,276.0,1
+U1561,2024-11-01,Loyal,Plus,Organic,15,0.0,0,756.0,0
+U1562,2025-03-01,Loyal,Pro,Organic,2,0.0,0,378.0,0
+U1563,2025-06-01,Returning,Plus,Organic,16,0.1,0,421.2,0
+U1564,2024-07-01,Returning,Plus,Paid,17,0.0,1,468.0,0
+U1565,2024-07-01,Returning,Plus,Paid,17,0.0,1,468.0,0
+U1566,2024-11-01,Loyal,Basic,Paid,10,0.1,0,426.6,0
+U1567,2024-10-01,New,Plus,Email,19,0.1,1,248.4,0
+U1568,2024-08-01,Returning,Plus,Organic,20,0.0,1,468.0,0
+U1569,2025-04-01,Returning,Plus,Referral,12,0.3,0,327.6,0
+U1570,2025-03-01,At risk,Basic,Email,5,0.0,2,245.0,1
+U1571,2024-10-01,Loyal,Basic,Referral,22,0.0,0,474.0,0
+U1572,2025-04-01,New,Plus,Email,16,0.2,0,220.8,0
+U1573,2025-05-01,Loyal,Plus,Organic,21,0.0,0,756.0,0
+U1574,2025-02-01,Loyal,Basic,Email,22,0.3,1,331.8,1
+U1575,2024-07-01,Loyal,Plus,Paid,17,0.0,0,756.0,0
+U1576,2024-09-01,Returning,Basic,Paid,16,0.2,1,235.2,0
+U1577,2024-08-01,Loyal,Pro,Referral,12,0.0,1,1134.0,0
+U1578,2024-09-01,Loyal,Basic,Referral,10,0.0,0,474.0,0
+U1579,2025-06-01,Returning,Basic,Organic,5,0.0,0,245.0,1
+U1580,2025-05-01,Returning,Plus,Paid,9,0.0,0,468.0,0
+U1581,2025-06-01,Returning,Pro,Referral,11,0.2,1,561.6,1
+U1582,2025-04-01,At risk,Plus,Organic,13,0.0,3,468.0,0
+U1583,2025-04-01,Loyal,Plus,Email,16,0.0,0,756.0,0
+U1584,2025-06-01,At risk,Plus,Email,4,0.0,3,312.0,1
+U1585,2024-08-01,Loyal,Basic,Organic,3,0.0,1,237.0,0
+U1586,2024-09-01,Returning,Pro,Email,1,0.0,0,117.0,0
+U1587,2025-05-01,New,Plus,Paid,5,0.0,0,230.0,0
+U1588,2025-05-01,At risk,Basic,Paid,22,0.1,1,264.6,1
+U1589,2025-06-01,Returning,Plus,Paid,6,0.0,1,468.0,1
+U1590,2025-06-01,At risk,Plus,Organic,2,0.0,1,156.0,1
+U1591,2024-07-01,Returning,Plus,Referral,6,0.0,2,468.0,0
+U1592,2024-11-01,New,Plus,Organic,22,0.0,1,276.0,0
+U1593,2025-05-01,Loyal,Plus,Organic,12,0.0,1,756.0,1
+U1594,2025-04-01,Returning,Basic,Paid,22,0.0,0,294.0,0
+U1595,2025-01-01,New,Plus,Paid,13,0.0,1,276.0,0
+U1596,2025-03-01,Returning,Pro,Organic,4,0.0,0,468.0,0
+U1597,2025-06-01,Returning,Plus,Organic,7,0.1,0,421.2,0
+U1598,2024-09-01,At risk,Pro,Organic,15,0.1,2,631.8,1
+U1599,2025-03-01,At risk,Basic,Organic,4,0.0,4,196.0,0
+U1600,2024-08-01,New,Basic,Referral,10,0.0,0,174.0,0
+U1601,2025-03-01,Returning,Plus,Referral,5,0.0,0,390.0,0
+U1602,2024-08-01,At risk,Pro,Paid,8,0.0,2,702.0,0
+U1603,2025-02-01,Returning,Plus,Referral,11,0.0,1,468.0,0
+U1604,2025-04-01,Returning,Pro,Organic,2,0.0,0,234.0,0
+U1605,2025-06-01,New,Basic,Organic,11,0.0,0,174.0,0
+U1606,2025-03-01,New,Plus,Paid,5,0.0,0,230.0,0
+U1607,2024-07-01,Loyal,Plus,Referral,5,0.0,0,630.0,0
+U1608,2025-06-01,At risk,Basic,Paid,3,0.0,1,147.0,0
+U1609,2024-10-01,New,Pro,Email,9,0.0,3,414.0,0
+U1610,2024-10-01,New,Pro,Referral,12,0.2,0,331.2,0
+U1611,2024-08-01,Loyal,Plus,Paid,23,0.0,1,756.0,0
+U1612,2024-11-01,Returning,Basic,Paid,7,0.0,1,294.0,0
+U1613,2024-12-01,At risk,Basic,Organic,23,0.0,2,294.0,0
+U1614,2025-05-01,New,Pro,Referral,18,0.0,1,414.0,0
+U1615,2024-10-01,At risk,Basic,Organic,15,0.0,4,294.0,0
+U1616,2025-03-01,Loyal,Plus,Organic,4,0.0,1,504.0,0
+U1617,2024-12-01,At risk,Plus,Paid,13,0.0,2,468.0,1
+U1618,2025-01-01,Returning,Plus,Email,23,0.0,1,468.0,0
+U1619,2025-06-01,Loyal,Basic,Referral,2,0.0,1,158.0,0
+U1620,2024-12-01,New,Plus,Organic,7,0.0,0,276.0,0
+U1621,2025-02-01,Loyal,Basic,Organic,23,0.0,0,474.0,0
+U1622,2025-06-01,Returning,Pro,Email,9,0.0,2,702.0,0
+U1623,2025-04-01,Returning,Plus,Paid,8,0.0,0,468.0,0
+U1624,2025-06-01,Loyal,Basic,Organic,22,0.0,1,474.0,0
+U1625,2024-11-01,New,Plus,Email,1,0.0,1,46.0,0
+U1626,2024-08-01,Loyal,Basic,Email,22,0.0,2,474.0,0
+U1627,2024-12-01,Returning,Basic,Referral,13,0.0,0,294.0,0
+U1628,2024-07-01,New,Plus,Organic,6,0.0,3,276.0,0
+U1629,2025-01-01,At risk,Plus,Paid,22,0.0,1,468.0,0
+U1630,2024-08-01,Returning,Pro,Email,5,0.0,1,585.0,0
+U1631,2024-08-01,Loyal,Basic,Referral,22,0.0,0,474.0,0
+U1632,2025-04-01,Loyal,Basic,Referral,16,0.0,1,474.0,0
+U1633,2025-05-01,Returning,Pro,Paid,21,0.0,1,702.0,0
+U1634,2025-01-01,New,Basic,Organic,5,0.1,0,130.5,0
+U1635,2025-01-01,New,Basic,Paid,18,0.0,0,174.0,0
+U1636,2024-10-01,Returning,Basic,Organic,22,0.0,0,294.0,0
+U1637,2024-12-01,Returning,Basic,Email,6,0.0,2,294.0,1
+U1638,2025-06-01,New,Pro,Organic,2,0.2,1,110.4,0
+U1639,2024-11-01,At risk,Pro,Paid,4,0.0,0,468.0,1
+U1640,2025-01-01,New,Basic,Email,11,0.0,1,174.0,0
+U1641,2024-08-01,New,Basic,Organic,1,0.0,0,29.0,0
+U1642,2024-07-01,Loyal,Plus,Paid,14,0.0,1,756.0,0
+U1643,2025-04-01,Returning,Basic,Referral,2,0.0,1,98.0,0
+U1644,2025-04-01,New,Basic,Paid,22,0.2,1,139.2,0
+U1645,2025-05-01,Loyal,Plus,Paid,16,0.0,0,756.0,0
+U1646,2024-07-01,New,Plus,Paid,4,0.1,0,165.6,0
+U1647,2025-01-01,New,Plus,Organic,5,0.0,1,230.0,0
+U1648,2024-10-01,Returning,Basic,Paid,19,0.0,1,294.0,0
+U1649,2024-09-01,Returning,Plus,Paid,12,0.0,0,468.0,0
+U1650,2025-02-01,At risk,Plus,Organic,17,0.0,2,468.0,1
+U1651,2025-06-01,New,Pro,Email,11,0.0,0,414.0,0
+U1652,2024-08-01,Returning,Pro,Email,12,0.0,1,702.0,0
+U1653,2025-02-01,Loyal,Pro,Organic,9,0.0,1,1134.0,0
+U1654,2025-06-01,Loyal,Plus,Referral,10,0.0,1,756.0,0
+U1655,2025-01-01,Returning,Basic,Organic,8,0.0,1,294.0,0
+U1656,2025-01-01,New,Basic,Organic,6,0.1,0,156.6,0
+U1657,2025-04-01,New,Pro,Paid,9,0.0,3,414.0,0
+U1658,2025-03-01,New,Plus,Organic,12,0.0,0,276.0,0
+U1659,2024-09-01,Returning,Basic,Referral,6,0.0,0,294.0,0
+U1660,2025-06-01,At risk,Basic,Organic,10,0.0,1,294.0,0
+U1661,2025-02-01,Loyal,Basic,Referral,12,0.0,0,474.0,0
+U1662,2024-08-01,Returning,Plus,Paid,10,0.0,1,468.0,0
+U1663,2024-10-01,Loyal,Plus,Referral,23,0.0,0,756.0,0
+U1664,2025-01-01,New,Plus,Email,14,0.0,0,276.0,1
+U1665,2025-04-01,Returning,Plus,Paid,5,0.3,0,273.0,0
+U1666,2024-08-01,Loyal,Basic,Paid,18,0.0,2,474.0,0
+U1667,2024-11-01,Loyal,Plus,Paid,1,0.0,0,126.0,0
+U1668,2025-02-01,At risk,Basic,Referral,14,0.0,1,294.0,0
+U1669,2024-08-01,Loyal,Pro,Organic,10,0.0,1,1134.0,0
+U1670,2024-08-01,Returning,Pro,Organic,5,0.0,0,585.0,1
+U1671,2025-06-01,Returning,Pro,Email,10,0.0,2,702.0,0
+U1672,2025-06-01,Returning,Basic,Paid,5,0.0,1,245.0,1
+U1673,2025-04-01,Returning,Basic,Paid,20,0.0,2,294.0,1
+U1674,2025-04-01,At risk,Basic,Paid,19,0.1,2,264.6,0
+U1675,2024-10-01,Returning,Basic,Paid,16,0.0,3,294.0,0
+U1676,2025-04-01,Loyal,Basic,Organic,11,0.0,1,474.0,0
+U1677,2025-02-01,At risk,Pro,Organic,5,0.0,1,585.0,0
+U1678,2025-06-01,At risk,Plus,Email,15,0.0,3,468.0,0
+U1679,2025-02-01,New,Basic,Organic,6,0.0,0,174.0,0
+U1680,2025-01-01,At risk,Basic,Paid,5,0.0,4,245.0,0
+U1681,2024-09-01,Loyal,Pro,Email,16,0.0,0,1134.0,0
+U1682,2024-10-01,Loyal,Pro,Email,3,0.0,2,567.0,0
+U1683,2024-11-01,New,Pro,Email,1,0.0,1,69.0,0
+U1684,2024-08-01,At risk,Pro,Referral,11,0.0,1,702.0,1
+U1685,2025-03-01,Loyal,Basic,Paid,18,0.0,0,474.0,1
+U1686,2025-04-01,At risk,Basic,Organic,16,0.1,0,264.6,1
+U1687,2025-05-01,At risk,Pro,Organic,10,0.0,1,702.0,0
+U1688,2025-06-01,Loyal,Pro,Organic,10,0.0,1,1134.0,0
+U1689,2024-08-01,At risk,Basic,Organic,20,0.0,3,294.0,1
+U1690,2025-05-01,At risk,Plus,Paid,3,0.0,1,234.0,1
+U1691,2024-08-01,Returning,Plus,Organic,12,0.1,0,421.2,0
+U1692,2025-03-01,New,Basic,Referral,9,0.0,0,174.0,0
+U1693,2025-03-01,Loyal,Basic,Referral,16,0.0,1,474.0,0
+U1694,2024-08-01,Returning,Basic,Organic,20,0.0,0,294.0,0
+U1695,2025-06-01,New,Pro,Paid,15,0.1,1,372.6,0
+U1696,2024-11-01,Loyal,Plus,Referral,15,0.0,2,756.0,0
+U1697,2025-01-01,New,Pro,Email,3,0.0,0,207.0,0
+U1698,2024-10-01,New,Pro,Paid,20,0.0,0,414.0,1
+U1699,2024-12-01,New,Plus,Paid,7,0.0,2,276.0,0
+U1700,2024-11-01,Returning,Basic,Email,9,0.0,0,294.0,1
+U1701,2024-08-01,Returning,Plus,Referral,2,0.0,3,156.0,0
+U1702,2024-07-01,Returning,Basic,Paid,15,0.0,0,294.0,0
+U1703,2025-02-01,Loyal,Plus,Paid,15,0.1,0,680.4,0
+U1704,2025-02-01,Loyal,Basic,Paid,2,0.0,0,158.0,0
+U1705,2025-03-01,At risk,Basic,Paid,20,0.0,2,294.0,0
+U1706,2025-03-01,At risk,Plus,Paid,16,0.0,0,468.0,1
+U1707,2025-05-01,Returning,Pro,Organic,21,0.0,0,702.0,0
+U1708,2025-04-01,Loyal,Plus,Paid,20,0.0,0,756.0,0
+U1709,2025-01-01,At risk,Basic,Email,17,0.1,3,264.6,0
+U1710,2025-01-01,Returning,Basic,Paid,15,0.1,0,264.6,0
+U1711,2024-07-01,Returning,Basic,Organic,2,0.0,2,98.0,0
+U1712,2025-01-01,Returning,Plus,Organic,18,0.0,1,468.0,0
+U1713,2024-07-01,At risk,Basic,Organic,20,0.0,1,294.0,1
+U1714,2025-01-01,New,Plus,Paid,16,0.0,0,276.0,0
+U1715,2025-06-01,Returning,Basic,Paid,18,0.0,2,294.0,0
+U1716,2024-09-01,Returning,Basic,Organic,6,0.0,0,294.0,0
+U1717,2024-08-01,Loyal,Plus,Paid,16,0.0,1,756.0,0
+U1718,2024-12-01,New,Plus,Paid,5,0.3,0,161.0,0
+U1719,2024-12-01,Returning,Basic,Referral,15,0.2,0,235.2,0
+U1720,2025-04-01,At risk,Pro,Paid,5,0.0,2,585.0,1
+U1721,2024-10-01,New,Plus,Referral,3,0.0,1,138.0,0
+U1722,2025-03-01,Loyal,Plus,Email,7,0.0,0,756.0,0
+U1723,2025-02-01,At risk,Pro,Organic,15,0.0,1,702.0,0
+U1724,2024-10-01,Loyal,Basic,Paid,20,0.0,0,474.0,0
+U1725,2025-06-01,New,Basic,Paid,22,0.0,0,174.0,0
+U1726,2024-07-01,New,Plus,Referral,12,0.1,1,248.4,0
+U1727,2024-08-01,Returning,Plus,Organic,12,0.0,1,468.0,0
+U1728,2024-10-01,Loyal,Basic,Paid,22,0.0,0,474.0,0
+U1729,2024-12-01,Loyal,Plus,Email,5,0.0,0,630.0,0
+U1730,2024-12-01,Loyal,Plus,Paid,5,0.0,1,630.0,0
+U1731,2024-11-01,New,Plus,Paid,21,0.1,0,248.4,0
+U1732,2025-03-01,At risk,Basic,Email,17,0.0,4,294.0,1
+U1733,2024-11-01,At risk,Basic,Organic,23,0.0,6,294.0,1
+U1734,2025-03-01,New,Plus,Referral,1,0.0,0,46.0,0
+U1735,2024-12-01,Loyal,Basic,Paid,9,0.0,1,474.0,0
+U1736,2024-08-01,New,Basic,Paid,20,0.2,1,139.2,1
+U1737,2025-02-01,Returning,Basic,Paid,9,0.0,0,294.0,0
+U1738,2025-01-01,Returning,Pro,Paid,4,0.0,0,468.0,0
+U1739,2025-03-01,Returning,Basic,Organic,18,0.0,0,294.0,0
+U1740,2025-05-01,Returning,Plus,Email,4,0.0,1,312.0,0
+U1741,2024-08-01,New,Plus,Referral,16,0.0,0,276.0,0
+U1742,2024-11-01,Returning,Pro,Referral,14,0.0,1,702.0,1
+U1743,2024-12-01,Loyal,Plus,Organic,14,0.0,1,756.0,0
+U1744,2024-08-01,At risk,Plus,Referral,19,0.0,2,468.0,1
+U1745,2024-10-01,At risk,Basic,Organic,18,0.0,3,294.0,0
+U1746,2025-04-01,Returning,Plus,Paid,3,0.0,1,234.0,0
+U1747,2025-01-01,Returning,Basic,Paid,7,0.0,1,294.0,0
+U1748,2024-12-01,New,Plus,Paid,11,0.0,0,276.0,0
+U1749,2025-05-01,Returning,Basic,Organic,19,0.0,0,294.0,0
+U1750,2025-05-01,At risk,Plus,Referral,9,0.0,0,468.0,0
+U1751,2024-09-01,Returning,Plus,Paid,15,0.0,1,468.0,0
+U1752,2025-02-01,Returning,Pro,Organic,11,0.0,2,702.0,0
+U1753,2024-09-01,New,Basic,Organic,12,0.0,2,174.0,0
+U1754,2024-12-01,New,Basic,Paid,16,0.0,1,174.0,1
+U1755,2024-08-01,Returning,Plus,Paid,23,0.0,1,468.0,0
+U1756,2025-01-01,Returning,Plus,Paid,15,0.0,1,468.0,0
+U1757,2025-04-01,New,Plus,Email,11,0.0,2,276.0,0
+U1758,2024-07-01,At risk,Pro,Paid,13,0.0,3,702.0,0
+U1759,2024-11-01,Returning,Basic,Organic,17,0.0,1,294.0,0
+U1760,2024-12-01,New,Basic,Paid,16,0.0,0,174.0,0
+U1761,2024-07-01,Returning,Basic,Email,16,0.0,0,294.0,0
+U1762,2025-06-01,Returning,Plus,Paid,7,0.0,1,468.0,0
+U1763,2024-07-01,Loyal,Basic,Organic,5,0.0,0,395.0,0
+U1764,2025-04-01,At risk,Plus,Organic,21,0.0,4,468.0,0
+U1765,2025-06-01,Returning,Pro,Email,20,0.0,0,702.0,0
+U1766,2024-10-01,Returning,Plus,Email,11,0.1,0,421.2,0
+U1767,2025-05-01,Returning,Plus,Organic,18,0.0,0,468.0,0
+U1768,2024-08-01,Returning,Basic,Email,6,0.0,3,294.0,1
+U1769,2024-09-01,Returning,Plus,Paid,14,0.1,0,421.2,0
+U1770,2024-08-01,Returning,Pro,Email,2,0.0,1,234.0,0
+U1771,2024-09-01,New,Plus,Paid,3,0.0,0,138.0,0
+U1772,2025-05-01,Returning,Basic,Paid,16,0.2,0,235.2,0
+U1773,2024-12-01,New,Plus,Paid,11,0.0,0,276.0,0
+U1774,2024-11-01,Returning,Plus,Email,11,0.0,1,468.0,1
+U1775,2024-12-01,New,Plus,Organic,23,0.0,1,276.0,1
+U1776,2025-05-01,Loyal,Basic,Organic,18,0.0,0,474.0,0
+U1777,2025-01-01,At risk,Pro,Paid,20,0.0,3,702.0,1
+U1778,2024-10-01,Returning,Plus,Email,1,0.0,0,78.0,0
+U1779,2024-12-01,New,Plus,Paid,19,0.0,0,276.0,0
+U1780,2025-03-01,Returning,Basic,Paid,19,0.0,2,294.0,0
+U1781,2024-11-01,Loyal,Basic,Referral,13,0.0,0,474.0,0
+U1782,2024-12-01,At risk,Basic,Referral,8,0.2,3,235.2,0
+U1783,2025-02-01,Returning,Pro,Paid,14,0.0,0,702.0,0
+U1784,2025-02-01,Returning,Basic,Referral,23,0.0,0,294.0,0
+U1785,2025-03-01,Loyal,Basic,Organic,3,0.0,0,237.0,0
+U1786,2025-02-01,At risk,Basic,Paid,19,0.0,5,294.0,0
+U1787,2025-05-01,New,Plus,Email,9,0.0,0,276.0,0
+U1788,2024-10-01,Returning,Pro,Organic,3,0.0,1,351.0,0
+U1789,2025-01-01,New,Pro,Paid,13,0.0,1,414.0,0
+U1790,2024-09-01,Returning,Basic,Email,2,0.0,2,98.0,1
+U1791,2024-09-01,Returning,Basic,Referral,17,0.0,0,294.0,0
+U1792,2024-09-01,Returning,Pro,Paid,7,0.0,0,702.0,0
+U1793,2024-11-01,Returning,Plus,Paid,21,0.0,2,468.0,0
+U1794,2024-09-01,Returning,Pro,Organic,17,0.0,0,702.0,0
+U1795,2024-09-01,Loyal,Basic,Email,16,0.0,0,474.0,0
+U1796,2025-04-01,New,Plus,Paid,4,0.0,0,184.0,0
+U1797,2024-11-01,At risk,Plus,Referral,4,0.2,2,249.6,0
+U1798,2025-05-01,Loyal,Plus,Referral,22,0.0,1,756.0,0
+U1799,2025-05-01,Returning,Plus,Organic,13,0.2,0,374.4,0
+U1800,2025-06-01,At risk,Plus,Organic,20,0.1,1,421.2,1
+U1801,2024-11-01,Loyal,Plus,Paid,10,0.0,0,756.0,0
+U1802,2024-10-01,New,Basic,Organic,23,0.2,1,139.2,1
+U1803,2024-07-01,Returning,Pro,Organic,1,0.0,0,117.0,0
+U1804,2024-07-01,Returning,Basic,Referral,7,0.0,0,294.0,0
+U1805,2025-06-01,At risk,Basic,Organic,8,0.0,5,294.0,1
+U1806,2025-02-01,Loyal,Pro,Paid,7,0.0,0,1134.0,0
+U1807,2025-06-01,New,Pro,Paid,16,0.0,0,414.0,0
+U1808,2025-01-01,Loyal,Plus,Paid,23,0.0,0,756.0,0
+U1809,2024-12-01,Returning,Basic,Paid,5,0.0,1,245.0,0
+U1810,2025-01-01,At risk,Basic,Email,15,0.0,3,294.0,0
+U1811,2025-04-01,Loyal,Plus,Email,14,0.0,2,756.0,0
+U1812,2025-04-01,New,Plus,Organic,21,0.0,0,276.0,0
+U1813,2025-03-01,Returning,Basic,Organic,5,0.0,0,245.0,0
+U1814,2024-11-01,Loyal,Plus,Email,15,0.0,0,756.0,0
+U1815,2025-05-01,New,Basic,Organic,3,0.3,0,60.9,1
+U1816,2024-10-01,Loyal,Basic,Referral,19,0.0,2,474.0,0
+U1817,2025-05-01,Returning,Plus,Paid,14,0.0,1,468.0,0
+U1818,2025-02-01,Loyal,Basic,Organic,19,0.0,2,474.0,0
+U1819,2025-02-01,Returning,Plus,Paid,7,0.0,0,468.0,0
+U1820,2025-02-01,New,Plus,Paid,2,0.0,0,92.0,1
+U1821,2025-02-01,Returning,Pro,Email,20,0.3,0,491.4,0
+U1822,2024-08-01,New,Basic,Paid,21,0.3,1,121.8,0
+U1823,2025-06-01,Returning,Pro,Organic,6,0.0,2,702.0,0
+U1824,2024-07-01,Returning,Plus,Referral,21,0.0,0,468.0,0
+U1825,2024-10-01,Loyal,Basic,Email,23,0.0,1,474.0,0
+U1826,2024-08-01,New,Basic,Organic,10,0.0,1,174.0,0
+U1827,2025-05-01,Returning,Plus,Organic,3,0.0,0,234.0,0
+U1828,2024-12-01,Loyal,Basic,Organic,6,0.0,2,474.0,0
+U1829,2025-03-01,New,Basic,Paid,3,0.0,2,87.0,0
+U1830,2025-04-01,Loyal,Plus,Organic,15,0.0,0,756.0,0
+U1831,2024-07-01,New,Basic,Organic,23,0.2,1,139.2,0
+U1832,2024-09-01,New,Pro,Email,6,0.0,1,414.0,1
+U1833,2024-09-01,Loyal,Pro,Organic,13,0.0,1,1134.0,0
+U1834,2025-05-01,Loyal,Plus,Paid,16,0.0,0,756.0,0
+U1835,2025-02-01,New,Plus,Paid,8,0.3,0,193.2,0
+U1836,2024-09-01,Loyal,Pro,Email,4,0.0,1,756.0,0
+U1837,2025-04-01,Loyal,Basic,Referral,2,0.0,0,158.0,0
+U1838,2024-11-01,Loyal,Basic,Paid,18,0.0,1,474.0,0
+U1839,2025-05-01,New,Basic,Organic,11,0.0,0,174.0,1
+U1840,2025-05-01,At risk,Plus,Organic,21,0.0,1,468.0,1
+U1841,2024-12-01,Returning,Basic,Referral,23,0.0,1,294.0,0
+U1842,2024-08-01,New,Plus,Email,13,0.0,0,276.0,0
+U1843,2025-01-01,New,Basic,Organic,17,0.0,0,174.0,0
+U1844,2024-07-01,Returning,Basic,Email,15,0.0,0,294.0,0
+U1845,2024-07-01,Returning,Plus,Email,6,0.0,1,468.0,0
+U1846,2025-06-01,New,Pro,Email,12,0.0,1,414.0,0
+U1847,2024-09-01,Returning,Pro,Organic,21,0.3,0,491.4,0
+U1848,2025-01-01,At risk,Basic,Referral,16,0.0,1,294.0,0
+U1849,2024-08-01,Loyal,Plus,Referral,2,0.0,0,252.0,0
+U1850,2025-05-01,Loyal,Basic,Paid,11,0.0,0,474.0,0
+U1851,2025-03-01,Returning,Pro,Organic,19,0.0,0,702.0,0
+U1852,2024-11-01,Loyal,Plus,Email,7,0.0,0,756.0,0
+U1853,2025-04-01,Loyal,Basic,Email,22,0.0,1,474.0,0
+U1854,2025-05-01,New,Plus,Paid,2,0.0,0,92.0,0
+U1855,2024-09-01,Returning,Plus,Email,10,0.0,0,468.0,0
+U1856,2024-08-01,Returning,Pro,Referral,23,0.0,0,702.0,0
+U1857,2025-05-01,At risk,Basic,Paid,20,0.0,0,294.0,0
+U1858,2024-07-01,Loyal,Basic,Referral,5,0.0,1,395.0,0
+U1859,2025-02-01,Loyal,Basic,Organic,4,0.0,0,316.0,0
+U1860,2025-01-01,Returning,Plus,Referral,14,0.0,0,468.0,0
+U1861,2025-02-01,New,Basic,Paid,23,0.0,1,174.0,1
+U1862,2024-07-01,New,Basic,Paid,12,0.0,1,174.0,0
+U1863,2025-04-01,Loyal,Plus,Referral,15,0.0,0,756.0,0
+U1864,2025-06-01,Returning,Pro,Referral,10,0.0,2,702.0,0
+U1865,2024-10-01,At risk,Pro,Organic,15,0.2,6,561.6,1
+U1866,2024-08-01,Returning,Basic,Organic,4,0.0,1,196.0,0
+U1867,2025-05-01,Returning,Basic,Organic,5,0.2,0,196.0,0
+U1868,2024-09-01,New,Basic,Paid,21,0.0,0,174.0,1
+U1869,2024-12-01,Returning,Basic,Paid,13,0.0,1,294.0,1
+U1870,2024-07-01,New,Basic,Email,16,0.2,0,139.2,0
+U1871,2025-01-01,Returning,Plus,Organic,8,0.0,0,468.0,0
+U1872,2025-02-01,New,Plus,Paid,3,0.0,2,138.0,0
+U1873,2024-10-01,Loyal,Plus,Referral,18,0.0,0,756.0,0
+U1874,2024-12-01,New,Basic,Referral,17,0.3,0,121.8,1
+U1875,2024-08-01,Loyal,Basic,Organic,14,0.0,2,474.0,0
+U1876,2025-03-01,Returning,Plus,Organic,13,0.0,0,468.0,0
+U1877,2024-11-01,New,Plus,Email,9,0.0,0,276.0,0
+U1878,2024-09-01,Returning,Plus,Email,3,0.0,1,234.0,0
+U1879,2025-06-01,Returning,Plus,Paid,19,0.0,2,468.0,0
+U1880,2025-06-01,Loyal,Basic,Referral,12,0.0,0,474.0,0
+U1881,2024-07-01,Returning,Basic,Email,8,0.0,0,294.0,1
+U1882,2025-03-01,Loyal,Plus,Paid,3,0.0,0,378.0,0
+U1883,2025-01-01,Loyal,Plus,Paid,7,0.0,2,756.0,1
+U1884,2025-01-01,Returning,Basic,Referral,8,0.0,0,294.0,0
+U1885,2025-04-01,Loyal,Basic,Organic,13,0.1,0,426.6,0
+U1886,2024-12-01,New,Basic,Email,14,0.0,0,174.0,0
+U1887,2025-01-01,Loyal,Basic,Referral,2,0.0,0,158.0,0
+U1888,2025-06-01,Returning,Basic,Email,2,0.0,0,98.0,0
+U1889,2025-04-01,Returning,Basic,Organic,4,0.0,0,196.0,0
+U1890,2024-11-01,Returning,Basic,Organic,16,0.1,0,264.6,0
+U1891,2025-06-01,Returning,Pro,Organic,20,0.0,1,702.0,0
+U1892,2024-11-01,Returning,Basic,Organic,20,0.0,0,294.0,0
+U1893,2025-06-01,New,Plus,Organic,3,0.0,0,138.0,0
+U1894,2024-07-01,Loyal,Basic,Paid,8,0.0,0,474.0,0
+U1895,2024-10-01,New,Plus,Paid,10,0.0,0,276.0,0
+U1896,2025-01-01,New,Plus,Paid,19,0.1,0,248.4,0
+U1897,2025-04-01,New,Basic,Paid,21,0.0,2,174.0,0
+U1898,2024-07-01,New,Pro,Paid,23,0.0,0,414.0,0
+U1899,2025-01-01,New,Basic,Paid,14,0.0,0,174.0,0
+U1900,2025-04-01,Returning,Basic,Organic,20,0.0,0,294.0,0
+U1901,2025-06-01,Returning,Plus,Email,21,0.0,0,468.0,0
+U1902,2025-02-01,New,Basic,Organic,18,0.0,0,174.0,0
+U1903,2024-09-01,New,Pro,Paid,20,0.2,2,331.2,0
+U1904,2025-04-01,New,Basic,Paid,5,0.0,1,145.0,1
+U1905,2024-07-01,New,Basic,Email,10,0.0,1,174.0,0
+U1906,2025-01-01,Returning,Basic,Organic,18,0.0,2,294.0,0
+U1907,2025-02-01,At risk,Pro,Email,10,0.2,2,561.6,0
+U1908,2025-06-01,Returning,Basic,Organic,19,0.0,1,294.0,0
+U1909,2025-05-01,New,Plus,Email,2,0.0,0,92.0,1
+U1910,2024-10-01,At risk,Plus,Paid,18,0.1,0,421.2,0
+U1911,2025-06-01,Returning,Basic,Email,17,0.2,0,235.2,1
+U1912,2025-05-01,Returning,Basic,Referral,9,0.2,0,235.2,0
+U1913,2025-04-01,New,Basic,Referral,5,0.0,0,145.0,0
+U1914,2024-11-01,At risk,Basic,Organic,17,0.0,2,294.0,0
+U1915,2024-07-01,Returning,Pro,Email,3,0.0,1,351.0,0
+U1916,2024-09-01,New,Plus,Email,7,0.0,0,276.0,0
+U1917,2024-08-01,Returning,Pro,Organic,11,0.0,0,702.0,0
+U1918,2025-04-01,New,Pro,Organic,3,0.2,0,165.6,0
+U1919,2025-03-01,At risk,Pro,Organic,10,0.0,3,702.0,1
+U1920,2024-09-01,New,Pro,Paid,11,0.0,0,414.0,0
+U1921,2024-09-01,Returning,Basic,Paid,6,0.0,2,294.0,1
+U1922,2025-01-01,Returning,Basic,Referral,17,0.1,1,264.6,0
+U1923,2025-03-01,At risk,Basic,Organic,18,0.0,2,294.0,1
+U1924,2025-02-01,Loyal,Plus,Email,16,0.0,0,756.0,0
+U1925,2025-02-01,Loyal,Basic,Referral,17,0.0,0,474.0,0
+U1926,2024-12-01,Loyal,Basic,Email,19,0.0,1,474.0,0
+U1927,2024-11-01,New,Basic,Organic,15,0.0,0,174.0,0
+U1928,2024-09-01,Returning,Basic,Paid,14,0.0,1,294.0,1
+U1929,2024-11-01,New,Basic,Referral,4,0.0,0,116.0,0
+U1930,2024-11-01,New,Basic,Referral,18,0.0,0,174.0,1
+U1931,2025-01-01,Returning,Basic,Paid,6,0.0,0,294.0,0
+U1932,2024-07-01,Returning,Plus,Email,4,0.0,0,312.0,0
+U1933,2024-12-01,New,Plus,Referral,12,0.0,0,276.0,0
+U1934,2024-08-01,Returning,Plus,Organic,15,0.0,0,468.0,0
+U1935,2024-07-01,At risk,Plus,Paid,9,0.0,1,468.0,1
+U1936,2024-08-01,New,Pro,Paid,10,0.0,0,414.0,0
+U1937,2024-12-01,New,Basic,Email,6,0.0,0,174.0,0
+U1938,2025-03-01,Returning,Pro,Organic,10,0.0,0,702.0,0
+U1939,2025-02-01,At risk,Basic,Paid,9,0.0,2,294.0,1
+U1940,2025-05-01,At risk,Pro,Organic,11,0.0,3,702.0,0
+U1941,2024-10-01,Returning,Basic,Email,14,0.0,0,294.0,0
+U1942,2025-02-01,Returning,Basic,Organic,14,0.1,0,264.6,0
+U1943,2025-02-01,At risk,Basic,Paid,20,0.1,1,264.6,0
+U1944,2024-10-01,Loyal,Basic,Paid,5,0.0,0,395.0,1
+U1945,2024-12-01,Returning,Plus,Organic,19,0.0,1,468.0,0
+U1946,2024-10-01,Returning,Basic,Email,17,0.0,0,294.0,0
+U1947,2025-05-01,Returning,Basic,Email,1,0.0,0,49.0,0
+U1948,2024-08-01,Loyal,Plus,Organic,2,0.0,1,252.0,0
+U1949,2024-08-01,New,Plus,Referral,3,0.0,0,138.0,0
+U1950,2024-10-01,Returning,Basic,Organic,22,0.0,2,294.0,0
+U1951,2025-02-01,Loyal,Basic,Organic,5,0.0,2,395.0,0
+U1952,2025-03-01,Returning,Basic,Email,7,0.0,1,294.0,0
+U1953,2025-05-01,At risk,Basic,Referral,8,0.0,1,294.0,0
+U1954,2025-05-01,Returning,Plus,Organic,9,0.0,1,468.0,0
+U1955,2025-03-01,Loyal,Pro,Paid,22,0.0,1,1134.0,0
+U1956,2025-03-01,Returning,Basic,Organic,17,0.0,1,294.0,0
+U1957,2024-09-01,New,Plus,Organic,5,0.2,0,184.0,0
+U1958,2025-05-01,New,Basic,Organic,15,0.0,2,174.0,0
+U1959,2024-07-01,Returning,Basic,Organic,17,0.2,0,235.2,0
+U1960,2025-02-01,New,Pro,Paid,5,0.1,0,310.5,1
+U1961,2024-10-01,Returning,Plus,Paid,11,0.0,0,468.0,0
+U1962,2024-07-01,Returning,Basic,Paid,13,0.0,1,294.0,0
+U1963,2025-02-01,Loyal,Plus,Referral,8,0.0,1,756.0,0
+U1964,2025-05-01,New,Plus,Organic,9,0.0,1,276.0,0
+U1965,2024-08-01,New,Basic,Organic,12,0.0,1,174.0,0
+U1966,2025-03-01,New,Pro,Paid,11,0.0,0,414.0,0
+U1967,2024-12-01,At risk,Plus,Email,13,0.0,4,468.0,1
+U1968,2025-01-01,New,Plus,Organic,18,0.0,0,276.0,1
+U1969,2025-05-01,Returning,Plus,Paid,18,0.0,0,468.0,0
+U1970,2025-02-01,Returning,Basic,Email,1,0.0,3,49.0,0
+U1971,2024-09-01,New,Plus,Organic,4,0.0,1,184.0,0
+U1972,2024-11-01,At risk,Pro,Referral,4,0.0,3,468.0,0
+U1973,2024-12-01,Returning,Basic,Paid,14,0.0,2,294.0,1
+U1974,2024-10-01,Loyal,Pro,Referral,1,0.0,1,189.0,0
+U1975,2024-09-01,New,Pro,Organic,7,0.0,1,414.0,0
+U1976,2024-09-01,New,Pro,Paid,1,0.0,0,69.0,0
+U1977,2024-10-01,New,Basic,Referral,19,0.2,2,139.2,0
+U1978,2024-10-01,Returning,Pro,Referral,4,0.0,0,468.0,0
+U1979,2024-11-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U1980,2024-07-01,Returning,Basic,Referral,17,0.0,2,294.0,0
+U1981,2024-10-01,At risk,Basic,Paid,1,0.0,4,49.0,1
+U1982,2025-05-01,Returning,Basic,Email,8,0.0,0,294.0,0
+U1983,2024-08-01,New,Pro,Referral,3,0.3,0,144.9,0
+U1984,2025-03-01,New,Basic,Referral,12,0.0,0,174.0,0
+U1985,2025-03-01,At risk,Basic,Email,4,0.2,4,156.8,0
+U1986,2024-11-01,Loyal,Pro,Paid,2,0.0,0,378.0,1
+U1987,2025-05-01,New,Basic,Paid,11,0.0,0,174.0,0
+U1988,2025-06-01,Returning,Plus,Paid,16,0.0,1,468.0,0
+U1989,2024-07-01,Loyal,Basic,Email,16,0.0,2,474.0,0
+U1990,2025-06-01,Loyal,Plus,Paid,12,0.0,1,756.0,0
+U1991,2025-06-01,Returning,Pro,Email,17,0.0,2,702.0,0
+U1992,2024-09-01,At risk,Basic,Organic,8,0.0,2,294.0,1
+U1993,2024-07-01,Loyal,Plus,Paid,8,0.0,1,756.0,0
+U1994,2025-04-01,Returning,Basic,Email,16,0.0,0,294.0,0
+U1995,2024-10-01,Returning,Basic,Paid,18,0.0,0,294.0,0
+U1996,2025-05-01,New,Plus,Paid,1,0.0,1,46.0,1
+U1997,2025-05-01,Returning,Plus,Organic,3,0.0,0,234.0,1
+U1998,2025-06-01,Returning,Basic,Organic,5,0.0,1,245.0,0
+U1999,2025-01-01,New,Pro,Referral,6,0.0,2,414.0,0
+U2000,2024-11-01,New,Plus,Paid,7,0.0,0,276.0,0
+U2001,2025-04-01,New,Basic,Organic,13,0.2,1,139.2,0
+U2002,2025-06-01,Loyal,Pro,Organic,1,0.0,1,189.0,0
+U2003,2024-07-01,New,Basic,Paid,8,0.0,0,174.0,0
+U2004,2025-03-01,Loyal,Plus,Paid,2,0.0,2,252.0,0
+U2005,2024-12-01,At risk,Basic,Paid,1,0.0,2,49.0,0
+U2006,2024-08-01,New,Basic,Referral,4,0.0,2,116.0,0
+U2007,2024-07-01,New,Basic,Paid,19,0.0,0,174.0,0
+U2008,2024-11-01,New,Plus,Paid,17,0.0,1,276.0,0
+U2009,2025-02-01,At risk,Basic,Email,21,0.0,1,294.0,1
+U2010,2024-07-01,Returning,Pro,Organic,13,0.0,0,702.0,0
+U2011,2024-08-01,At risk,Plus,Referral,12,0.0,6,468.0,1
+U2012,2025-05-01,Loyal,Basic,Email,15,0.0,2,474.0,0
+U2013,2024-11-01,Returning,Basic,Organic,18,0.0,0,294.0,1
+U2014,2024-07-01,Loyal,Basic,Paid,4,0.0,0,316.0,0
+U2015,2025-02-01,Loyal,Plus,Email,14,0.0,0,756.0,0
+U2016,2025-04-01,At risk,Plus,Organic,18,0.0,2,468.0,1
+U2017,2024-08-01,Returning,Plus,Organic,19,0.0,0,468.0,0
+U2018,2025-03-01,New,Plus,Paid,17,0.0,0,276.0,0
+U2019,2024-12-01,At risk,Plus,Paid,19,0.0,3,468.0,0
+U2020,2024-09-01,Returning,Pro,Paid,22,0.0,1,702.0,0
+U2021,2025-03-01,Loyal,Basic,Organic,8,0.0,1,474.0,0
+U2022,2025-04-01,Loyal,Pro,Email,8,0.0,1,1134.0,0
+U2023,2024-11-01,New,Basic,Referral,12,0.0,0,174.0,0
+U2024,2025-05-01,New,Pro,Referral,15,0.1,1,372.6,0
+U2025,2025-04-01,New,Basic,Referral,1,0.0,0,29.0,0
+U2026,2025-06-01,Returning,Basic,Email,18,0.0,1,294.0,0
+U2027,2025-06-01,Returning,Pro,Referral,3,0.2,0,280.8,0
+U2028,2025-02-01,Loyal,Basic,Organic,12,0.0,1,474.0,0
+U2029,2025-05-01,Returning,Pro,Referral,6,0.0,0,702.0,0
+U2030,2024-11-01,New,Plus,Organic,12,0.0,1,276.0,1
+U2031,2024-11-01,New,Plus,Organic,5,0.0,1,230.0,0
+U2032,2024-08-01,At risk,Pro,Organic,2,0.0,1,234.0,0
+U2033,2024-10-01,New,Basic,Paid,14,0.0,0,174.0,0
+U2034,2024-10-01,Returning,Plus,Paid,19,0.0,1,468.0,0
+U2035,2025-01-01,New,Basic,Paid,7,0.0,0,174.0,0
+U2036,2025-04-01,Loyal,Basic,Referral,10,0.0,0,474.0,0
+U2037,2024-07-01,Returning,Basic,Referral,21,0.0,1,294.0,0
+U2038,2024-07-01,New,Basic,Email,3,0.0,1,87.0,0
+U2039,2024-08-01,New,Plus,Paid,18,0.0,0,276.0,0
+U2040,2024-09-01,At risk,Plus,Paid,3,0.0,2,234.0,0
+U2041,2024-12-01,Loyal,Plus,Organic,22,0.0,0,756.0,0
+U2042,2024-08-01,Loyal,Pro,Paid,15,0.0,1,1134.0,0
+U2043,2025-01-01,Returning,Basic,Organic,4,0.0,0,196.0,0
+U2044,2024-07-01,Loyal,Plus,Organic,14,0.0,1,756.0,0
+U2045,2024-10-01,Returning,Basic,Paid,13,0.0,2,294.0,0
+U2046,2025-02-01,Returning,Pro,Paid,23,0.0,1,702.0,0
+U2047,2025-05-01,Returning,Plus,Email,4,0.0,0,312.0,0
+U2048,2025-05-01,New,Plus,Organic,15,0.0,1,276.0,0
+U2049,2024-11-01,New,Basic,Email,19,0.0,0,174.0,0
+U2050,2025-02-01,Returning,Basic,Organic,2,0.1,1,88.2,1
+U2051,2024-12-01,Returning,Plus,Organic,6,0.0,0,468.0,0
+U2052,2025-01-01,Returning,Basic,Email,20,0.0,1,294.0,0
+U2053,2024-07-01,Returning,Basic,Email,11,0.0,0,294.0,0
+U2054,2024-08-01,At risk,Plus,Referral,9,0.0,4,468.0,0
+U2055,2024-10-01,Loyal,Pro,Paid,9,0.0,0,1134.0,0
+U2056,2025-03-01,Returning,Plus,Paid,21,0.0,0,468.0,0
+U2057,2025-01-01,Loyal,Basic,Paid,14,0.0,2,474.0,0
+U2058,2024-08-01,Returning,Basic,Email,4,0.0,1,196.0,0
+U2059,2024-08-01,Loyal,Basic,Email,1,0.0,0,79.0,0
+U2060,2024-07-01,At risk,Plus,Paid,14,0.2,4,374.4,1
+U2061,2025-02-01,Loyal,Pro,Organic,7,0.0,0,1134.0,0
+U2062,2024-08-01,New,Plus,Organic,13,0.0,0,276.0,0
+U2063,2025-01-01,Returning,Pro,Paid,2,0.0,1,234.0,0
+U2064,2025-06-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U2065,2025-01-01,At risk,Basic,Email,13,0.0,4,294.0,1
+U2066,2024-09-01,New,Plus,Paid,21,0.0,1,276.0,0
+U2067,2025-01-01,New,Plus,Email,19,0.0,0,276.0,0
+U2068,2025-01-01,Loyal,Basic,Email,4,0.0,2,316.0,1
+U2069,2024-07-01,New,Basic,Paid,8,0.0,0,174.0,1
+U2070,2025-06-01,Returning,Basic,Paid,22,0.0,2,294.0,1
+U2071,2024-10-01,At risk,Pro,Referral,11,0.2,4,561.6,0
+U2072,2024-09-01,Loyal,Basic,Paid,3,0.0,1,237.0,0
+U2073,2025-05-01,Loyal,Pro,Referral,9,0.0,0,1134.0,0
+U2074,2024-09-01,Loyal,Plus,Organic,15,0.0,0,756.0,0
+U2075,2025-03-01,At risk,Plus,Email,23,0.0,2,468.0,1
+U2076,2024-12-01,Returning,Pro,Email,18,0.0,0,702.0,0
+U2077,2025-05-01,Loyal,Pro,Paid,18,0.0,3,1134.0,1
+U2078,2025-03-01,At risk,Basic,Referral,1,0.0,4,49.0,1
+U2079,2025-02-01,New,Basic,Email,20,0.2,2,139.2,0
+U2080,2025-05-01,At risk,Basic,Organic,4,0.0,1,196.0,1
+U2081,2024-12-01,Loyal,Basic,Referral,4,0.0,0,316.0,0
+U2082,2025-03-01,Loyal,Basic,Organic,20,0.0,0,474.0,0
+U2083,2025-02-01,Loyal,Plus,Email,23,0.0,2,756.0,0
+U2084,2025-03-01,New,Plus,Referral,4,0.0,1,184.0,0
+U2085,2024-12-01,Returning,Basic,Email,19,0.0,0,294.0,0
+U2086,2025-03-01,New,Basic,Email,10,0.0,0,174.0,0
+U2087,2025-01-01,Loyal,Plus,Organic,12,0.1,0,680.4,0
+U2088,2024-08-01,Returning,Plus,Organic,15,0.0,1,468.0,0
+U2089,2024-09-01,Loyal,Basic,Referral,15,0.0,0,474.0,0
+U2090,2025-01-01,Returning,Plus,Email,15,0.0,1,468.0,0
+U2091,2024-12-01,At risk,Pro,Organic,12,0.1,4,631.8,1
+U2092,2024-11-01,Loyal,Basic,Paid,23,0.0,1,474.0,0
+U2093,2025-06-01,Loyal,Plus,Email,10,0.0,0,756.0,0
+U2094,2024-10-01,Returning,Plus,Referral,23,0.0,0,468.0,0
+U2095,2024-07-01,Returning,Basic,Referral,16,0.0,0,294.0,0
+U2096,2025-01-01,At risk,Plus,Email,9,0.0,3,468.0,0
+U2097,2025-05-01,New,Basic,Organic,19,0.0,0,174.0,0
+U2098,2025-02-01,Returning,Basic,Organic,12,0.0,0,294.0,0
+U2099,2024-08-01,Returning,Basic,Referral,15,0.0,1,294.0,0
+U2100,2025-02-01,Loyal,Pro,Email,23,0.0,0,1134.0,0
+U2101,2025-05-01,Loyal,Pro,Organic,18,0.0,1,1134.0,0
+U2102,2024-09-01,New,Basic,Referral,5,0.2,0,116.0,0
+U2103,2025-06-01,Returning,Pro,Email,22,0.1,0,631.8,0
+U2104,2024-07-01,Loyal,Basic,Organic,23,0.0,0,474.0,0
+U2105,2024-08-01,New,Plus,Email,11,0.2,1,220.8,0
+U2106,2024-09-01,Returning,Basic,Paid,8,0.0,1,294.0,0
+U2107,2024-09-01,New,Basic,Paid,16,0.1,1,156.6,0
+U2108,2025-02-01,Returning,Basic,Paid,5,0.1,0,220.5,0
+U2109,2025-02-01,New,Plus,Organic,20,0.0,2,276.0,0
+U2110,2024-11-01,At risk,Basic,Email,11,0.0,2,294.0,1
+U2111,2025-02-01,New,Pro,Email,6,0.0,0,414.0,0
+U2112,2025-06-01,Returning,Basic,Organic,8,0.0,0,294.0,0
+U2113,2025-01-01,Loyal,Plus,Paid,4,0.0,1,504.0,0
+U2114,2024-10-01,New,Basic,Email,17,0.2,0,139.2,1
+U2115,2024-07-01,Returning,Basic,Referral,19,0.0,1,294.0,0
+U2116,2024-11-01,Returning,Plus,Paid,4,0.0,0,312.0,0
+U2117,2025-06-01,New,Plus,Paid,12,0.0,0,276.0,0
+U2118,2025-04-01,New,Basic,Paid,8,0.0,0,174.0,1
+U2119,2024-11-01,Returning,Pro,Organic,14,0.0,0,702.0,0
+U2120,2024-12-01,Loyal,Plus,Email,13,0.0,1,756.0,0
+U2121,2024-08-01,Loyal,Basic,Organic,22,0.0,2,474.0,0
+U2122,2025-06-01,Loyal,Basic,Paid,5,0.0,0,395.0,0
+U2123,2024-07-01,New,Basic,Organic,8,0.2,0,139.2,1
+U2124,2025-02-01,New,Pro,Email,4,0.0,0,276.0,0
+U2125,2025-04-01,Loyal,Plus,Organic,8,0.0,1,756.0,0
+U2126,2025-01-01,Loyal,Basic,Email,1,0.0,0,79.0,0
+U2127,2025-05-01,Returning,Plus,Organic,10,0.0,1,468.0,0
+U2128,2025-01-01,At risk,Basic,Email,13,0.0,3,294.0,1
+U2129,2024-11-01,Returning,Pro,Organic,2,0.0,0,234.0,0
+U2130,2025-05-01,New,Basic,Paid,12,0.0,0,174.0,0
+U2131,2025-04-01,At risk,Pro,Organic,9,0.0,3,702.0,0
+U2132,2024-09-01,At risk,Basic,Referral,13,0.3,5,205.8,1
+U2133,2024-11-01,Loyal,Basic,Organic,20,0.0,2,474.0,0
+U2134,2024-08-01,Returning,Pro,Paid,4,0.1,0,421.2,1
+U2135,2025-02-01,Loyal,Basic,Organic,11,0.0,0,474.0,0
+U2136,2024-09-01,Returning,Basic,Email,15,0.0,1,294.0,0
+U2137,2025-03-01,Returning,Basic,Paid,22,0.0,2,294.0,0
+U2138,2024-12-01,At risk,Basic,Organic,14,0.0,1,294.0,0
+U2139,2024-11-01,New,Basic,Referral,19,0.1,1,156.6,0
+U2140,2024-12-01,Returning,Basic,Paid,4,0.0,0,196.0,0
+U2141,2025-03-01,Loyal,Basic,Paid,14,0.0,1,474.0,0
+U2142,2025-06-01,Returning,Basic,Organic,21,0.0,0,294.0,1
+U2143,2025-05-01,New,Pro,Email,22,0.0,0,414.0,0
+U2144,2024-12-01,Returning,Basic,Paid,23,0.0,0,294.0,0
+U2145,2025-01-01,At risk,Basic,Paid,10,0.0,1,294.0,1
+U2146,2024-07-01,New,Pro,Organic,5,0.0,2,345.0,1
+U2147,2024-07-01,Returning,Basic,Paid,16,0.0,1,294.0,1
+U2148,2025-02-01,Returning,Basic,Paid,2,0.0,1,98.0,0
+U2149,2024-11-01,At risk,Pro,Organic,15,0.2,4,561.6,1
+U2150,2024-07-01,At risk,Plus,Paid,6,0.1,4,421.2,1
+U2151,2025-05-01,New,Pro,Organic,9,0.0,0,414.0,0
+U2152,2024-08-01,New,Basic,Referral,20,0.0,0,174.0,0
+U2153,2025-05-01,New,Pro,Email,21,0.0,1,414.0,0
+U2154,2025-04-01,New,Plus,Organic,12,0.0,1,276.0,0
+U2155,2025-04-01,Returning,Pro,Paid,1,0.0,1,117.0,0
+U2156,2025-01-01,Returning,Pro,Organic,2,0.0,0,234.0,0
+U2157,2024-09-01,New,Plus,Paid,17,0.0,2,276.0,0
+U2158,2025-01-01,Loyal,Pro,Paid,9,0.0,1,1134.0,0
+U2159,2025-03-01,New,Basic,Organic,19,0.0,1,174.0,0
+U2160,2025-05-01,New,Basic,Organic,4,0.0,1,116.0,0
+U2161,2024-08-01,Returning,Plus,Paid,14,0.0,0,468.0,0
+U2162,2025-04-01,Returning,Plus,Paid,4,0.0,0,312.0,0
+U2163,2024-12-01,Returning,Plus,Organic,22,0.0,0,468.0,0
+U2164,2024-10-01,Returning,Pro,Paid,15,0.0,0,702.0,0
+U2165,2024-12-01,At risk,Plus,Paid,18,0.0,3,468.0,0
+U2166,2025-02-01,New,Pro,Organic,6,0.0,0,414.0,0
+U2167,2024-12-01,New,Plus,Paid,14,0.0,0,276.0,0
+U2168,2025-02-01,Loyal,Basic,Organic,14,0.0,0,474.0,0
+U2169,2024-07-01,At risk,Plus,Organic,2,0.0,2,156.0,0
+U2170,2025-01-01,Returning,Basic,Paid,9,0.0,0,294.0,0
+U2171,2025-03-01,Returning,Basic,Organic,23,0.1,1,264.6,0
+U2172,2024-10-01,At risk,Basic,Referral,7,0.2,2,235.2,0
+U2173,2025-04-01,At risk,Basic,Referral,21,0.1,3,264.6,0
+U2174,2024-12-01,Loyal,Plus,Organic,9,0.0,0,756.0,0
+U2175,2024-10-01,Returning,Basic,Email,14,0.0,0,294.0,0
+U2176,2025-01-01,At risk,Basic,Organic,23,0.0,2,294.0,0
+U2177,2025-02-01,New,Basic,Email,5,0.0,1,145.0,0
+U2178,2024-09-01,New,Basic,Referral,5,0.0,0,145.0,0
+U2179,2025-03-01,Loyal,Pro,Paid,14,0.0,3,1134.0,1
+U2180,2024-09-01,Returning,Pro,Paid,14,0.3,1,491.4,0
+U2181,2024-09-01,At risk,Basic,Paid,17,0.0,1,294.0,0
+U2182,2024-12-01,At risk,Plus,Organic,16,0.1,3,421.2,1
+U2183,2025-03-01,New,Basic,Referral,1,0.0,1,29.0,0
+U2184,2025-06-01,Returning,Plus,Organic,6,0.0,1,468.0,0
+U2185,2024-12-01,Returning,Basic,Paid,19,0.0,1,294.0,1
+U2186,2024-10-01,Returning,Pro,Email,10,0.0,0,702.0,0
+U2187,2025-04-01,Returning,Plus,Paid,7,0.0,0,468.0,0
+U2188,2025-04-01,Returning,Basic,Email,9,0.0,0,294.0,0
+U2189,2024-12-01,New,Plus,Email,11,0.0,2,276.0,1
+U2190,2025-04-01,Loyal,Plus,Referral,19,0.0,1,756.0,0
+U2191,2024-10-01,Loyal,Pro,Referral,18,0.0,1,1134.0,0
+U2192,2025-03-01,Returning,Basic,Paid,12,0.0,2,294.0,1
+U2193,2024-08-01,At risk,Pro,Referral,9,0.1,2,631.8,0
+U2194,2025-02-01,At risk,Basic,Organic,16,0.0,2,294.0,1
+U2195,2024-08-01,Returning,Basic,Referral,8,0.0,0,294.0,0
+U2196,2025-03-01,New,Plus,Paid,21,0.0,0,276.0,0
+U2197,2024-12-01,Loyal,Basic,Paid,2,0.0,0,158.0,0
+U2198,2024-09-01,Loyal,Basic,Email,7,0.0,1,474.0,0
+U2199,2025-04-01,New,Basic,Organic,1,0.0,1,29.0,0
+U2200,2024-09-01,At risk,Basic,Organic,2,0.0,3,98.0,0
+U2201,2024-10-01,Returning,Pro,Referral,16,0.0,1,702.0,0
+U2202,2024-08-01,Returning,Basic,Organic,4,0.0,1,196.0,0
+U2203,2025-06-01,Loyal,Basic,Paid,12,0.0,0,474.0,0
+U2204,2025-05-01,Loyal,Basic,Email,23,0.0,0,474.0,0
+U2205,2025-03-01,New,Basic,Paid,4,0.0,0,116.0,0
+U2206,2025-02-01,Returning,Basic,Referral,3,0.0,0,147.0,0
+U2207,2024-07-01,Returning,Plus,Referral,4,0.0,0,312.0,0
+U2208,2024-08-01,Returning,Pro,Organic,1,0.3,0,81.9,1
+U2209,2025-03-01,Loyal,Plus,Email,15,0.0,1,756.0,0
+U2210,2025-04-01,New,Plus,Organic,20,0.3,1,193.2,0
+U2211,2025-04-01,Returning,Plus,Email,23,0.0,1,468.0,0
+U2212,2025-06-01,Loyal,Pro,Paid,5,0.0,0,945.0,0
+U2213,2024-10-01,Returning,Basic,Paid,20,0.0,1,294.0,0
+U2214,2024-08-01,Loyal,Pro,Organic,20,0.0,0,1134.0,0
+U2215,2025-03-01,Returning,Basic,Email,1,0.0,0,49.0,0
+U2216,2025-06-01,New,Pro,Referral,14,0.1,1,372.6,0
+U2217,2024-10-01,Returning,Basic,Email,22,0.0,0,294.0,0
+U2218,2024-11-01,Loyal,Basic,Organic,14,0.0,0,474.0,0
+U2219,2025-04-01,Loyal,Plus,Organic,9,0.0,1,756.0,0
+U2220,2025-01-01,At risk,Plus,Organic,22,0.0,0,468.0,0
+U2221,2025-04-01,New,Plus,Organic,7,0.0,0,276.0,0
+U2222,2025-01-01,Loyal,Basic,Organic,10,0.0,0,474.0,0
+U2223,2025-05-01,New,Plus,Organic,12,0.3,0,193.2,0
+U2224,2024-08-01,Returning,Pro,Organic,7,0.0,0,702.0,0
+U2225,2024-07-01,New,Pro,Paid,18,0.0,1,414.0,0
+U2226,2025-06-01,Returning,Plus,Referral,15,0.0,0,468.0,0
+U2227,2025-01-01,Returning,Basic,Organic,5,0.0,0,245.0,0
+U2228,2025-03-01,New,Plus,Paid,23,0.0,0,276.0,0
+U2229,2025-05-01,New,Pro,Email,19,0.0,0,414.0,0
+U2230,2025-06-01,At risk,Pro,Referral,7,0.2,0,561.6,0
+U2231,2024-11-01,Loyal,Plus,Email,12,0.0,0,756.0,0
+U2232,2025-03-01,At risk,Basic,Organic,1,0.0,0,49.0,0
+U2233,2025-01-01,New,Pro,Paid,23,0.0,1,414.0,1
+U2234,2024-12-01,Loyal,Basic,Paid,9,0.0,0,474.0,0
+U2235,2025-03-01,Returning,Basic,Organic,7,0.0,0,294.0,0
+U2236,2025-01-01,At risk,Pro,Email,14,0.0,2,702.0,0
+U2237,2025-01-01,Loyal,Plus,Organic,22,0.0,1,756.0,0
+U2238,2025-04-01,New,Plus,Organic,2,0.0,2,92.0,0
+U2239,2024-10-01,Returning,Basic,Referral,20,0.0,0,294.0,0
+U2240,2025-01-01,New,Pro,Paid,21,0.0,0,414.0,0
+U2241,2024-08-01,Returning,Pro,Referral,11,0.0,0,702.0,0
+U2242,2024-11-01,New,Pro,Organic,20,0.1,0,372.6,0
+U2243,2025-05-01,New,Basic,Paid,7,0.0,1,174.0,0
+U2244,2024-12-01,Returning,Pro,Paid,17,0.0,1,702.0,0
+U2245,2025-02-01,Loyal,Basic,Paid,7,0.0,0,474.0,1
+U2246,2025-06-01,At risk,Pro,Email,3,0.1,4,315.9,0
+U2247,2024-12-01,Returning,Basic,Paid,9,0.0,0,294.0,0
+U2248,2024-10-01,New,Basic,Referral,7,0.2,1,139.2,0
+U2249,2024-10-01,Loyal,Plus,Referral,10,0.0,2,756.0,0
+U2250,2025-01-01,Returning,Basic,Email,23,0.0,0,294.0,0
+U2251,2024-08-01,New,Basic,Paid,20,0.1,0,156.6,0
+U2252,2024-09-01,Loyal,Basic,Paid,23,0.0,1,474.0,0
+U2253,2025-05-01,Returning,Pro,Email,21,0.0,0,702.0,0
+U2254,2024-07-01,New,Plus,Organic,3,0.2,1,110.4,0
+U2255,2025-05-01,At risk,Basic,Paid,5,0.0,3,245.0,0
+U2256,2024-12-01,At risk,Basic,Paid,1,0.0,3,49.0,0
+U2257,2025-01-01,New,Plus,Paid,23,0.0,0,276.0,1
+U2258,2025-01-01,Returning,Basic,Email,1,0.0,0,49.0,0
+U2259,2024-10-01,Returning,Basic,Referral,6,0.0,0,294.0,0
+U2260,2025-06-01,At risk,Basic,Paid,11,0.0,0,294.0,1
+U2261,2024-10-01,At risk,Basic,Email,9,0.0,2,294.0,1
+U2262,2024-07-01,Returning,Basic,Paid,20,0.0,1,294.0,0
+U2263,2025-05-01,New,Basic,Paid,10,0.0,1,174.0,0
+U2264,2025-04-01,At risk,Pro,Referral,4,0.0,2,468.0,0
+U2265,2025-06-01,Returning,Pro,Referral,23,0.1,1,631.8,0
+U2266,2025-03-01,New,Pro,Email,4,0.0,0,276.0,0
+U2267,2025-01-01,Returning,Plus,Email,21,0.0,0,468.0,0
+U2268,2025-02-01,At risk,Plus,Paid,21,0.0,1,468.0,0
+U2269,2025-01-01,At risk,Plus,Referral,7,0.0,5,468.0,1
+U2270,2025-04-01,Loyal,Basic,Paid,17,0.0,0,474.0,0
+U2271,2024-11-01,Returning,Basic,Paid,23,0.0,0,294.0,0
+U2272,2024-11-01,At risk,Pro,Organic,4,0.0,5,468.0,1
+U2273,2025-02-01,Returning,Plus,Organic,6,0.0,0,468.0,0
+U2274,2025-04-01,Returning,Basic,Paid,7,0.0,0,294.0,0
+U2275,2024-07-01,New,Plus,Referral,1,0.0,1,46.0,1
+U2276,2025-03-01,Loyal,Plus,Organic,16,0.0,1,756.0,0
+U2277,2025-04-01,Loyal,Plus,Organic,10,0.0,0,756.0,0
+U2278,2025-01-01,Returning,Basic,Referral,1,0.0,1,49.0,0
+U2279,2024-12-01,Returning,Plus,Paid,2,0.0,0,156.0,0
+U2280,2024-12-01,Returning,Plus,Organic,9,0.0,0,468.0,0
+U2281,2024-09-01,New,Basic,Paid,22,0.0,3,174.0,0
+U2282,2024-07-01,Loyal,Basic,Paid,14,0.0,1,474.0,0
+U2283,2025-01-01,Returning,Pro,Email,18,0.0,1,702.0,0
+U2284,2025-02-01,Returning,Basic,Referral,18,0.0,1,294.0,0
+U2285,2024-07-01,Loyal,Basic,Organic,11,0.0,0,474.0,0
+U2286,2025-05-01,Returning,Plus,Paid,4,0.0,2,312.0,0
+U2287,2025-05-01,Returning,Basic,Referral,20,0.0,0,294.0,1
+U2288,2024-11-01,New,Plus,Organic,12,0.0,0,276.0,0
+U2289,2025-06-01,New,Plus,Referral,18,0.1,0,248.4,0
+U2290,2025-04-01,Returning,Basic,Referral,21,0.0,0,294.0,0
+U2291,2025-01-01,Returning,Pro,Paid,6,0.0,0,702.0,0
+U2292,2024-12-01,New,Basic,Organic,23,0.0,3,174.0,0
+U2293,2025-02-01,Returning,Basic,Email,18,0.0,0,294.0,0
+U2294,2024-09-01,New,Plus,Organic,4,0.2,0,147.2,0
+U2295,2024-10-01,Loyal,Plus,Paid,20,0.0,0,756.0,0
+U2296,2025-04-01,New,Pro,Referral,13,0.1,2,372.6,0
+U2297,2025-02-01,Loyal,Plus,Paid,12,0.0,0,756.0,0
+U2298,2024-11-01,Loyal,Basic,Email,14,0.0,1,474.0,0
+U2299,2025-02-01,Returning,Plus,Paid,2,0.0,0,156.0,0
+U2300,2025-05-01,At risk,Plus,Email,8,0.1,1,421.2,1
+U2301,2025-02-01,Returning,Basic,Email,10,0.0,0,294.0,0
+U2302,2024-07-01,New,Pro,Organic,21,0.0,0,414.0,0
+U2303,2025-01-01,New,Basic,Email,22,0.0,1,174.0,0
+U2304,2024-12-01,At risk,Basic,Organic,10,0.0,2,294.0,1
+U2305,2025-01-01,New,Plus,Paid,2,0.0,2,92.0,1
+U2306,2024-09-01,At risk,Plus,Paid,3,0.0,1,234.0,1
+U2307,2024-09-01,Returning,Plus,Paid,11,0.0,0,468.0,1
+U2308,2025-06-01,New,Basic,Paid,19,0.0,0,174.0,1
+U2309,2024-10-01,Loyal,Basic,Email,22,0.3,2,331.8,0
+U2310,2025-02-01,Returning,Pro,Organic,18,0.0,0,702.0,0
+U2311,2025-03-01,Returning,Basic,Organic,12,0.0,1,294.0,0
+U2312,2025-06-01,New,Pro,Organic,23,0.2,0,331.2,0
+U2313,2025-04-01,Loyal,Basic,Organic,13,0.0,0,474.0,0
+U2314,2025-06-01,Returning,Pro,Organic,13,0.0,2,702.0,0
+U2315,2025-03-01,New,Basic,Email,12,0.0,1,174.0,0
+U2316,2025-05-01,At risk,Basic,Organic,7,0.0,2,294.0,1
+U2317,2024-12-01,Returning,Pro,Referral,13,0.0,2,702.0,0
+U2318,2024-10-01,At risk,Pro,Paid,17,0.0,1,702.0,0
+U2319,2024-11-01,Loyal,Pro,Organic,11,0.0,0,1134.0,0
+U2320,2024-07-01,Returning,Plus,Email,13,0.0,0,468.0,0
+U2321,2025-02-01,Returning,Pro,Paid,19,0.0,1,702.0,0
+U2322,2025-03-01,Returning,Basic,Organic,16,0.0,0,294.0,0
+U2323,2024-09-01,At risk,Pro,Organic,11,0.0,1,702.0,1
+U2324,2024-12-01,At risk,Pro,Email,6,0.0,1,702.0,1
+U2325,2025-06-01,Returning,Pro,Email,19,0.0,0,702.0,0
+U2326,2024-12-01,Loyal,Basic,Referral,16,0.0,2,474.0,0
+U2327,2024-07-01,Loyal,Plus,Email,8,0.0,1,756.0,0
+U2328,2024-07-01,Loyal,Basic,Paid,1,0.0,1,79.0,0
+U2329,2025-03-01,New,Plus,Referral,9,0.0,0,276.0,0
+U2330,2025-04-01,New,Pro,Email,2,0.2,1,110.4,0
+U2331,2024-09-01,New,Basic,Email,17,0.0,0,174.0,0
+U2332,2024-07-01,New,Basic,Organic,9,0.2,0,139.2,0
+U2333,2024-12-01,New,Basic,Email,10,0.0,0,174.0,0
+U2334,2025-04-01,At risk,Plus,Organic,15,0.0,3,468.0,0
+U2335,2024-10-01,Loyal,Pro,Email,14,0.0,0,1134.0,0
+U2336,2024-08-01,New,Basic,Organic,1,0.0,1,29.0,0
+U2337,2024-12-01,Returning,Pro,Organic,10,0.0,0,702.0,0
+U2338,2025-04-01,New,Basic,Paid,12,0.1,1,156.6,0
+U2339,2024-09-01,At risk,Basic,Referral,10,0.0,7,294.0,1
+U2340,2025-03-01,At risk,Basic,Email,22,0.0,3,294.0,1
+U2341,2024-12-01,New,Plus,Paid,7,0.0,1,276.0,1
+U2342,2025-02-01,New,Plus,Referral,9,0.0,0,276.0,0
+U2343,2024-08-01,At risk,Basic,Paid,20,0.2,2,235.2,1
+U2344,2024-08-01,Returning,Basic,Paid,19,0.0,0,294.0,0
+U2345,2024-09-01,Returning,Plus,Paid,4,0.0,0,312.0,0
+U2346,2025-01-01,At risk,Basic,Email,20,0.0,2,294.0,1
+U2347,2024-07-01,Returning,Basic,Organic,16,0.0,0,294.0,1
+U2348,2025-06-01,Loyal,Plus,Referral,8,0.0,1,756.0,0
+U2349,2025-05-01,Returning,Plus,Organic,8,0.0,1,468.0,0
+U2350,2025-01-01,Loyal,Basic,Referral,12,0.0,0,474.0,0
+U2351,2025-02-01,Returning,Pro,Organic,4,0.0,1,468.0,0
+U2352,2024-09-01,New,Pro,Organic,3,0.2,0,165.6,0
+U2353,2024-08-01,Loyal,Basic,Organic,5,0.0,2,395.0,1
+U2354,2025-06-01,Returning,Basic,Organic,17,0.0,0,294.0,0
+U2355,2024-09-01,New,Basic,Organic,13,0.0,0,174.0,0
+U2356,2024-09-01,Returning,Basic,Email,23,0.0,0,294.0,0
+U2357,2024-12-01,Returning,Basic,Organic,18,0.0,0,294.0,0
+U2358,2025-06-01,Loyal,Plus,Paid,7,0.0,1,756.0,0
+U2359,2024-09-01,Returning,Pro,Organic,4,0.0,0,468.0,0
+U2360,2025-06-01,Loyal,Basic,Paid,7,0.2,1,379.2,0
+U2361,2025-03-01,At risk,Basic,Organic,14,0.0,2,294.0,0
+U2362,2025-03-01,Loyal,Plus,Paid,1,0.0,0,126.0,0
+U2363,2025-03-01,At risk,Pro,Referral,23,0.0,3,702.0,1
+U2364,2024-11-01,New,Plus,Paid,13,0.0,0,276.0,0
+U2365,2025-06-01,At risk,Plus,Email,2,0.2,1,124.8,1
+U2366,2025-01-01,At risk,Plus,Paid,6,0.3,0,327.6,0
+U2367,2025-01-01,Returning,Basic,Paid,4,0.0,1,196.0,0
+U2368,2024-07-01,Returning,Pro,Paid,5,0.0,1,585.0,0
+U2369,2024-11-01,At risk,Plus,Referral,19,0.0,3,468.0,1
+U2370,2025-04-01,New,Basic,Paid,16,0.0,1,174.0,1
+U2371,2025-04-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U2372,2024-08-01,New,Plus,Referral,13,0.0,0,276.0,0
+U2373,2024-08-01,Loyal,Plus,Paid,7,0.0,0,756.0,0
+U2374,2025-03-01,Loyal,Basic,Paid,2,0.0,1,158.0,0
+U2375,2025-01-01,New,Basic,Email,16,0.2,0,139.2,0
+U2376,2025-05-01,Loyal,Basic,Email,5,0.0,0,395.0,0
+U2377,2024-11-01,Loyal,Basic,Paid,21,0.0,0,474.0,0
+U2378,2025-06-01,New,Basic,Email,17,0.0,0,174.0,0
+U2379,2024-10-01,New,Plus,Organic,5,0.0,1,230.0,0
+U2380,2025-01-01,New,Basic,Email,8,0.0,0,174.0,0
+U2381,2025-03-01,Returning,Basic,Organic,14,0.0,1,294.0,1
+U2382,2024-12-01,Loyal,Basic,Paid,6,0.0,1,474.0,0
+U2383,2025-02-01,New,Plus,Email,14,0.0,0,276.0,0
+U2384,2025-01-01,Loyal,Plus,Email,4,0.0,0,504.0,0
+U2385,2025-01-01,Returning,Basic,Organic,4,0.0,1,196.0,0
+U2386,2024-07-01,New,Basic,Paid,11,0.0,0,174.0,0
+U2387,2024-10-01,Loyal,Pro,Organic,7,0.0,0,1134.0,0
+U2388,2024-09-01,Returning,Plus,Paid,15,0.1,2,421.2,0
+U2389,2025-06-01,Returning,Pro,Email,3,0.0,0,351.0,0
+U2390,2024-07-01,At risk,Basic,Paid,19,0.2,3,235.2,0
+U2391,2025-03-01,New,Plus,Paid,16,0.0,1,276.0,0
+U2392,2025-03-01,New,Basic,Paid,5,0.0,0,145.0,0
+U2393,2024-10-01,Returning,Pro,Organic,14,0.0,1,702.0,0
+U2394,2025-05-01,At risk,Basic,Paid,3,0.0,2,147.0,0
+U2395,2025-01-01,Returning,Plus,Paid,21,0.0,1,468.0,0
+U2396,2025-03-01,Loyal,Basic,Email,5,0.0,0,395.0,0
+U2397,2025-01-01,At risk,Basic,Referral,11,0.0,2,294.0,1
+U2398,2025-06-01,New,Plus,Email,1,0.0,0,46.0,0
+U2399,2024-08-01,Returning,Plus,Referral,20,0.0,1,468.0,0
+U2400,2024-08-01,New,Basic,Paid,22,0.0,0,174.0,1
+U2401,2025-03-01,Returning,Plus,Paid,3,0.0,0,234.0,0
+U2402,2025-05-01,Loyal,Plus,Email,14,0.0,3,756.0,0
+U2403,2024-07-01,At risk,Basic,Paid,3,0.0,2,147.0,1
+U2404,2024-10-01,At risk,Plus,Paid,7,0.0,1,468.0,0
+U2405,2024-07-01,Loyal,Basic,Paid,13,0.0,0,474.0,1
+U2406,2024-07-01,New,Pro,Organic,14,0.3,3,289.8,0
+U2407,2025-04-01,At risk,Basic,Paid,8,0.1,0,264.6,1
+U2408,2025-04-01,Returning,Pro,Organic,16,0.0,0,702.0,0
+U2409,2024-10-01,At risk,Basic,Email,21,0.0,3,294.0,1
+U2410,2025-01-01,Loyal,Pro,Organic,2,0.0,0,378.0,0
+U2411,2025-02-01,Returning,Basic,Referral,7,0.0,2,294.0,0
+U2412,2024-07-01,New,Pro,Organic,9,0.0,0,414.0,0
+U2413,2025-01-01,At risk,Plus,Paid,8,0.2,2,374.4,1
+U2414,2024-09-01,New,Basic,Paid,2,0.0,1,58.0,0
+U2415,2025-02-01,At risk,Basic,Email,12,0.0,3,294.0,0
+U2416,2024-09-01,New,Plus,Paid,12,0.0,5,276.0,0
+U2417,2025-06-01,New,Pro,Email,7,0.0,0,414.0,0
+U2418,2024-09-01,New,Basic,Referral,5,0.0,1,145.0,0
+U2419,2025-04-01,Returning,Plus,Email,14,0.3,1,327.6,0
+U2420,2024-10-01,At risk,Basic,Organic,14,0.0,4,294.0,1
+U2421,2024-08-01,New,Basic,Paid,21,0.2,0,139.2,1
+U2422,2024-11-01,Loyal,Plus,Paid,6,0.0,0,756.0,0
+U2423,2025-05-01,Loyal,Pro,Referral,17,0.0,0,1134.0,0
+U2424,2025-01-01,Loyal,Basic,Paid,8,0.0,1,474.0,0
+U2425,2025-02-01,Returning,Pro,Organic,12,0.0,0,702.0,0
+U2426,2024-09-01,New,Basic,Paid,18,0.0,0,174.0,0
+U2427,2025-05-01,Returning,Plus,Email,23,0.0,2,468.0,1
+U2428,2025-02-01,Returning,Basic,Referral,14,0.0,2,294.0,0
+U2429,2025-03-01,Returning,Plus,Organic,22,0.0,0,468.0,0
+U2430,2025-03-01,Returning,Plus,Paid,14,0.3,0,327.6,0
+U2431,2024-08-01,New,Plus,Organic,18,0.2,1,220.8,0
+U2432,2025-02-01,New,Basic,Organic,5,0.1,0,130.5,1
+U2433,2024-09-01,At risk,Basic,Paid,15,0.0,5,294.0,1
+U2434,2025-05-01,Returning,Basic,Organic,11,0.0,0,294.0,0
+U2435,2025-02-01,New,Basic,Referral,11,0.2,1,139.2,0
+U2436,2025-04-01,At risk,Basic,Paid,22,0.0,3,294.0,1
+U2437,2025-01-01,New,Basic,Organic,23,0.0,1,174.0,1
+U2438,2024-11-01,New,Pro,Organic,18,0.0,0,414.0,0
+U2439,2024-07-01,Loyal,Basic,Organic,3,0.0,1,237.0,0
+U2440,2025-03-01,Returning,Plus,Paid,10,0.0,0,468.0,0
+U2441,2025-05-01,Loyal,Plus,Organic,15,0.0,0,756.0,0
+U2442,2024-09-01,At risk,Basic,Organic,16,0.3,3,205.8,1
+U2443,2025-02-01,Returning,Basic,Paid,12,0.0,0,294.0,0
+U2444,2024-11-01,Returning,Plus,Email,23,0.0,0,468.0,1
+U2445,2024-08-01,Returning,Pro,Email,8,0.0,0,702.0,0
+U2446,2024-11-01,Returning,Pro,Paid,21,0.0,1,702.0,0
+U2447,2025-01-01,New,Pro,Organic,10,0.0,2,414.0,0
+U2448,2025-03-01,Loyal,Plus,Paid,23,0.2,0,604.8,0
+U2449,2024-09-01,New,Basic,Email,21,0.0,0,174.0,0
+U2450,2025-03-01,New,Basic,Paid,23,0.0,1,174.0,0
+U2451,2024-08-01,Returning,Plus,Email,14,0.0,1,468.0,0
+U2452,2024-07-01,New,Plus,Paid,5,0.0,0,230.0,0
+U2453,2024-08-01,New,Plus,Organic,15,0.0,0,276.0,0
+U2454,2024-07-01,Returning,Pro,Organic,23,0.0,0,702.0,0
+U2455,2025-05-01,New,Basic,Email,22,0.0,0,174.0,0
+U2456,2025-02-01,Returning,Plus,Email,5,0.0,0,390.0,0
+U2457,2024-12-01,Loyal,Pro,Referral,14,0.0,0,1134.0,0
+U2458,2025-06-01,At risk,Plus,Organic,5,0.0,4,390.0,0
+U2459,2024-12-01,At risk,Plus,Paid,10,0.0,6,468.0,1
+U2460,2024-10-01,Loyal,Basic,Organic,12,0.0,1,474.0,0
+U2461,2025-03-01,Loyal,Basic,Paid,22,0.0,0,474.0,0
+U2462,2024-09-01,New,Basic,Organic,4,0.0,0,116.0,0
+U2463,2024-11-01,Returning,Basic,Organic,1,0.0,2,49.0,0
+U2464,2024-08-01,Returning,Basic,Referral,18,0.2,1,235.2,0
+U2465,2025-01-01,Loyal,Plus,Paid,3,0.0,1,378.0,0
+U2466,2025-05-01,Returning,Plus,Paid,22,0.0,2,468.0,0
+U2467,2025-05-01,Returning,Basic,Referral,13,0.0,0,294.0,0
+U2468,2025-01-01,Returning,Plus,Organic,3,0.1,2,210.6,0
+U2469,2025-04-01,At risk,Pro,Email,11,0.0,1,702.0,0
+U2470,2025-01-01,Returning,Plus,Email,14,0.0,1,468.0,0
+U2471,2024-11-01,Loyal,Basic,Referral,23,0.0,0,474.0,0
+U2472,2025-06-01,Returning,Basic,Email,17,0.0,0,294.0,0
+U2473,2025-06-01,Returning,Pro,Referral,21,0.3,1,491.4,0
+U2474,2024-07-01,At risk,Plus,Organic,13,0.0,1,468.0,1
+U2475,2024-09-01,Returning,Basic,Referral,18,0.0,0,294.0,0
+U2476,2025-03-01,Loyal,Basic,Paid,8,0.0,2,474.0,0
+U2477,2024-11-01,Returning,Pro,Paid,2,0.0,1,234.0,0
+U2478,2024-09-01,At risk,Plus,Paid,2,0.0,2,156.0,0
+U2479,2025-06-01,Returning,Plus,Paid,12,0.2,2,374.4,0
+U2480,2025-04-01,New,Pro,Referral,11,0.0,0,414.0,0
+U2481,2025-03-01,Returning,Plus,Organic,10,0.0,0,468.0,1
+U2482,2024-10-01,New,Basic,Paid,23,0.1,0,156.6,0
+U2483,2025-02-01,New,Plus,Organic,5,0.0,0,230.0,0
+U2484,2025-05-01,New,Pro,Organic,13,0.0,0,414.0,0
+U2485,2025-05-01,Returning,Plus,Paid,9,0.0,0,468.0,0
+U2486,2025-01-01,Returning,Basic,Referral,17,0.0,0,294.0,0
+U2487,2024-10-01,Returning,Basic,Referral,23,0.0,0,294.0,0
+U2488,2024-09-01,Returning,Plus,Organic,14,0.0,4,468.0,0
+U2489,2025-01-01,Returning,Basic,Paid,5,0.0,0,245.0,0
+U2490,2024-09-01,New,Basic,Paid,21,0.2,0,139.2,0
+U2491,2025-01-01,Returning,Basic,Paid,9,0.2,1,235.2,0
+U2492,2024-10-01,Returning,Basic,Paid,1,0.0,1,49.0,0
+U2493,2024-10-01,At risk,Basic,Referral,18,0.0,1,294.0,0
+U2494,2025-05-01,Returning,Basic,Email,21,0.0,2,294.0,0
+U2495,2025-02-01,Returning,Basic,Email,23,0.0,0,294.0,0
+U2496,2025-02-01,Returning,Plus,Paid,12,0.0,0,468.0,0
+U2497,2025-06-01,At risk,Basic,Organic,17,0.0,7,294.0,0
+U2498,2025-05-01,Returning,Basic,Referral,4,0.0,0,196.0,0
+U2499,2025-05-01,Returning,Plus,Email,15,0.0,1,468.0,0
+U2500,2024-12-01,Returning,Plus,Email,19,0.0,0,468.0,0
+U2501,2025-04-01,At risk,Plus,Organic,22,0.0,2,468.0,0
+U2502,2024-10-01,New,Plus,Referral,21,0.0,3,276.0,0
+U2503,2025-03-01,Loyal,Plus,Referral,21,0.0,1,756.0,0
+U2504,2024-11-01,New,Plus,Paid,11,0.0,1,276.0,0
+U2505,2025-05-01,Returning,Basic,Organic,23,0.0,3,294.0,0
+U2506,2024-08-01,At risk,Plus,Organic,10,0.0,1,468.0,0
+U2507,2025-06-01,New,Basic,Email,12,0.0,1,174.0,0
+U2508,2024-08-01,Loyal,Basic,Email,23,0.0,1,474.0,0
+U2509,2024-08-01,Returning,Basic,Email,21,0.0,0,294.0,1
+U2510,2025-02-01,New,Basic,Email,10,0.0,0,174.0,0
+U2511,2025-04-01,New,Plus,Organic,22,0.1,0,248.4,0
+U2512,2024-08-01,Loyal,Basic,Paid,17,0.0,2,474.0,0
+U2513,2025-06-01,Loyal,Basic,Referral,10,0.0,2,474.0,0
+U2514,2024-10-01,Loyal,Basic,Referral,19,0.0,0,474.0,0
+U2515,2025-05-01,Loyal,Basic,Organic,4,0.0,3,316.0,0
+U2516,2025-06-01,Returning,Pro,Paid,19,0.0,0,702.0,0
+U2517,2024-11-01,New,Plus,Email,11,0.1,1,248.4,0
+U2518,2024-08-01,New,Basic,Referral,4,0.0,3,116.0,0
+U2519,2025-02-01,Returning,Plus,Paid,18,0.0,1,468.0,0
+U2520,2025-04-01,Returning,Basic,Email,22,0.0,0,294.0,0
+U2521,2024-12-01,Returning,Pro,Organic,14,0.0,2,702.0,1
+U2522,2024-12-01,New,Basic,Paid,15,0.0,1,174.0,1
+U2523,2025-03-01,New,Plus,Email,22,0.2,0,220.8,0
+U2524,2025-04-01,New,Pro,Paid,6,0.0,1,414.0,0
+U2525,2025-06-01,New,Basic,Paid,1,0.0,2,29.0,0
+U2526,2024-12-01,Loyal,Pro,Paid,13,0.0,0,1134.0,1
+U2527,2025-06-01,Loyal,Plus,Referral,23,0.0,0,756.0,0
+U2528,2024-09-01,Loyal,Plus,Email,12,0.0,0,756.0,0
+U2529,2025-01-01,Loyal,Basic,Referral,11,0.2,1,379.2,1
+U2530,2024-10-01,Returning,Basic,Referral,12,0.0,1,294.0,0
+U2531,2025-05-01,Returning,Basic,Paid,22,0.0,2,294.0,1
+U2532,2025-05-01,Loyal,Basic,Paid,11,0.0,2,474.0,0
+U2533,2025-01-01,At risk,Pro,Organic,23,0.2,2,561.6,0
+U2534,2024-11-01,Loyal,Pro,Paid,13,0.0,1,1134.0,0
+U2535,2025-02-01,New,Pro,Organic,12,0.0,1,414.0,0
+U2536,2024-11-01,Returning,Basic,Organic,18,0.0,0,294.0,0
+U2537,2024-09-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U2538,2024-08-01,New,Basic,Paid,14,0.0,0,174.0,0
+U2539,2024-07-01,Returning,Basic,Email,18,0.0,0,294.0,0
+U2540,2025-06-01,Loyal,Plus,Paid,15,0.0,0,756.0,0
+U2541,2024-12-01,New,Basic,Referral,8,0.0,2,174.0,0
+U2542,2025-05-01,New,Plus,Email,18,0.0,1,276.0,1
+U2543,2024-09-01,Loyal,Basic,Organic,10,0.0,0,474.0,0
+U2544,2024-12-01,Returning,Basic,Referral,5,0.0,0,245.0,1
+U2545,2024-12-01,New,Basic,Organic,1,0.0,0,29.0,1
+U2546,2025-06-01,At risk,Basic,Paid,3,0.2,3,117.6,0
+U2547,2024-09-01,Returning,Plus,Organic,14,0.0,2,468.0,0
+U2548,2024-11-01,Loyal,Basic,Organic,6,0.0,1,474.0,0
+U2549,2025-05-01,New,Basic,Paid,17,0.0,2,174.0,0
+U2550,2025-04-01,Loyal,Pro,Email,18,0.0,1,1134.0,0
+U2551,2024-07-01,New,Basic,Organic,17,0.0,1,174.0,0
+U2552,2025-02-01,Returning,Basic,Referral,17,0.0,2,294.0,0
+U2553,2025-01-01,New,Plus,Organic,6,0.0,1,276.0,0
+U2554,2025-05-01,Loyal,Plus,Referral,8,0.0,0,756.0,0
+U2555,2025-04-01,New,Plus,Email,3,0.0,0,138.0,0
+U2556,2025-04-01,New,Pro,Referral,12,0.0,4,414.0,0
+U2557,2025-05-01,Returning,Plus,Email,11,0.0,1,468.0,0
+U2558,2024-08-01,New,Basic,Organic,11,0.0,0,174.0,0
+U2559,2025-02-01,Loyal,Basic,Email,21,0.0,0,474.0,0
+U2560,2025-01-01,Loyal,Basic,Organic,13,0.3,1,331.8,0
+U2561,2024-07-01,Loyal,Basic,Organic,12,0.0,1,474.0,0
+U2562,2024-09-01,New,Pro,Organic,18,0.0,1,414.0,0
+U2563,2025-02-01,Returning,Plus,Paid,19,0.0,0,468.0,0
+U2564,2025-01-01,New,Basic,Paid,23,0.0,0,174.0,1
+U2565,2025-06-01,Returning,Basic,Referral,19,0.0,2,294.0,0
+U2566,2024-07-01,Loyal,Plus,Organic,9,0.0,0,756.0,0
+U2567,2025-05-01,Returning,Plus,Organic,14,0.0,0,468.0,0
+U2568,2025-03-01,At risk,Pro,Paid,21,0.0,2,702.0,0
+U2569,2024-07-01,Loyal,Pro,Referral,5,0.0,0,945.0,0
+U2570,2025-01-01,Loyal,Plus,Organic,23,0.0,1,756.0,0
+U2571,2025-04-01,Returning,Plus,Paid,18,0.0,0,468.0,0
+U2572,2024-11-01,Returning,Plus,Paid,2,0.0,0,156.0,0
+U2573,2025-06-01,Returning,Plus,Email,8,0.0,1,468.0,1
+U2574,2025-04-01,Loyal,Basic,Referral,15,0.1,0,426.6,0
+U2575,2025-06-01,Loyal,Basic,Referral,5,0.0,1,395.0,0
+U2576,2025-03-01,New,Basic,Paid,16,0.0,1,174.0,0
+U2577,2025-05-01,Returning,Plus,Referral,16,0.0,2,468.0,0
+U2578,2024-07-01,Loyal,Pro,Organic,12,0.0,1,1134.0,0
+U2579,2025-04-01,New,Basic,Email,9,0.0,2,174.0,0
+U2580,2024-08-01,Loyal,Basic,Email,4,0.0,1,316.0,0
+U2581,2025-01-01,New,Plus,Paid,13,0.1,1,248.4,1
+U2582,2025-04-01,Returning,Basic,Paid,10,0.0,0,294.0,0
+U2583,2025-06-01,Loyal,Plus,Paid,14,0.0,1,756.0,0
+U2584,2024-10-01,New,Basic,Organic,14,0.0,0,174.0,0
+U2585,2025-01-01,Returning,Basic,Organic,4,0.2,0,156.8,0
+U2586,2024-10-01,New,Basic,Paid,17,0.0,0,174.0,1
+U2587,2025-01-01,Returning,Basic,Referral,1,0.0,0,49.0,0
+U2588,2024-12-01,Returning,Plus,Referral,7,0.0,2,468.0,1
+U2589,2025-01-01,Returning,Basic,Paid,3,0.0,1,147.0,0
+U2590,2024-07-01,Loyal,Basic,Organic,13,0.0,0,474.0,0
+U2591,2024-09-01,Returning,Plus,Organic,15,0.0,1,468.0,0
+U2592,2025-01-01,Loyal,Basic,Email,23,0.0,0,474.0,0
+U2593,2024-08-01,New,Pro,Referral,16,0.0,0,414.0,0
+U2594,2025-02-01,Loyal,Basic,Email,17,0.0,0,474.0,0
+U2595,2025-05-01,Returning,Pro,Paid,19,0.0,0,702.0,0
+U2596,2024-11-01,Returning,Basic,Organic,17,0.1,0,264.6,0
+U2597,2025-02-01,Returning,Plus,Organic,17,0.0,1,468.0,0
+U2598,2025-02-01,New,Basic,Organic,2,0.0,0,58.0,0
+U2599,2025-02-01,New,Basic,Referral,6,0.0,0,174.0,0
+U2600,2024-11-01,Returning,Basic,Email,11,0.0,0,294.0,1
+U2601,2025-01-01,Returning,Basic,Paid,8,0.0,0,294.0,0
+U2602,2025-03-01,New,Basic,Organic,15,0.0,1,174.0,0
+U2603,2025-01-01,New,Basic,Paid,9,0.0,0,174.0,0
+U2604,2024-12-01,At risk,Pro,Paid,12,0.2,2,561.6,0
+U2605,2024-08-01,New,Plus,Paid,17,0.0,3,276.0,1
+U2606,2024-10-01,Loyal,Pro,Paid,15,0.0,1,1134.0,0
+U2607,2025-03-01,Returning,Basic,Organic,19,0.0,2,294.0,0
+U2608,2024-09-01,New,Pro,Organic,3,0.0,0,207.0,1
+U2609,2024-11-01,At risk,Basic,Paid,10,0.0,2,294.0,0
+U2610,2025-03-01,At risk,Basic,Paid,3,0.0,2,147.0,0
+U2611,2025-01-01,New,Plus,Organic,12,0.0,1,276.0,1
+U2612,2025-05-01,Returning,Basic,Paid,10,0.0,0,294.0,0
+U2613,2024-12-01,Loyal,Basic,Paid,11,0.0,1,474.0,0
+U2614,2024-09-01,Loyal,Plus,Paid,11,0.0,0,756.0,0
+U2615,2025-05-01,New,Pro,Email,16,0.0,0,414.0,0
+U2616,2024-09-01,Returning,Pro,Organic,6,0.0,0,702.0,0
+U2617,2025-01-01,At risk,Basic,Paid,18,0.0,2,294.0,1
+U2618,2024-08-01,Returning,Plus,Paid,15,0.0,0,468.0,0
+U2619,2025-03-01,Returning,Basic,Paid,1,0.0,1,49.0,0
+U2620,2025-04-01,New,Basic,Organic,23,0.1,0,156.6,0
+U2621,2024-12-01,Loyal,Basic,Email,7,0.0,1,474.0,1
+U2622,2024-10-01,Returning,Plus,Paid,7,0.1,0,421.2,0
+U2623,2024-12-01,New,Basic,Paid,7,0.0,1,174.0,0
+U2624,2024-12-01,Loyal,Basic,Organic,5,0.0,1,395.0,0
+U2625,2025-04-01,New,Pro,Paid,7,0.2,0,331.2,0
+U2626,2024-09-01,Returning,Plus,Paid,1,0.0,1,78.0,0
+U2627,2024-11-01,Returning,Plus,Paid,3,0.0,1,234.0,1
+U2628,2024-10-01,At risk,Plus,Organic,5,0.0,2,390.0,1
+U2629,2024-10-01,New,Pro,Email,4,0.3,0,193.2,0
+U2630,2025-02-01,Loyal,Plus,Organic,19,0.0,1,756.0,0
+U2631,2025-02-01,Returning,Pro,Organic,1,0.0,1,117.0,0
+U2632,2025-03-01,Loyal,Pro,Email,3,0.0,0,567.0,0
+U2633,2025-03-01,Returning,Basic,Referral,17,0.0,0,294.0,0
+U2634,2025-01-01,New,Pro,Paid,4,0.0,0,276.0,0
+U2635,2024-10-01,Returning,Basic,Organic,11,0.1,1,264.6,0
+U2636,2024-07-01,Loyal,Plus,Organic,18,0.0,2,756.0,0
+U2637,2025-06-01,New,Basic,Referral,19,0.3,0,121.8,0
+U2638,2024-07-01,Returning,Basic,Email,11,0.0,0,294.0,0
+U2639,2024-10-01,At risk,Basic,Paid,22,0.2,4,235.2,1
+U2640,2025-02-01,Loyal,Pro,Paid,9,0.2,2,907.2,0
+U2641,2025-02-01,Returning,Plus,Organic,8,0.0,1,468.0,1
+U2642,2024-09-01,New,Basic,Referral,12,0.0,2,174.0,0
+U2643,2025-01-01,Loyal,Basic,Organic,17,0.0,1,474.0,0
+U2644,2024-12-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U2645,2024-12-01,At risk,Plus,Organic,1,0.0,1,78.0,1
+U2646,2024-07-01,Loyal,Basic,Organic,7,0.0,0,474.0,0
+U2647,2024-10-01,At risk,Basic,Email,22,0.2,1,235.2,1
+U2648,2025-03-01,New,Plus,Referral,23,0.2,1,220.8,0
+U2649,2025-04-01,Loyal,Basic,Referral,10,0.0,0,474.0,0
+U2650,2024-07-01,New,Basic,Paid,17,0.0,0,174.0,0
+U2651,2024-11-01,Returning,Pro,Email,6,0.0,2,702.0,0
+U2652,2024-10-01,Returning,Basic,Paid,14,0.0,0,294.0,0
+U2653,2025-06-01,New,Basic,Paid,21,0.0,0,174.0,0
+U2654,2025-03-01,At risk,Plus,Paid,15,0.0,1,468.0,1
+U2655,2025-05-01,Returning,Basic,Referral,6,0.0,0,294.0,0
+U2656,2025-05-01,At risk,Basic,Organic,10,0.0,1,294.0,1
+U2657,2025-02-01,Returning,Basic,Organic,1,0.0,1,49.0,0
+U2658,2025-05-01,Returning,Pro,Paid,2,0.0,1,234.0,1
+U2659,2025-06-01,At risk,Basic,Email,22,0.0,3,294.0,1
+U2660,2025-05-01,Returning,Pro,Referral,20,0.1,2,631.8,0
+U2661,2025-02-01,Returning,Basic,Paid,17,0.0,0,294.0,0
+U2662,2024-12-01,Returning,Plus,Paid,11,0.0,2,468.0,0
+U2663,2025-03-01,New,Basic,Email,20,0.0,0,174.0,1
+U2664,2024-08-01,Returning,Plus,Paid,18,0.0,1,468.0,0
+U2665,2025-02-01,New,Plus,Email,21,0.3,2,193.2,1
+U2666,2024-11-01,At risk,Plus,Referral,9,0.0,2,468.0,0
+U2667,2025-03-01,At risk,Basic,Organic,16,0.3,5,205.8,1
+U2668,2025-04-01,New,Plus,Organic,12,0.0,0,276.0,0
+U2669,2025-02-01,New,Basic,Email,23,0.0,0,174.0,1
+U2670,2024-08-01,Loyal,Basic,Organic,16,0.0,2,474.0,0
+U2671,2025-02-01,New,Basic,Referral,20,0.0,0,174.0,0
+U2672,2025-05-01,Loyal,Basic,Organic,11,0.0,0,474.0,0
+U2673,2024-09-01,New,Basic,Referral,1,0.0,2,29.0,0
+U2674,2024-07-01,Returning,Basic,Paid,6,0.0,0,294.0,0
+U2675,2025-04-01,New,Basic,Referral,13,0.0,0,174.0,0
+U2676,2024-12-01,Returning,Plus,Referral,2,0.0,0,156.0,0
+U2677,2024-07-01,New,Basic,Referral,10,0.0,1,174.0,0
+U2678,2024-09-01,Returning,Pro,Referral,14,0.0,0,702.0,0
+U2679,2025-03-01,Loyal,Basic,Referral,8,0.0,1,474.0,0
+U2680,2025-03-01,New,Basic,Organic,12,0.0,0,174.0,0
+U2681,2024-12-01,Returning,Basic,Organic,18,0.0,2,294.0,0
+U2682,2024-10-01,Returning,Basic,Email,15,0.0,0,294.0,0
+U2683,2024-10-01,Returning,Plus,Referral,12,0.2,0,374.4,0
+U2684,2024-10-01,Loyal,Basic,Organic,4,0.0,0,316.0,0
+U2685,2025-04-01,Returning,Plus,Organic,12,0.0,0,468.0,0
+U2686,2025-04-01,New,Basic,Email,16,0.0,0,174.0,0
+U2687,2024-11-01,Loyal,Basic,Organic,5,0.0,0,395.0,0
+U2688,2025-01-01,At risk,Plus,Referral,4,0.0,3,312.0,1
+U2689,2024-08-01,New,Pro,Organic,7,0.0,0,414.0,0
+U2690,2025-01-01,New,Plus,Email,10,0.0,0,276.0,0
+U2691,2024-11-01,Returning,Plus,Organic,1,0.0,1,78.0,0
+U2692,2025-02-01,Loyal,Plus,Organic,20,0.0,2,756.0,0
+U2693,2024-12-01,At risk,Plus,Referral,18,0.2,5,374.4,0
+U2694,2025-04-01,Returning,Plus,Email,1,0.0,1,78.0,1
+U2695,2024-09-01,At risk,Basic,Organic,8,0.0,4,294.0,0
+U2696,2025-03-01,Loyal,Basic,Paid,8,0.0,0,474.0,0
+U2697,2024-07-01,Loyal,Plus,Paid,3,0.0,2,378.0,0
+U2698,2025-04-01,Returning,Plus,Paid,17,0.0,1,468.0,0
+U2699,2024-09-01,At risk,Plus,Organic,1,0.0,4,78.0,0
+U2700,2024-09-01,Returning,Plus,Email,16,0.0,1,468.0,0
+U2701,2024-10-01,Loyal,Plus,Paid,23,0.0,1,756.0,0
+U2702,2024-11-01,Loyal,Basic,Organic,10,0.0,1,474.0,0
+U2703,2024-12-01,Returning,Pro,Organic,21,0.0,0,702.0,0
+U2704,2024-07-01,Returning,Plus,Organic,13,0.0,0,468.0,0
+U2705,2025-04-01,At risk,Basic,Email,22,0.0,2,294.0,0
+U2706,2025-01-01,Loyal,Basic,Organic,7,0.0,0,474.0,0
+U2707,2024-09-01,Returning,Basic,Email,14,0.0,0,294.0,0
+U2708,2024-10-01,Returning,Pro,Organic,22,0.0,1,702.0,0
+U2709,2024-12-01,New,Plus,Email,2,0.0,1,92.0,0
+U2710,2024-07-01,Returning,Basic,Paid,18,0.0,1,294.0,0
+U2711,2024-12-01,Returning,Plus,Email,22,0.0,1,468.0,0
+U2712,2024-11-01,New,Basic,Paid,20,0.2,0,139.2,0
+U2713,2024-10-01,Returning,Basic,Organic,7,0.0,1,294.0,0
+U2714,2025-02-01,Returning,Plus,Organic,9,0.0,3,468.0,0
+U2715,2024-08-01,Loyal,Plus,Organic,17,0.0,1,756.0,0
+U2716,2024-08-01,New,Plus,Email,23,0.0,0,276.0,1
+U2717,2024-12-01,Loyal,Basic,Referral,6,0.0,1,474.0,0
+U2718,2024-10-01,Loyal,Plus,Paid,6,0.0,1,756.0,0
+U2719,2025-03-01,Loyal,Basic,Email,14,0.0,0,474.0,0
+U2720,2025-05-01,Loyal,Pro,Email,3,0.0,2,567.0,0
+U2721,2025-06-01,Returning,Basic,Email,20,0.0,0,294.0,0
+U2722,2025-04-01,New,Plus,Organic,14,0.0,1,276.0,1
+U2723,2024-09-01,Loyal,Plus,Email,5,0.0,2,630.0,0
+U2724,2025-06-01,Returning,Plus,Referral,15,0.0,0,468.0,0
+U2725,2025-04-01,Loyal,Basic,Paid,12,0.0,0,474.0,0
+U2726,2025-03-01,Loyal,Pro,Organic,4,0.0,0,756.0,0
+U2727,2024-07-01,At risk,Plus,Referral,10,0.1,3,421.2,0
+U2728,2024-07-01,Returning,Pro,Organic,10,0.0,1,702.0,1
+U2729,2025-03-01,At risk,Basic,Email,19,0.0,1,294.0,0
+U2730,2024-07-01,New,Basic,Email,6,0.2,0,139.2,0
+U2731,2024-07-01,Loyal,Basic,Organic,14,0.0,0,474.0,0
+U2732,2024-11-01,At risk,Basic,Email,4,0.0,3,196.0,0
+U2733,2025-04-01,New,Basic,Paid,7,0.0,0,174.0,0
+U2734,2024-12-01,Loyal,Basic,Organic,5,0.2,0,316.0,0
+U2735,2024-12-01,Returning,Basic,Email,19,0.2,0,235.2,0
+U2736,2024-09-01,New,Plus,Paid,13,0.0,1,276.0,0
+U2737,2025-05-01,Returning,Basic,Organic,3,0.0,1,147.0,0
+U2738,2024-11-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U2739,2025-03-01,At risk,Plus,Organic,22,0.0,1,468.0,1
+U2740,2024-09-01,Loyal,Basic,Paid,14,0.0,0,474.0,0
+U2741,2024-08-01,At risk,Basic,Paid,5,0.0,1,245.0,1
+U2742,2025-04-01,Returning,Basic,Email,14,0.0,1,294.0,1
+U2743,2024-07-01,New,Basic,Paid,12,0.0,2,174.0,0
+U2744,2025-01-01,New,Basic,Organic,15,0.0,1,174.0,0
+U2745,2025-02-01,Loyal,Basic,Email,14,0.0,1,474.0,0
+U2746,2024-12-01,At risk,Plus,Email,5,0.0,1,390.0,1
+U2747,2024-08-01,New,Basic,Referral,19,0.2,0,139.2,0
+U2748,2025-06-01,Returning,Plus,Organic,6,0.3,1,327.6,0
+U2749,2024-07-01,Loyal,Plus,Paid,8,0.0,1,756.0,0
+U2750,2025-06-01,Loyal,Pro,Organic,19,0.0,0,1134.0,0
+U2751,2024-09-01,Returning,Basic,Paid,10,0.0,0,294.0,0
+U2752,2025-01-01,At risk,Plus,Organic,18,0.0,2,468.0,0
+U2753,2024-07-01,Loyal,Basic,Organic,16,0.0,0,474.0,0
+U2754,2024-08-01,Returning,Basic,Referral,1,0.0,0,49.0,0
+U2755,2025-06-01,New,Basic,Email,17,0.2,2,139.2,0
+U2756,2024-07-01,Returning,Basic,Organic,7,0.0,1,294.0,0
+U2757,2025-02-01,Loyal,Plus,Email,5,0.0,0,630.0,0
+U2758,2025-05-01,Returning,Plus,Paid,19,0.3,1,327.6,0
+U2759,2025-04-01,Returning,Plus,Paid,10,0.0,0,468.0,0
+U2760,2025-02-01,New,Pro,Paid,10,0.1,2,372.6,0
+U2761,2025-04-01,Returning,Basic,Email,11,0.0,0,294.0,0
+U2762,2025-01-01,Loyal,Pro,Paid,21,0.0,0,1134.0,0
+U2763,2024-10-01,Returning,Pro,Email,8,0.0,0,702.0,0
+U2764,2025-02-01,Returning,Basic,Email,23,0.0,1,294.0,0
+U2765,2025-04-01,Returning,Plus,Email,1,0.0,0,78.0,0
+U2766,2024-09-01,Returning,Plus,Organic,14,0.0,1,468.0,0
+U2767,2025-06-01,Loyal,Pro,Paid,8,0.0,0,1134.0,0
+U2768,2025-01-01,New,Basic,Email,3,0.0,1,87.0,0
+U2769,2025-01-01,New,Basic,Email,14,0.0,1,174.0,0
+U2770,2025-02-01,At risk,Basic,Referral,1,0.1,4,44.1,1
+U2771,2025-02-01,At risk,Pro,Paid,18,0.0,3,702.0,0
+U2772,2024-11-01,Returning,Plus,Organic,14,0.0,1,468.0,0
+U2773,2024-09-01,Returning,Plus,Paid,6,0.0,1,468.0,0
+U2774,2024-09-01,Returning,Basic,Referral,7,0.0,1,294.0,0
+U2775,2024-07-01,New,Basic,Organic,11,0.2,0,139.2,0
+U2776,2025-02-01,Returning,Plus,Organic,22,0.0,0,468.0,0
+U2777,2024-11-01,At risk,Pro,Email,16,0.0,2,702.0,1
+U2778,2024-12-01,New,Basic,Referral,19,0.0,0,174.0,0
+U2779,2024-11-01,Returning,Plus,Email,7,0.0,1,468.0,1
+U2780,2025-02-01,New,Pro,Organic,3,0.0,0,207.0,0
+U2781,2025-01-01,New,Basic,Paid,13,0.0,0,174.0,0
+U2782,2025-01-01,Returning,Basic,Organic,19,0.0,0,294.0,0
+U2783,2024-10-01,At risk,Basic,Referral,8,0.0,1,294.0,0
+U2784,2025-06-01,Returning,Plus,Paid,21,0.0,0,468.0,0
+U2785,2025-06-01,Loyal,Plus,Paid,6,0.0,0,756.0,1
+U2786,2025-06-01,Returning,Plus,Referral,11,0.0,0,468.0,0
+U2787,2025-01-01,At risk,Plus,Organic,23,0.3,2,327.6,0
+U2788,2025-05-01,Returning,Basic,Referral,14,0.0,0,294.0,0
+U2789,2025-02-01,New,Pro,Referral,2,0.3,1,96.6,1
+U2790,2025-04-01,Loyal,Basic,Paid,9,0.0,0,474.0,0
+U2791,2024-10-01,Returning,Basic,Paid,22,0.0,2,294.0,0
+U2792,2024-12-01,Loyal,Basic,Email,15,0.0,0,474.0,0
+U2793,2024-10-01,New,Plus,Paid,19,0.0,0,276.0,0
+U2794,2024-12-01,Loyal,Basic,Paid,13,0.0,0,474.0,0
+U2795,2024-12-01,Loyal,Plus,Organic,22,0.0,0,756.0,0
+U2796,2025-04-01,At risk,Pro,Referral,23,0.0,2,702.0,0
+U2797,2024-07-01,Returning,Basic,Referral,3,0.0,1,147.0,0
+U2798,2024-09-01,New,Basic,Paid,20,0.0,0,174.0,1
+U2799,2025-04-01,Returning,Basic,Organic,18,0.0,0,294.0,0
+U2800,2025-03-01,New,Pro,Paid,5,0.0,0,345.0,0
+U2801,2025-01-01,At risk,Basic,Organic,11,0.0,1,294.0,0
+U2802,2024-10-01,At risk,Basic,Email,22,0.0,3,294.0,0
+U2803,2024-07-01,New,Basic,Organic,22,0.0,1,174.0,0
+U2804,2025-04-01,New,Basic,Organic,7,0.0,1,174.0,1
+U2805,2024-10-01,Returning,Plus,Paid,9,0.0,1,468.0,0
+U2806,2024-09-01,At risk,Pro,Paid,10,0.0,4,702.0,1
+U2807,2024-12-01,Returning,Plus,Referral,19,0.0,1,468.0,0
+U2808,2025-03-01,At risk,Plus,Referral,5,0.0,2,390.0,0
+U2809,2024-07-01,New,Plus,Organic,3,0.0,0,138.0,0
+U2810,2025-01-01,Returning,Basic,Paid,14,0.0,1,294.0,0
+U2811,2024-09-01,New,Basic,Paid,15,0.0,0,174.0,0
+U2812,2025-06-01,Returning,Pro,Organic,19,0.0,0,702.0,0
+U2813,2024-07-01,Loyal,Plus,Paid,23,0.0,3,756.0,0
+U2814,2024-08-01,Returning,Basic,Organic,6,0.0,0,294.0,0
+U2815,2024-12-01,Loyal,Pro,Email,10,0.0,1,1134.0,0
+U2816,2025-03-01,Returning,Basic,Email,5,0.0,0,245.0,0
+U2817,2024-09-01,New,Pro,Organic,5,0.0,2,345.0,0
+U2818,2025-05-01,Returning,Basic,Paid,3,0.0,2,147.0,0
+U2819,2024-07-01,Returning,Plus,Organic,18,0.0,0,468.0,0
+U2820,2024-11-01,Loyal,Basic,Paid,22,0.0,3,474.0,0
+U2821,2024-11-01,Returning,Plus,Organic,12,0.0,0,468.0,0
+U2822,2025-02-01,New,Basic,Organic,22,0.0,1,174.0,0
+U2823,2025-02-01,New,Basic,Paid,3,0.0,0,87.0,0
+U2824,2024-11-01,New,Plus,Email,1,0.0,0,46.0,0
+U2825,2025-06-01,Returning,Plus,Paid,14,0.0,1,468.0,0
+U2826,2024-11-01,Returning,Pro,Referral,11,0.0,0,702.0,0
+U2827,2024-07-01,Returning,Pro,Paid,1,0.0,0,117.0,0
+U2828,2024-12-01,Returning,Pro,Organic,1,0.0,0,117.0,0
+U2829,2025-03-01,New,Plus,Paid,4,0.0,1,184.0,0
+U2830,2025-01-01,Loyal,Plus,Paid,19,0.0,2,756.0,0
+U2831,2024-07-01,Loyal,Plus,Paid,16,0.0,1,756.0,0
+U2832,2025-06-01,New,Basic,Organic,21,0.2,0,139.2,0
+U2833,2024-10-01,New,Basic,Organic,21,0.0,1,174.0,0
+U2834,2024-08-01,Returning,Basic,Paid,23,0.0,0,294.0,0
+U2835,2025-06-01,New,Basic,Organic,6,0.3,0,121.8,0
+U2836,2025-04-01,Returning,Plus,Organic,13,0.0,2,468.0,0
+U2837,2025-02-01,New,Plus,Paid,16,0.0,0,276.0,0
+U2838,2025-06-01,At risk,Basic,Referral,14,0.0,2,294.0,0
+U2839,2025-06-01,At risk,Basic,Email,10,0.2,2,235.2,0
+U2840,2024-11-01,New,Plus,Paid,8,0.0,0,276.0,0
+U2841,2025-05-01,Returning,Plus,Organic,1,0.1,1,70.2,0
+U2842,2025-04-01,New,Pro,Paid,8,0.0,0,414.0,1
+U2843,2025-06-01,Loyal,Plus,Email,23,0.0,0,756.0,0
+U2844,2025-04-01,Returning,Plus,Paid,21,0.0,1,468.0,0
+U2845,2024-12-01,Loyal,Pro,Paid,15,0.0,0,1134.0,0
+U2846,2024-10-01,New,Basic,Organic,22,0.0,1,174.0,0
+U2847,2024-07-01,New,Pro,Paid,6,0.1,2,372.6,0
+U2848,2025-02-01,Returning,Pro,Referral,16,0.0,1,702.0,0
+U2849,2024-12-01,Returning,Plus,Organic,11,0.2,1,374.4,0
+U2850,2025-04-01,Loyal,Plus,Referral,3,0.0,0,378.0,0
+U2851,2025-02-01,New,Basic,Paid,3,0.0,0,87.0,0
+U2852,2025-03-01,At risk,Basic,Organic,21,0.2,0,235.2,1
+U2853,2025-06-01,Loyal,Basic,Organic,15,0.0,1,474.0,0
+U2854,2025-05-01,Loyal,Basic,Paid,1,0.0,2,79.0,1
+U2855,2025-03-01,New,Plus,Email,11,0.0,0,276.0,1
+U2856,2024-09-01,Returning,Basic,Email,15,0.0,0,294.0,0
+U2857,2025-03-01,Loyal,Pro,Email,14,0.0,0,1134.0,0
+U2858,2024-09-01,Loyal,Basic,Paid,20,0.0,0,474.0,0
+U2859,2024-08-01,At risk,Basic,Paid,7,0.0,2,294.0,1
+U2860,2025-03-01,New,Basic,Paid,22,0.0,0,174.0,0
+U2861,2025-03-01,Returning,Basic,Organic,12,0.0,0,294.0,0
+U2862,2024-12-01,Returning,Basic,Referral,5,0.2,1,196.0,0
+U2863,2025-02-01,Returning,Pro,Paid,5,0.0,1,585.0,0
+U2864,2025-01-01,Loyal,Basic,Organic,10,0.0,1,474.0,0
+U2865,2025-02-01,Returning,Plus,Organic,13,0.0,1,468.0,0
+U2866,2024-11-01,New,Basic,Email,19,0.0,2,174.0,0
+U2867,2024-07-01,New,Plus,Paid,14,0.0,0,276.0,0
+U2868,2025-02-01,New,Basic,Paid,17,0.0,1,174.0,0
+U2869,2025-05-01,New,Basic,Email,6,0.0,0,174.0,1
+U2870,2024-12-01,New,Basic,Referral,17,0.0,0,174.0,0
+U2871,2024-11-01,Returning,Basic,Paid,16,0.0,2,294.0,1
+U2872,2024-07-01,At risk,Basic,Email,15,0.0,4,294.0,0
+U2873,2025-06-01,Returning,Basic,Paid,4,0.0,0,196.0,0
+U2874,2024-07-01,New,Pro,Organic,2,0.0,0,138.0,0
+U2875,2025-05-01,At risk,Basic,Paid,7,0.0,1,294.0,0
+U2876,2024-10-01,Returning,Basic,Email,14,0.0,2,294.0,0
+U2877,2024-10-01,Returning,Basic,Paid,21,0.0,0,294.0,0
+U2878,2025-02-01,At risk,Basic,Paid,12,0.3,4,205.8,1
+U2879,2024-09-01,Loyal,Basic,Email,14,0.0,1,474.0,0
+U2880,2025-03-01,Returning,Plus,Email,14,0.0,0,468.0,0
+U2881,2024-12-01,Loyal,Plus,Paid,4,0.0,2,504.0,0
+U2882,2025-02-01,New,Basic,Email,23,0.0,2,174.0,0
+U2883,2025-05-01,New,Basic,Organic,14,0.0,1,174.0,1
+U2884,2025-06-01,At risk,Basic,Organic,20,0.0,2,294.0,0
+U2885,2024-07-01,At risk,Basic,Paid,5,0.0,1,245.0,1
+U2886,2024-12-01,Loyal,Pro,Paid,13,0.0,0,1134.0,0
+U2887,2025-03-01,New,Basic,Organic,17,0.0,1,174.0,0
+U2888,2025-02-01,At risk,Basic,Paid,21,0.0,0,294.0,1
+U2889,2025-05-01,Returning,Plus,Paid,4,0.0,0,312.0,0
+U2890,2024-12-01,Returning,Pro,Paid,5,0.0,1,585.0,0
+U2891,2025-05-01,At risk,Plus,Paid,10,0.2,2,374.4,1
+U2892,2025-06-01,Loyal,Basic,Referral,10,0.0,3,474.0,0
+U2893,2025-03-01,Returning,Plus,Organic,15,0.0,1,468.0,1
+U2894,2024-11-01,At risk,Plus,Referral,22,0.3,2,327.6,0
+U2895,2025-06-01,Loyal,Basic,Paid,18,0.0,0,474.0,0
+U2896,2024-11-01,Returning,Basic,Paid,10,0.0,0,294.0,0
+U2897,2025-05-01,New,Plus,Email,12,0.1,0,248.4,0
+U2898,2024-07-01,Returning,Basic,Organic,3,0.0,0,147.0,0
+U2899,2024-12-01,Loyal,Basic,Email,8,0.0,0,474.0,0
+U2900,2025-06-01,Returning,Plus,Referral,18,0.0,1,468.0,0
+U2901,2024-09-01,At risk,Basic,Organic,14,0.3,4,205.8,1
+U2902,2025-04-01,At risk,Pro,Email,15,0.0,2,702.0,0
+U2903,2025-03-01,At risk,Basic,Email,23,0.2,3,235.2,1
+U2904,2025-02-01,Loyal,Basic,Email,15,0.2,1,379.2,0
+U2905,2025-02-01,At risk,Plus,Email,20,0.1,3,421.2,1
+U2906,2025-02-01,Loyal,Plus,Referral,4,0.0,0,504.0,0
+U2907,2025-05-01,Loyal,Basic,Email,21,0.0,0,474.0,0
+U2908,2025-02-01,New,Pro,Paid,8,0.3,0,289.8,1
+U2909,2025-02-01,New,Plus,Paid,1,0.0,2,46.0,0
+U2910,2025-01-01,New,Basic,Organic,13,0.1,1,156.6,0
+U2911,2024-09-01,Returning,Basic,Paid,21,0.0,0,294.0,1
+U2912,2024-11-01,Returning,Plus,Email,12,0.1,2,421.2,0
+U2913,2025-01-01,Returning,Pro,Paid,23,0.0,1,702.0,0
+U2914,2025-01-01,Loyal,Pro,Organic,14,0.0,1,1134.0,0
+U2915,2024-09-01,New,Basic,Email,1,0.1,0,26.1,0
+U2916,2024-10-01,New,Pro,Email,22,0.0,0,414.0,0
+U2917,2024-11-01,Returning,Basic,Email,5,0.0,0,245.0,1
+U2918,2025-02-01,Loyal,Basic,Paid,2,0.0,0,158.0,0
+U2919,2024-09-01,Returning,Basic,Organic,12,0.0,1,294.0,0
+U2920,2025-02-01,Loyal,Basic,Paid,8,0.0,1,474.0,0
+U2921,2024-07-01,New,Basic,Paid,21,0.0,1,174.0,0
+U2922,2024-08-01,At risk,Basic,Organic,18,0.1,3,264.6,1
+U2923,2025-02-01,Loyal,Pro,Referral,2,0.0,0,378.0,0
+U2924,2025-01-01,At risk,Basic,Paid,15,0.0,3,294.0,0
+U2925,2025-06-01,Loyal,Basic,Email,4,0.0,0,316.0,0
+U2926,2024-10-01,At risk,Basic,Paid,12,0.0,1,294.0,1
+U2927,2024-10-01,Returning,Basic,Email,5,0.0,0,245.0,1
+U2928,2025-05-01,New,Plus,Paid,11,0.0,0,276.0,0
+U2929,2024-12-01,New,Plus,Organic,23,0.2,0,220.8,0
+U2930,2024-08-01,Returning,Basic,Email,6,0.0,0,294.0,1
+U2931,2025-03-01,New,Plus,Organic,19,0.0,0,276.0,0
+U2932,2025-02-01,Returning,Basic,Referral,3,0.0,3,147.0,0
+U2933,2025-01-01,Loyal,Basic,Organic,13,0.0,0,474.0,0
+U2934,2024-11-01,Loyal,Basic,Paid,17,0.1,0,426.6,0
+U2935,2024-12-01,Loyal,Basic,Organic,21,0.0,0,474.0,0
+U2936,2025-03-01,Loyal,Basic,Paid,21,0.0,1,474.0,0
+U2937,2025-06-01,New,Pro,Referral,1,0.0,0,69.0,0
+U2938,2025-02-01,At risk,Plus,Organic,20,0.0,1,468.0,1
+U2939,2024-07-01,At risk,Basic,Email,2,0.0,1,98.0,0
+U2940,2024-10-01,At risk,Basic,Paid,8,0.2,1,235.2,0
+U2941,2025-05-01,Returning,Basic,Organic,22,0.0,0,294.0,0
+U2942,2024-10-01,At risk,Basic,Organic,10,0.0,6,294.0,0
+U2943,2025-03-01,New,Basic,Referral,14,0.0,0,174.0,0
+U2944,2025-01-01,At risk,Basic,Referral,11,0.0,3,294.0,0
+U2945,2025-03-01,Returning,Basic,Referral,18,0.0,3,294.0,0
+U2946,2024-09-01,New,Pro,Organic,18,0.0,2,414.0,0
+U2947,2025-03-01,At risk,Basic,Referral,7,0.0,1,294.0,0
+U2948,2024-08-01,Returning,Basic,Organic,5,0.0,1,245.0,0
+U2949,2025-01-01,Loyal,Basic,Organic,12,0.0,1,474.0,0
+U2950,2025-03-01,New,Basic,Organic,13,0.2,1,139.2,0
+U2951,2024-07-01,Loyal,Basic,Organic,2,0.0,0,158.0,0
+U2952,2024-08-01,Loyal,Basic,Referral,9,0.0,0,474.0,0
+U2953,2024-07-01,Loyal,Plus,Email,18,0.0,0,756.0,0
+U2954,2025-05-01,New,Basic,Organic,1,0.0,0,29.0,1
+U2955,2025-05-01,Loyal,Pro,Referral,19,0.0,0,1134.0,0
+U2956,2024-09-01,New,Basic,Paid,13,0.0,2,174.0,0
+U2957,2024-08-01,Loyal,Basic,Paid,7,0.0,0,474.0,0
+U2958,2024-12-01,Loyal,Plus,Organic,2,0.0,1,252.0,0
+U2959,2025-03-01,Loyal,Plus,Email,4,0.0,1,504.0,0
+U2960,2025-03-01,Loyal,Basic,Email,20,0.0,0,474.0,0
+U2961,2024-08-01,At risk,Basic,Organic,21,0.0,4,294.0,1
+U2962,2024-10-01,Returning,Basic,Organic,17,0.0,0,294.0,0
+U2963,2024-12-01,Loyal,Basic,Paid,6,0.0,0,474.0,0
+U2964,2025-05-01,Loyal,Plus,Paid,14,0.0,1,756.0,0
+U2965,2025-04-01,At risk,Plus,Email,19,0.0,1,468.0,0
+U2966,2024-07-01,Loyal,Plus,Organic,10,0.0,0,756.0,0
+U2967,2025-02-01,Returning,Basic,Organic,22,0.0,1,294.0,0
+U2968,2024-07-01,Loyal,Basic,Paid,17,0.0,0,474.0,0
+U2969,2024-12-01,New,Basic,Email,19,0.0,1,174.0,0
+U2970,2025-01-01,Returning,Plus,Organic,11,0.0,0,468.0,0
+U2971,2024-07-01,New,Basic,Organic,6,0.0,0,174.0,0
+U2972,2025-03-01,Loyal,Plus,Paid,13,0.0,0,756.0,0
+U2973,2025-06-01,At risk,Plus,Organic,17,0.0,2,468.0,1
+U2974,2025-04-01,New,Plus,Referral,20,0.0,0,276.0,0
+U2975,2024-11-01,At risk,Plus,Organic,9,0.2,2,374.4,1
+U2976,2025-05-01,New,Pro,Referral,18,0.0,0,414.0,0
+U2977,2024-12-01,New,Plus,Paid,12,0.0,0,276.0,1
+U2978,2025-05-01,New,Basic,Referral,11,0.0,1,174.0,0
+U2979,2024-12-01,Loyal,Plus,Referral,9,0.0,1,756.0,0
+U2980,2024-11-01,New,Plus,Email,19,0.0,0,276.0,1
+U2981,2025-03-01,Returning,Basic,Email,19,0.0,1,294.0,1
+U2982,2024-11-01,Returning,Basic,Referral,9,0.0,1,294.0,0
+U2983,2024-10-01,New,Pro,Email,7,0.0,1,414.0,1
+U2984,2025-05-01,Loyal,Basic,Paid,11,0.0,0,474.0,0
+U2985,2024-11-01,New,Basic,Organic,22,0.0,0,174.0,0
+U2986,2025-06-01,New,Plus,Organic,7,0.0,2,276.0,0
+U2987,2025-03-01,Returning,Basic,Paid,21,0.2,1,235.2,0
+U2988,2025-06-01,Returning,Basic,Paid,13,0.0,1,294.0,1
+U2989,2025-01-01,New,Basic,Email,13,0.2,0,139.2,0
+U2990,2024-07-01,Loyal,Basic,Referral,18,0.0,0,474.0,0
+U2991,2025-01-01,Returning,Plus,Email,4,0.0,1,312.0,0
+U2992,2024-09-01,New,Plus,Organic,6,0.0,0,276.0,0
+U2993,2025-06-01,Returning,Basic,Paid,3,0.2,0,117.6,0
+U2994,2024-11-01,Returning,Plus,Email,23,0.2,1,374.4,0
+U2995,2025-04-01,Loyal,Plus,Organic,3,0.0,1,378.0,0
+U2996,2025-05-01,Returning,Basic,Referral,23,0.0,0,294.0,0
+U2997,2024-07-01,New,Pro,Email,6,0.0,1,414.0,0
+U2998,2025-04-01,Loyal,Basic,Referral,21,0.0,1,474.0,1
+U2999,2025-01-01,Returning,Basic,Organic,9,0.0,1,294.0,0
+U3000,2025-03-01,At risk,Basic,Email,4,0.0,3,196.0,0
+U3001,2024-07-01,Loyal,Pro,Organic,18,0.0,0,1134.0,0
+U3002,2024-07-01,At risk,Plus,Organic,8,0.0,5,468.0,1
+U3003,2025-04-01,At risk,Plus,Paid,16,0.3,4,327.6,1
+U3004,2024-10-01,New,Plus,Email,16,0.1,1,248.4,1
+U3005,2024-11-01,At risk,Basic,Organic,10,0.3,2,205.8,1
+U3006,2025-04-01,New,Plus,Organic,23,0.0,1,276.0,0
+U3007,2024-07-01,At risk,Basic,Paid,12,0.0,4,294.0,0
+U3008,2025-01-01,New,Basic,Paid,13,0.0,0,174.0,0
+U3009,2024-08-01,At risk,Basic,Organic,20,0.0,4,294.0,0
+U3010,2025-01-01,New,Pro,Paid,21,0.0,1,414.0,0
+U3011,2025-02-01,Returning,Plus,Paid,15,0.0,0,468.0,0
+U3012,2025-01-01,New,Basic,Organic,22,0.0,0,174.0,0
+U3013,2024-12-01,Returning,Pro,Paid,17,0.0,0,702.0,0
+U3014,2024-07-01,Returning,Basic,Paid,17,0.0,1,294.0,0
+U3015,2025-01-01,New,Basic,Email,6,0.0,0,174.0,0
+U3016,2024-10-01,New,Plus,Email,7,0.0,2,276.0,1
+U3017,2025-02-01,Returning,Pro,Paid,17,0.0,1,702.0,0
+U3018,2024-08-01,Loyal,Pro,Organic,9,0.0,2,1134.0,0
+U3019,2024-10-01,New,Basic,Referral,23,0.0,0,174.0,0
+U3020,2025-03-01,New,Basic,Organic,1,0.0,0,29.0,0
+U3021,2024-08-01,Returning,Plus,Paid,13,0.0,1,468.0,1
+U3022,2025-04-01,Loyal,Pro,Paid,3,0.0,2,567.0,0
+U3023,2024-12-01,Returning,Plus,Organic,1,0.0,0,78.0,0
+U3024,2025-01-01,Returning,Basic,Email,14,0.0,1,294.0,0
+U3025,2024-12-01,Loyal,Basic,Organic,23,0.0,1,474.0,0
+U3026,2025-06-01,At risk,Plus,Referral,20,0.0,3,468.0,0
+U3027,2024-12-01,Returning,Basic,Organic,18,0.0,1,294.0,0
+U3028,2024-10-01,Returning,Basic,Referral,2,0.0,1,98.0,0
+U3029,2024-11-01,At risk,Basic,Paid,9,0.0,4,294.0,0
+U3030,2025-02-01,At risk,Plus,Paid,16,0.3,4,327.6,1
+U3031,2024-08-01,New,Plus,Organic,18,0.0,0,276.0,1
+U3032,2025-05-01,At risk,Plus,Paid,4,0.0,4,312.0,1
+U3033,2024-09-01,Loyal,Plus,Paid,18,0.0,0,756.0,0
+U3034,2024-12-01,Returning,Basic,Paid,2,0.0,0,98.0,0
+U3035,2025-04-01,Loyal,Plus,Email,11,0.0,0,756.0,0
+U3036,2025-06-01,Loyal,Pro,Organic,10,0.0,1,1134.0,0
+U3037,2024-11-01,New,Basic,Referral,4,0.2,0,92.8,0
+U3038,2025-06-01,New,Pro,Paid,18,0.0,0,414.0,0
+U3039,2025-03-01,Returning,Basic,Paid,6,0.0,0,294.0,0
+U3040,2024-08-01,New,Plus,Paid,8,0.0,0,276.0,0
+U3041,2024-08-01,Returning,Basic,Paid,12,0.0,2,294.0,0
+U3042,2024-09-01,Returning,Plus,Paid,4,0.2,0,249.6,0
+U3043,2024-11-01,New,Basic,Email,7,0.0,0,174.0,0
+U3044,2024-10-01,At risk,Plus,Paid,1,0.0,3,78.0,1
+U3045,2024-10-01,Loyal,Plus,Referral,21,0.0,0,756.0,0
+U3046,2025-03-01,Returning,Pro,Organic,12,0.2,1,561.6,0
+U3047,2024-10-01,Returning,Plus,Email,1,0.0,1,78.0,0
+U3048,2025-05-01,New,Pro,Paid,8,0.0,0,414.0,0
+U3049,2024-11-01,New,Plus,Email,7,0.3,0,193.2,0
+U3050,2025-03-01,Returning,Basic,Paid,5,0.1,2,220.5,0
+U3051,2025-01-01,New,Basic,Organic,14,0.0,0,174.0,1
+U3052,2024-10-01,Loyal,Basic,Paid,19,0.0,1,474.0,0
+U3053,2025-05-01,New,Plus,Organic,14,0.2,1,220.8,0
+U3054,2025-04-01,Loyal,Plus,Paid,6,0.0,3,756.0,0
+U3055,2025-02-01,Returning,Plus,Paid,10,0.0,1,468.0,0
+U3056,2025-01-01,New,Plus,Email,12,0.0,1,276.0,0
+U3057,2024-09-01,Loyal,Plus,Email,4,0.0,1,504.0,0
+U3058,2024-09-01,At risk,Plus,Organic,19,0.3,1,327.6,0
+U3059,2025-01-01,At risk,Pro,Paid,13,0.0,1,702.0,0
+U3060,2024-10-01,Loyal,Plus,Email,14,0.0,0,756.0,0
+U3061,2025-06-01,Returning,Basic,Email,4,0.0,0,196.0,0
+U3062,2024-11-01,At risk,Plus,Paid,13,0.2,4,374.4,0
+U3063,2024-08-01,New,Plus,Referral,13,0.0,0,276.0,0
+U3064,2024-10-01,Returning,Basic,Paid,14,0.0,1,294.0,0
+U3065,2024-11-01,New,Basic,Referral,6,0.0,0,174.0,0
+U3066,2024-07-01,Loyal,Pro,Referral,1,0.0,0,189.0,0
+U3067,2025-06-01,New,Basic,Organic,6,0.0,0,174.0,1
+U3068,2025-06-01,Returning,Basic,Email,22,0.0,0,294.0,0
+U3069,2024-08-01,Returning,Plus,Referral,1,0.0,2,78.0,0
+U3070,2024-09-01,At risk,Pro,Paid,8,0.2,6,561.6,1
+U3071,2024-11-01,Loyal,Basic,Organic,3,0.0,0,237.0,0
+U3072,2025-05-01,Returning,Basic,Organic,15,0.0,1,294.0,0
+U3073,2024-07-01,New,Pro,Email,23,0.0,1,414.0,0
+U3074,2025-01-01,Returning,Pro,Email,5,0.3,1,409.5,0
+U3075,2024-12-01,New,Basic,Paid,20,0.0,0,174.0,1
+U3076,2025-01-01,Returning,Basic,Referral,3,0.0,0,147.0,0
+U3077,2025-06-01,Loyal,Basic,Organic,14,0.0,1,474.0,0
+U3078,2025-04-01,At risk,Basic,Referral,20,0.2,3,235.2,0
+U3079,2024-11-01,New,Plus,Referral,17,0.0,1,276.0,0
+U3080,2025-04-01,Loyal,Plus,Organic,8,0.0,0,756.0,0
+U3081,2024-09-01,Returning,Basic,Email,10,0.0,0,294.0,0
+U3082,2025-03-01,Returning,Basic,Paid,2,0.3,1,68.6,1
+U3083,2025-06-01,Returning,Basic,Paid,1,0.0,0,49.0,0
+U3084,2024-07-01,Returning,Plus,Organic,11,0.0,0,468.0,0
+U3085,2024-07-01,At risk,Basic,Organic,13,0.0,2,294.0,0
+U3086,2024-11-01,Returning,Basic,Paid,14,0.0,0,294.0,0
+U3087,2024-11-01,New,Basic,Email,17,0.1,0,156.6,0
+U3088,2025-05-01,New,Plus,Organic,13,0.0,0,276.0,1
+U3089,2024-12-01,Loyal,Basic,Organic,12,0.0,1,474.0,0
+U3090,2024-09-01,New,Plus,Organic,8,0.0,3,276.0,0
+U3091,2025-04-01,Returning,Pro,Paid,8,0.0,0,702.0,0
+U3092,2025-01-01,At risk,Basic,Referral,2,0.2,2,78.4,0
+U3093,2025-03-01,New,Basic,Referral,15,0.0,0,174.0,0
+U3094,2025-06-01,Returning,Basic,Paid,1,0.3,0,34.3,0
+U3095,2024-11-01,At risk,Basic,Email,7,0.3,1,205.8,0
+U3096,2024-07-01,New,Plus,Email,20,0.0,0,276.0,0
+U3097,2025-03-01,At risk,Plus,Organic,23,0.0,1,468.0,0
+U3098,2025-02-01,New,Basic,Paid,22,0.0,0,174.0,0
+U3099,2024-10-01,New,Basic,Referral,11,0.0,0,174.0,0
+U3100,2025-01-01,Loyal,Plus,Referral,2,0.2,2,201.6,1
+U3101,2025-05-01,New,Plus,Organic,1,0.2,0,36.8,0
+U3102,2024-11-01,Returning,Pro,Referral,5,0.0,1,585.0,0
+U3103,2024-12-01,Returning,Plus,Paid,8,0.1,2,421.2,0
+U3104,2024-11-01,Loyal,Plus,Paid,11,0.0,0,756.0,0
+U3105,2024-12-01,New,Plus,Paid,16,0.1,1,248.4,0
+U3106,2024-07-01,At risk,Basic,Paid,6,0.0,1,294.0,0
+U3107,2024-10-01,Returning,Basic,Organic,8,0.0,0,294.0,0
+U3108,2024-07-01,New,Basic,Paid,8,0.3,1,121.8,1
+U3109,2025-04-01,Returning,Plus,Paid,5,0.0,0,390.0,0
+U3110,2025-03-01,Returning,Plus,Paid,7,0.0,1,468.0,0
+U3111,2024-07-01,At risk,Basic,Organic,8,0.0,0,294.0,1
+U3112,2025-05-01,New,Basic,Email,7,0.0,0,174.0,0
+U3113,2024-12-01,Returning,Plus,Email,17,0.0,0,468.0,0
+U3114,2025-01-01,Returning,Basic,Paid,18,0.0,0,294.0,0
+U3115,2025-03-01,New,Pro,Paid,13,0.0,1,414.0,1
+U3116,2025-01-01,New,Basic,Paid,23,0.0,0,174.0,0
+U3117,2025-05-01,Returning,Pro,Organic,4,0.0,0,468.0,1
+U3118,2025-01-01,Returning,Pro,Referral,21,0.0,0,702.0,0
+U3119,2024-08-01,New,Plus,Paid,11,0.0,0,276.0,1
+U3120,2025-03-01,At risk,Plus,Paid,19,0.1,2,421.2,1
+U3121,2025-01-01,Returning,Plus,Organic,7,0.0,1,468.0,0
+U3122,2025-01-01,New,Plus,Organic,10,0.0,1,276.0,1
+U3123,2024-07-01,Returning,Plus,Paid,22,0.0,1,468.0,0
+U3124,2024-12-01,Returning,Basic,Email,5,0.0,0,245.0,0
+U3125,2024-11-01,Returning,Basic,Referral,13,0.0,0,294.0,0
+U3126,2024-10-01,New,Plus,Paid,23,0.0,0,276.0,0
+U3127,2024-08-01,New,Basic,Email,11,0.0,2,174.0,0
+U3128,2024-08-01,At risk,Plus,Referral,22,0.0,3,468.0,0
+U3129,2025-01-01,Returning,Pro,Paid,10,0.0,1,702.0,0
+U3130,2024-09-01,Returning,Plus,Paid,22,0.0,2,468.0,0
+U3131,2024-10-01,At risk,Plus,Email,17,0.0,5,468.0,0
+U3132,2025-03-01,New,Plus,Organic,8,0.2,1,220.8,0
+U3133,2024-09-01,Returning,Basic,Paid,12,0.0,0,294.0,0
+U3134,2025-05-01,Returning,Plus,Organic,9,0.1,0,421.2,0
+U3135,2025-05-01,Loyal,Pro,Email,6,0.0,0,1134.0,0
+U3136,2024-12-01,At risk,Basic,Paid,6,0.0,4,294.0,1
+U3137,2024-10-01,Returning,Basic,Paid,20,0.0,0,294.0,0
+U3138,2024-10-01,Returning,Basic,Paid,20,0.0,0,294.0,0
+U3139,2024-12-01,Returning,Basic,Organic,11,0.0,1,294.0,0
+U3140,2025-04-01,Returning,Pro,Organic,23,0.0,1,702.0,0
+U3141,2024-09-01,Loyal,Plus,Paid,18,0.0,1,756.0,0
+U3142,2025-04-01,New,Basic,Referral,19,0.0,0,174.0,0
+U3143,2024-12-01,Returning,Plus,Email,19,0.1,0,421.2,1
+U3144,2025-06-01,New,Basic,Organic,11,0.0,0,174.0,1
+U3145,2025-01-01,New,Basic,Referral,5,0.0,4,145.0,1
+U3146,2024-10-01,Loyal,Plus,Paid,13,0.0,0,756.0,0
+U3147,2025-06-01,New,Plus,Email,18,0.0,0,276.0,0
+U3148,2024-08-01,Returning,Basic,Paid,16,0.0,1,294.0,0
+U3149,2024-08-01,New,Plus,Paid,10,0.0,1,276.0,0
+U3150,2024-08-01,New,Basic,Referral,10,0.2,1,139.2,0
+U3151,2024-08-01,New,Basic,Email,2,0.0,0,58.0,0
+U3152,2024-10-01,Returning,Pro,Paid,17,0.0,0,702.0,0
+U3153,2025-01-01,Loyal,Basic,Referral,21,0.0,3,474.0,0
+U3154,2024-12-01,Loyal,Plus,Referral,7,0.0,0,756.0,0
+U3155,2024-10-01,At risk,Plus,Organic,2,0.0,1,156.0,1
+U3156,2025-01-01,Loyal,Basic,Referral,20,0.0,0,474.0,0
+U3157,2024-10-01,New,Pro,Paid,10,0.0,0,414.0,0
+U3158,2025-02-01,Returning,Pro,Paid,16,0.0,0,702.0,0
+U3159,2024-10-01,Returning,Basic,Organic,11,0.1,1,264.6,0
+U3160,2025-06-01,Returning,Plus,Organic,15,0.0,0,468.0,0
+U3161,2024-09-01,New,Plus,Paid,1,0.0,1,46.0,0
+U3162,2024-10-01,New,Basic,Paid,5,0.2,0,116.0,0
+U3163,2024-09-01,New,Pro,Paid,15,0.0,0,414.0,1
+U3164,2025-06-01,New,Basic,Organic,19,0.0,0,174.0,1
+U3165,2025-04-01,At risk,Basic,Paid,5,0.0,1,245.0,0
+U3166,2024-10-01,Returning,Basic,Organic,7,0.0,0,294.0,0
+U3167,2025-01-01,Returning,Basic,Email,1,0.0,0,49.0,1
+U3168,2025-05-01,Returning,Basic,Referral,6,0.0,0,294.0,0
+U3169,2025-03-01,Loyal,Plus,Paid,12,0.0,1,756.0,0
+U3170,2025-02-01,New,Basic,Email,4,0.0,1,116.0,0
+U3171,2024-08-01,At risk,Basic,Organic,6,0.0,2,294.0,1
+U3172,2025-05-01,Loyal,Pro,Paid,23,0.2,0,907.2,0
+U3173,2025-06-01,Loyal,Pro,Email,19,0.0,0,1134.0,0
+U3174,2024-09-01,New,Basic,Paid,14,0.0,1,174.0,0
+U3175,2025-06-01,Returning,Pro,Organic,10,0.0,1,702.0,0
+U3176,2024-11-01,At risk,Plus,Organic,17,0.3,1,327.6,0
+U3177,2024-11-01,New,Plus,Organic,23,0.0,0,276.0,0
+U3178,2024-09-01,At risk,Pro,Paid,12,0.0,3,702.0,1
+U3179,2025-03-01,Returning,Basic,Paid,3,0.0,2,147.0,0
+U3180,2025-02-01,Returning,Basic,Referral,19,0.0,1,294.0,0
+U3181,2024-11-01,New,Plus,Email,7,0.1,1,248.4,0
+U3182,2024-10-01,New,Basic,Paid,20,0.0,1,174.0,0
+U3183,2024-09-01,At risk,Basic,Email,3,0.0,2,147.0,1
+U3184,2024-09-01,Loyal,Plus,Organic,11,0.0,2,756.0,0
+U3185,2025-05-01,At risk,Plus,Email,2,0.0,2,156.0,0
+U3186,2025-01-01,At risk,Plus,Referral,3,0.0,1,234.0,0
+U3187,2024-08-01,New,Plus,Referral,18,0.2,1,220.8,0
+U3188,2025-04-01,Returning,Basic,Referral,13,0.0,1,294.0,0
+U3189,2024-09-01,Loyal,Pro,Organic,2,0.0,1,378.0,0
+U3190,2024-11-01,New,Basic,Organic,17,0.0,0,174.0,0
+U3191,2024-11-01,Returning,Plus,Paid,9,0.0,0,468.0,0
+U3192,2025-04-01,At risk,Pro,Referral,23,0.0,3,702.0,0
+U3193,2025-05-01,At risk,Plus,Paid,16,0.2,4,374.4,0
+U3194,2025-04-01,At risk,Plus,Email,22,0.0,2,468.0,1
+U3195,2025-04-01,Returning,Basic,Referral,12,0.0,0,294.0,0
+U3196,2024-09-01,Loyal,Pro,Referral,20,0.0,0,1134.0,0
+U3197,2025-05-01,Returning,Pro,Paid,16,0.0,0,702.0,0
+U3198,2025-04-01,Returning,Basic,Referral,1,0.0,0,49.0,0
+U3199,2025-04-01,At risk,Plus,Paid,23,0.0,5,468.0,1
+U3200,2024-10-01,New,Basic,Paid,11,0.0,0,174.0,0
